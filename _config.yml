@@ -9,6 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.cancervaccine.org.uk/" # the base hostname & protocol for your site
 twitter_username: thecvinstitute
+telephone: 0845 6020662
 
 # Build settings
 markdown: kramdown
