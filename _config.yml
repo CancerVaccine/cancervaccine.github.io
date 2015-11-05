@@ -1,20 +1,20 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Cancer Vaccine Institute
+email: webmaster@cancervaccine.org.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Cancer Vaccine Institute (CVI) funds research into the use of vaccines and
+  immunotherapy for the treatment of cancer. Our vision is that cancer vaccines
+  will become a standard treatment and improve survival rates and patients’
+  quality of life for a wide range of cancers.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.cancervaccine.org.uk/" # the base hostname & protocol for your site
+twitter_username: thecvinstitute
 
 # Build settings
 markdown: kramdown
 
 # Pretty URL
-permalink: "posts/:title"
+permalink: "news/:title"
 
 # Custom categories
 categories: [navbar]
