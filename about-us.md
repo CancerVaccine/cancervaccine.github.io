@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Us
+permalink: /about-us/
 categories: [navbar]
 ---
 
