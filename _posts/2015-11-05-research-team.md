@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Office team"
+title:  "Research Team"
 date:   2015-11-05 20:30:00
 ---
 
 TODO: change layout
 
-# Office team
+# Research Team
 
 ### Andrew Gravett 
 Andy is a research assistant who is currently doing a part-time PhD. His reseach explores how some drugs commonly used in cancer therapy can be used to stimulate the immune response. 

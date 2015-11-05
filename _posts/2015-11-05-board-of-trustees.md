@@ -9,7 +9,7 @@ TODO: change layout
 # Board of Trustees
 
 #### Guy Sangster
-![](/assets/board-of-trustees/guy-sangster.png)
+![](/assets/images/board-of-trustees/guy-sangster.png)
 
 Guy is one of the founding Trustees of the Cancer Vaccine Institute. 
 
