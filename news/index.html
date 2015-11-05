@@ -1,0 +1,20 @@
+---
+layout: page
+title: News
+permalink: /news/
+categories: [navbar]
+---
+
+<p>Read all about our latest updates:</p>
+
+<ul class="list-unstyled">
+  {% for post in site.posts %}
+    <li>
+      <div class="page-header">
+        <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <small>{{ post.date | date: "%b %-d, %Y" }}</small></h2>
+      </div>
+    </li>
+  {% endfor %}
+</ul>
+
+<p>Subscribe to these posts <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>.</p>
