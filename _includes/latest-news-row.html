@@ -1,25 +1,23 @@
-<div class="container">
-  <div class="row">
-    <div class="col-md-10">
-      <span class="h2">Latest News</span>
-    </div>
-    <div class="col-md-2">
-      <a class="btn btn-primary" href="/news/" role="button">More news &raquo;</a>
-    </div>
+<div class="row">
+  <div class="col-md-10">
+    <span class="h2">Latest News</span>
   </div>
-  <div class="row">
-    {% for post in site.posts limit:3 %}
-    <div class="col-md-4">
-      <h2>{{ post.title }}</h2>
-      <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-    </div>
-    {% endfor %}
+  <div class="col-md-2">
+    <a class="btn btn-primary" href="/news/" role="button">More news &raquo;</a>
   </div>
-  <div class="row">
-    {% for post in site.posts limit:3 %}
-    <div class="col-md-4">
-      <p><a href="{{ post.url | prepend: site.baseurl }}" role="button">Read more &raquo;</a></p>
-    </div>
-    {% endfor %}
+</div>
+<div class="row">
+  {% for post in site.posts limit:3 %}
+  <div class="col-md-4">
+    <h2>{{ post.title }}</h2>
+    <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
   </div>
+  {% endfor %}
+</div>
+<div class="row">
+  {% for post in site.posts limit:3 %}
+  <div class="col-md-4">
+    <p><a href="{{ post.url | prepend: site.baseurl }}" role="button">Read more &raquo;</a></p>
+  </div>
+  {% endfor %}
 </div>
