@@ -23,6 +23,7 @@ $brand-success:         #7DBAE2;
 $brand-info:            #3498db;
 $brand-warning:         #F39C12;
 $brand-danger:          #E74C3C;
+$brand-altrow:          #81C3DD;
 
 
 //== Scaffolding
@@ -857,3 +858,22 @@ $page-header-border-color:    transparent;
 $dl-horizontal-offset:        $component-offset-horizontal;
 //** Horizontal line color.
 $hr-border:                   $gray-lighter;
+
+.altrow {
+  background: $brand-altrow;
+  color: #FFF;
+
+  padding: $padding-large-vertical 0;
+
+  a {
+    color: $brand-primary;
+
+    &:hover {
+      color: #FFF;
+    }
+
+    &.btn-primary {
+      color: #FFF;
+    }
+  }
+}

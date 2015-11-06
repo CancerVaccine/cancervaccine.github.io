@@ -6,7 +6,8 @@
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
   "bootstrap-custom-variables", // Custom variables must load before bootstrap.
-  "bootstrap"
+  "bootstrap",
+  "includes/_latest-news-row"
 ;
 
 @import url("//fonts.googleapis.com/css?family=Lato:400,700,400italic");
