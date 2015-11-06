@@ -1,23 +1,43 @@
 ---
 title: Welcome to the Cancer Vaccine Institute
-layout: page
+layout: default
 ---
 
-<p>The Cancer Vaccine Institute (CVI) funds research into the use of vaccines and
-  immunotherapy for the treatment of cancer. Our vision is that cancer vaccines
-  will become a standard treatment and improve survival rates and patients’
-  quality of life for a wide range of cancers.</p>
+<div class="jumbotron big-image" data-speed="6" data-type="background">
+  <div class="container">
+    <h1>Transforming the future of cancer treatment</h1>
+  </div>
+</div>
 
-<p>Thank you for your interest in the Cancer Vaccine Institute.</p>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <p>
+        The Cancer Vaccine Institute is the only national charity in the UK devoted exclusively
+        to funding research into the use of cancer immunotherapy as a treatment for cancer.
+        Larger cancer charities have recently become interested in this field and so you may
+        have read about developments in the newspapers recently. Our Principal, Professor Angus
+        Dalgeish, has been interested in cancer immunotherapy for many years and since 2000 funds
+        raised by CVI have enabled him to setup a small team of researchers at St George’s
+        Hospital in London. We were the first charity to fund research into cancer
+        immunotherapy and believe it is the future of cancer research.
+      </p>
+    </div>
+  </div>
+</div>
 
-<p>Following press stories about charities who share their donors' details with
-  other charities and agencies, we want to reassure all our supporters that we
-  have not and will not ever do this.  Nor do we send our unsolicited letters or
-  emails or make cold calls to supporters. </p>
+<div style="background-color: #81C3DD">
+  {% include latest-news-row.html %}
+</div>
 
-<p>We are a small charity which has to work hard to raise the £600,000 needed
-  each year to continue our research work. All our income comes from voluntary
-  sources.</p>
-
-
-{% include latest-news-row.html %}
+<style>
+  .big-image {
+    background: url(assets/images/stock/mountain.jpg) 50% 0 fixed;
+    height: auto;
+    margin: 0 auto;
+    width: 100%;
+    position: relative;
+    /*box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
+    padding: 100px 0;
+  }
+</style>
