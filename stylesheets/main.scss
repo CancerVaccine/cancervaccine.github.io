@@ -6,6 +6,11 @@
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
   "bootstrap-custom-variables", // Custom variables must load before bootstrap.
-  "bootstrap",
-  "syntax-highlighting"
+  "bootstrap"
 ;
+
+@import url("//fonts.googleapis.com/css?family=Lato:400,700,400italic");
+
+.jumbotron {
+  text-shadow: 2px 2px #888888;
+}
