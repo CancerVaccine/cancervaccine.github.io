@@ -3,14 +3,29 @@ title: Welcome to the Cancer Vaccine Institute
 layout: default
 ---
 
-<div class="jumbotron big-image" data-speed="6" data-type="background">
-  <div class="container">
-    <h1>Transforming the future of cancer treatment</h1>
-  </div>
-</div>
-<br />
-<br />
-<div class="container" stlye="margin-bottom: 100px;">
+<style>
+    .intro-header {
+      color: #f8f8f8;
+      background: url(/assets/images/homepage/jumbotron.jpg) no-repeat bottom center;
+      background-size: cover;
+      text-align: center;
+    }
+</style>
+
+
+<div class="body-content">
+  <div class="intro-header">
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-12">
+                  <div class="intro-message">
+                      <h1>Transforming the future of cancer treatment</h1>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>  
+  <div class="container" stlye="margin-bottom: 100px;">
   <div class="row">
     <div class="col-md-12">
       <h2>Welcome to the Cancer Vaccine Institute!</h2>
@@ -36,14 +51,4 @@ layout: default
 <div class="altrow">
   {% include latest-news-row.html %}
 </div>
-
-<style>
-  .big-image {
-    background: url(assets/images/homepage/jumbotron.jpg) 50% 0 fixed;
-    height: auto;
-    margin: 0 auto;
-    width: 100%;
-    position: relative;
-    padding: 100px 0;
-  }
-</style>
+</div>
