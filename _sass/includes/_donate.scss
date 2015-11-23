@@ -7,8 +7,17 @@
     }
     
     .donation-input {
+        &:focus {            
+            border-color: $input-border;
+        }
+        
         border-left: transparent;
         padding-left: 0;
+        
+        outline: none;
+        -webkit-box-shadow: none !important;
+        -moz-box-shadow: none !important;
+        box-shadow: none !important;
     }
     
     
