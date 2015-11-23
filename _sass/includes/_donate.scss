@@ -1,0 +1,30 @@
+.donation {
+    .input-group-addon {
+        background-color: transparent;
+        border-right: transparent;
+        text-align: right;
+        padding-right: 3px;
+    }
+    
+    .donation-input {
+        &:focus {            
+            border-color: $input-border;
+        }
+        
+        border-left: transparent;
+        padding-left: 0;
+        
+        outline: none;
+        -webkit-box-shadow: none !important;
+        -moz-box-shadow: none !important;
+        box-shadow: none !important;
+    }
+    
+    
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+        /* display: none; <- Crashes Chrome on hover */
+        -webkit-appearance: none;
+        margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+    }    
+}
