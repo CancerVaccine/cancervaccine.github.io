@@ -11,10 +11,18 @@ $(document).ready(function () {
 		});
 		
 		donationInput.change(function() {
+			var val = $(this).val();
 			me.find(".donation-selection.active").removeClass("active");
+			
+			me.find(".donation-selection").each(function() {
+				var data = $(this).attr("data-value");
+				if(data == val) {
+					$(this).addClass("active");
+				}
+			});
 		});
 		
-		me.find(".donate-button").click(function(){
+		me.find(".donate-button").click(function() {
 			var donationType = $(this).attr("data-donation-type");
 			var amount = donationInput.val();
 			
