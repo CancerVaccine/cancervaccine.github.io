@@ -10,17 +10,17 @@ layout: default
     background-size: cover;
     text-align: center;
   }
-  
+
   .banner-support {
     background: url(/assets/images/homepage/banner1.jpg) no-repeat center center;
     background-size: cover;
   }
-  
+
   .banner-donate {
     background: url(/assets/images/homepage/banner2.jpg) no-repeat center center;
     background-size: cover;
   }
-  
+
   .banner-text {
     color: white;
     text-align: center;
@@ -64,15 +64,28 @@ layout: default
       </div>
     </div>
   </div>
-  
+
   <div class="banner-donate">
     <div class="container">
       <div class="row">
         <div class="banner-text">
-          <h3>Donate</h3>
+          <h2>Donate to the Cancer Vaccine Institue</h2>
         </div>
       </div>
       <br />
+      <div class="row">
+        <div class="col-sm-6">
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <p class="lead" style="margin:0">
+                Our funds come from charitable trusts and individual fundraisers.
+                <br />
+                We do not receive funding from the government.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
       <div class="row">
         <div class="col-sm-7">
           <div class="panel panel-default">
@@ -82,7 +95,6 @@ layout: default
           </div>
         </div>
       </div>
-      <br />
       <div class="row">
         <div class="col-sm-7">
           <div class="panel panel-default">
@@ -92,11 +104,35 @@ layout: default
           </div>
         </div>
       </div>
+      <div class="row">
+        <div class="col-sm-5">
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <h4 style="margin-top:0">Other ways you can donate</h4>
+              <div class="row">
+                <div class="col-md-7">
+                    <ul>
+                      <li>Tribute funds</li>
+                      <li>Fundraising</li>
+                      <li>Volunteer</li>
+                      <li>Corportate support</li>
+                    </ul>
+                </div>
+                <div class="col-md-5">
+                  <a href="/support-us/donate/" class="btn btn-primary" role="button">
+                    Find out more
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-  
+
   <br />
-  
+
   <div class="banner-support">
     <div class="container">
       <div class="row">
@@ -109,19 +145,23 @@ layout: default
         <div class="col-sm-5">
           <div class="panel panel-default">
             <div class="panel-body">
-              <h4>Ways you can help support us</h4>
-              <div class="col-sm-8">
-                <ul>
-                  <li>Fundraise for us</li>
-                  <li>Create a Tribute fund</li>
-                  <li>Volunteer</li>
-                </ul>
-              </div>
+
+              <h4 style="margin-top:0">Ways you can help support us</h4>
               <div class="row">
-                <div class="col-sm-offset-8 col-sm-4">
-                  <a href="/support-us/fundraise/" class="btn btn-primary" role="button">Support Us</a>
+                <div class="col-md-7">
+                    <ul>
+                      <li>Fundraise for us</li>
+                      <li>Create a Tribute fund</li>
+                      <li>Volunteer</li>
+                    </ul>
+                </div>
+                <div class="col-md-5">
+                  <a href="/support-us/fundraise/" class="btn btn-primary" role="button">
+                    Support Us
+                  </a>
                 </div>
               </div>
+              
             </div>
           </div>
         </div>
@@ -129,7 +169,7 @@ layout: default
     </div>
   </div>
 
-  <div class="content-section-a">
+  <div class="content-section-a" style="background-color: white">
     {% include latest-news-row.html %}
   </div>
 </div>
