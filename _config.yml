@@ -26,3 +26,4 @@ sass:
 collections:
   research-projects:
     output: true
+    path: "/our-research/research-projects/"
