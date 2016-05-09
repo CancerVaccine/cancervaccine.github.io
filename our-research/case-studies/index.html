@@ -13,7 +13,7 @@ categories: [navbar]
         <ul class="list-unstyled">
           {% for post in site.case-studies limit:3 %}
             <li><a href="#{{ post.title | url_escape }}">{{ post.title }}</a></li>
-          {% endfor %}
+          {% endfor %} 
                 
           {% include research-quick-links.html %}
         </ul>
