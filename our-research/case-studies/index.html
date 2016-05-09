@@ -11,6 +11,10 @@ categories: [navbar]
       <div class="panel-body">
         <strong>Quick links </strong>
         <ul class="list-unstyled">
+          {% for post in site.case-studies limit:3 %}
+            <li><a href="/case-studies/#{{ post.title | url_param_escape }}">{{ post.title }}</a></li>
+          {% endfor %}
+          
           <li><a href="#">Case Study 1</a></li>
           <li><a href="#">Case Study 2</a></li>          
           {% include research-quick-links.html %}
