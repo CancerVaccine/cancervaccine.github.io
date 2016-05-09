@@ -5,7 +5,7 @@ date: 2016-05-09T00:00:00.000Z
 ---
 
 
-Two projects have just finished which aim to improve our understanding of the best ways to promote dendritic cell stimulation.
+Two projects have just finished which aim to improve our understanding of the best ways to promote dendritic cell stimulation.&nbsp;
 
 The first David Fine Memorial PhD studentship finished in October 2010. This work aimed to understand events that occur during the death of tumour cells treated with two drugs that stimulate the immune system; double-stranded RNA (dsRNA) and Interferon-gamma. These drugs induce tumour cells to die, but more importantly the dying tumour cells influence the stimulation and maturation of dendritic cells. During the course of the work the following observations were made. (1) Not all tumour cells are susceptible to this treatment unless a further process is undertaken to get dsRNA into the cell (known as electroporation). (2) The dying tumour cells release a number of factors which may be important in influencing dendritic cell stimulation. (3) Dendritic cell take up dying tumour cells, an event that is likely to be important in promoting further immune responses by T cells.
 
