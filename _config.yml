@@ -26,4 +26,3 @@ sass:
 collections:
   research-projects:
     output: true
-    permalink: "/our-research/research-projects/"
