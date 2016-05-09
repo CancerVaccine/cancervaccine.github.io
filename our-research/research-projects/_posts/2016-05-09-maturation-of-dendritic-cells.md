@@ -2,7 +2,6 @@
 layout: post
 title: Maturation of dendritic cells
 date: 2016-05-09T00:00:00.000Z
-permalink: /:collection/test/:path
 ---
 
 
