@@ -8,7 +8,7 @@ $(document).ready(function () {
 
 		// change the text entry when the a pre-defined button is clicked
 		me.find(".donation-selection").click(function() {
-			var data = $(this).attr("data-value");
+			var data = $(this).data("value");
 			donationInput.val(data);
 		});
 
@@ -20,7 +20,7 @@ $(document).ready(function () {
 
 			// reselect a pre-defined button
 			me.find(".donation-selection").each(function() {
-				var data = $(this).attr("data-value");
+				var data = $(this).data("value");
 				if(data == val) {
 					$(this).addClass("active");
 				}
@@ -29,7 +29,7 @@ $(document).ready(function () {
 
 		// when the donate button is clicked
 		me.find(".donate-button").click(function() {
-			var donationType = $(this).attr("data-donation-type");
+			var donationType = $(this).data("donation-type");
 			var amount = donationInput.val();
 
 			// only navigate when correct entries have been entered
