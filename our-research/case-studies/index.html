@@ -29,7 +29,7 @@ categories: [navbar]
     
     
 {% for post in site.case-studies %}
-    <div class="row" name="{{ post.title | url_escape }}">
+    <div class="row" id="{{ post.title | url_escape }}">
       <div class="col-xs-12">
       <div class="panel panel-default">
         <div class="panel-heading">
