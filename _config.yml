@@ -26,3 +26,5 @@ sass:
 collections:
   research-projects:
     output: true
+  case-studies:
+    output: true
