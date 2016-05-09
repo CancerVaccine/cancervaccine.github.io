@@ -27,4 +27,4 @@ collections:
   research-projects:
     output: true
   case-studies:
-    output: true
+    output: false
