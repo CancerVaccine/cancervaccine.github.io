@@ -9,10 +9,10 @@ categories: [navbar]
   <div class="col-xs-12 col-sm-3">
     <div class="panel panel-default">
       <div class="panel-body">
-        <strong>Quick links</strong>
+        <strong class="editable">Quick links</strong>
         <ul class="list-unstyled">
           {% for post in site.research-projects limit:3 %}
-            <li><a href="{{ post.url }}">Research Project: {{ post.title }}</a></li>
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
           {% endfor %}
           
           {% include research-quick-links.html %}
