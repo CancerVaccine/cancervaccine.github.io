@@ -22,3 +22,7 @@ categories: [navbar]
 
 sass:
     style: :compressed
+
+collections:
+  research-projects:
+    output: true
