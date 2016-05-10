@@ -28,3 +28,5 @@ collections:
     output: true
   case-studies:
     output: false
+  tribute-funds:
+    output: false
