@@ -5,8 +5,23 @@ header {
     background-size: cover;
   }
 
-  &.hero-image {
-    background: url("/assets/images/homepage/banner1.jpg") no-repeat center center;
+  &.fundraising-hero-image {
+    background: url("/assets/images/fundraising-page/hero.png") no-repeat center center;
+    background-size: cover;
+  }
+
+  &.donate-hero-image {
+    background: url("/assets/images/donate/hero.png") no-repeat center center;
+    background-size: cover;
+  }
+
+  &.research-project-hero-image {
+    background: url("/assets/images/research-project/hero.png") no-repeat center center;
+    background-size: cover;
+  }
+
+  &.case-studies-hero-image {
+    background: url("/assets/images/case-studies/hero.jpg") no-repeat center center;
     background-size: cover;
   }
 

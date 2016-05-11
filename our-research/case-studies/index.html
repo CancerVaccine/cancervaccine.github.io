@@ -2,6 +2,7 @@
 layout: page
 title: Case Studies
 categories: [navbar]
+hero-image-class: case-studies-hero-image
 ---
 
 
@@ -13,8 +14,8 @@ categories: [navbar]
         <ul class="list-unstyled">
           {% for post in site.case-studies limit:3 %}
             <li><a href="#{{ post.title | url_escape }}">{{ post.title }}</a></li>
-          {% endfor %} 
-                
+          {% endfor %}
+
           {% include research-quick-links.html %}
         </ul>
       </div>
@@ -26,8 +27,8 @@ categories: [navbar]
   </div>
 
 <div class="col-xs-12 col-sm-9 case-studies">
-    
-    
+
+
 {% for post in site.case-studies %}
     <div class="row" id="{{ post.title | url_escape }}">
       <div class="col-xs-12">
