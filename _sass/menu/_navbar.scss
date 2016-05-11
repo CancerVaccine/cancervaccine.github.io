@@ -1,8 +1,9 @@
 .navbar-brand {
-  img {
-    display: inline;
+  background: url("/assets/images/mobile-tablet-logo.png") no-repeat;
+  background-size: contain;
+  padding-left: 165px;
+  @media (min-width: $screen-md-min) {
+    background: url("/assets/images/desktop-logo.png") no-repeat;
+    background-size: contain;
   }
-    &.logo {
-      padding-top: 8px;
-    }
 }
