@@ -359,15 +359,15 @@ $navbar-padding-horizontal:        floor(($grid-gutter-width / 2));
 $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2);
 $navbar-collapse-max-height:       340px;
 
-$navbar-default-color:             #777;
-$navbar-default-bg:                $brand-primary;
+$navbar-default-color:             $brand-primary;
+$navbar-default-bg:                #fff;
 $navbar-default-border:            transparent;
 
 // Navbar links
-$navbar-default-link-color:                #fff;
+$navbar-default-link-color:                $brand-primary;
 $navbar-default-link-hover-color:          $brand-success;
 $navbar-default-link-hover-bg:             transparent;
-$navbar-default-link-active-color:         #fff;
+$navbar-default-link-active-color:         $brand-primary;
 $navbar-default-link-active-bg:            darken($navbar-default-bg, 10%);
 $navbar-default-link-disabled-color:       #ccc;
 $navbar-default-link-disabled-bg:          transparent;
