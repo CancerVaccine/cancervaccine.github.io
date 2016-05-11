@@ -34,8 +34,10 @@
         margin-right: 0px !important;
 	}
 	
-	.navbar-header.donate-button{
-	    padding: 11px 16px;
-	    margin-left: 15px;
-	}
+	.navbar-header{
+        .donate-button{
+            padding: 11px 16px;
+    	    margin-left: 15px;
+        }
+    }
 }
