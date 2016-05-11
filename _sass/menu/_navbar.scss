@@ -11,10 +11,13 @@
   }
 
 }
+.navbar-align {
+	    float: right;
+}
 
 @media (max-width:767px) { 
 	.navbar {
-	    .navbar-right {
+	    .navbar-align {
     	    float: left;
     	    padding-right: 15px;
 	    }
