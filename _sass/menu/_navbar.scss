@@ -11,20 +11,20 @@
   }
 
 }
-.navbar-align {
+.align {
 	    float: right;
 }
 
 @media (max-width:767px) { 
 	.navbar {
-	    .navbar-align {
+	    .align {
     	    float: left;
     	    padding-right: 15px;
 	    }
-    	.nav.navbar-nav.navbar-align li {
+    	.nav.navbar-nav.align li {
 	        float: left;
 	    }
-      	.nav.navbar-nav.navbar-align li > a {
+      	.nav.navbar-nav.align li > a {
 	        padding:8px 5px;
     	}
     	.navbar-toggle {
