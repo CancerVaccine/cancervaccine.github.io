@@ -32,7 +32,7 @@ categories: [navbar]
           <h3>Latest Project</h3>
       <ul class="list-unstyled">
         {% for post in site.research-projects limit:1 %}
-          <li><a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+          <li><strong>{{ post.title }}</strong>
           <p>{{ post.content }}</p>
           <a href="#">Back to top</a>
         </li>
@@ -42,7 +42,7 @@ categories: [navbar]
           <h3>Previous Projects</h3>
           <ul class="list-unstyled">
             {% for post in site.research-projects offset:1 %}
-              <li><a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+              <li><strong>{{ post.title }}</strong>
               <p>{{ post.content }}</p>
               <a href="#">Back to top</a>
             </li>
