@@ -12,17 +12,24 @@
 
 }
 
-@media (max-width:767px) { 
-	button.navbar-toggle {
-	    float: left !important;
-	    margin-left: 5px;
-	}
-}
-
 .navbar-header{
     .donate-button{
         padding: 11px 28px;
         margin-top: 28px;
         margin-left: 31px;
     }
+}
+
+.navbar{
+    ul{
+        margin-top:10px;
+    }
+}
+
+@media (max-width:767px) { 
+	button.navbar-toggle {
+	    float: left !important;
+	    margin-left: 10px;
+        margin-top: 32px;
+	}
 }
