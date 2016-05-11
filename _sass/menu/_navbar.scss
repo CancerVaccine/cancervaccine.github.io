@@ -11,3 +11,29 @@
   }
 
 }
+
+@media (max-width:767px) { 
+	.navbar {
+	    .navbar-right {
+    	    float: right;
+    	    padding-right: 15px;
+	    }
+    	.nav.navbar-nav.navbar-right li {
+	        float: right;
+	    }
+      	.nav.navbar-nav.navbar-right li > a {
+	        padding:8px 5px;
+    	}
+    	.navbar-toggle {
+    	    float: left
+    	}
+    	.navbar-header {
+    	    float: left;
+    	    width: auto!important;
+    	}
+    	.navbar-collapse {
+    	    clear: both;
+    	    float: none;
+    	}
+	}
+}
