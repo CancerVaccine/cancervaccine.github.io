@@ -114,7 +114,7 @@ $border-radius-small:       3px;
 //** Global color for active items (e.g., navs or dropdowns).
 $component-active-color:    $brand-primary;
 //** Global background color for active items (e.g., navs or dropdowns).
-$component-active-bg:       #fff;
+$component-active-bg:       $gery-dark;
 
 //** Width of the `border` for generating carets that indicator dropdowns.
 $caret-width-base:          4px;
@@ -368,7 +368,7 @@ $navbar-default-link-color:                $brand-primary;
 $navbar-default-link-hover-color:          $brand-success;
 $navbar-default-link-hover-bg:             transparent;
 $navbar-default-link-active-color:         $brand-primary;
-$navbar-default-link-active-bg:            darken($navbar-default-bg, 10%);
+$navbar-default-link-active-bg:            $grey-light;
 $navbar-default-link-disabled-color:       #ccc;
 $navbar-default-link-disabled-bg:          transparent;
 
