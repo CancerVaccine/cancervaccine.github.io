@@ -11,32 +11,10 @@
   }
 
 }
-.align {
-	    float: right;
-}
 
-@media (max-width:767px) { 
-	.navbar {
-	    .align {
-    	    float: left;
-    	    padding-right: 15px;
-	    }
-    	.nav.navbar-nav.align li {
-	        float: left;
-	    }
-      	.nav.navbar-nav.align li > a {
-	        padding:8px 5px;
-    	}
-    	.navbar-toggle {
-    	    float: left
-    	}
-    	.navbar-header {
-    	    float: left;
-    	    width: auto!important;
-    	}
-    	.navbar-collapse {
-    	    clear: both;
-    	    float: none;
-    	}
-	}
+
+@media (min-width:768px) { 
+    .align {
+    	    float: right !important;
+    }
 }
