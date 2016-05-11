@@ -15,5 +15,15 @@
 @media (max-width:767px) { 
 	button.navbar-toggle {
 	    float: left !important;
+	    margin-left: 5px;
 	}
+}
+
+.navbar-header{
+    .donate{
+        margin-top: 20px;
+    }
+    .donate-button{
+        margin-right: 15px;
+    }
 }
