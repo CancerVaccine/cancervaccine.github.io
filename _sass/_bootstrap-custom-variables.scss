@@ -18,10 +18,10 @@ $gray:                   #95a5a6; // #555
 $gray-light:             #b4bcc2;   // #999
 $gray-lighter:           #ecf0f1; // #eee
 
-$brand-primary:         #2980b9;
+$brand-primary:         #2b6e8b;
 $brand-success:         #7DBAE2;
 $brand-info:            #3498db;
-$brand-warning:         #F39C12;
+$brand-warning:         #88165c;
 $brand-danger:          #E74C3C;
 $brand-altrow:          #81C3DD;
 
@@ -112,9 +112,9 @@ $border-radius-large:       6px;
 $border-radius-small:       3px;
 
 //** Global color for active items (e.g., navs or dropdowns).
-$component-active-color:    #fff;
+$component-active-color:    $brand-primary;
 //** Global background color for active items (e.g., navs or dropdowns).
-$component-active-bg:       $brand-primary;
+$component-active-bg:       #fff;
 
 //** Width of the `border` for generating carets that indicator dropdowns.
 $caret-width-base:          4px;
@@ -359,15 +359,15 @@ $navbar-padding-horizontal:        floor(($grid-gutter-width / 2));
 $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2);
 $navbar-collapse-max-height:       340px;
 
-$navbar-default-color:             #777;
-$navbar-default-bg:                $brand-primary;
+$navbar-default-color:             $brand-primary;
+$navbar-default-bg:                #fff;
 $navbar-default-border:            transparent;
 
 // Navbar links
-$navbar-default-link-color:                #fff;
+$navbar-default-link-color:                $brand-primary;
 $navbar-default-link-hover-color:          $brand-success;
 $navbar-default-link-hover-bg:             transparent;
-$navbar-default-link-active-color:         #fff;
+$navbar-default-link-active-color:         $brand-primary;
 $navbar-default-link-active-bg:            darken($navbar-default-bg, 10%);
 $navbar-default-link-disabled-color:       #ccc;
 $navbar-default-link-disabled-bg:          transparent;
