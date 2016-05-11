@@ -15,11 +15,11 @@
 @media (max-width:767px) { 
 	.navbar {
 	    .navbar-right {
-    	    float: right;
+    	    float: left;
     	    padding-right: 15px;
 	    }
     	.nav.navbar-nav.navbar-right li {
-	        float: right;
+	        float: left;
 	    }
       	.nav.navbar-nav.navbar-right li > a {
 	        padding:8px 5px;
