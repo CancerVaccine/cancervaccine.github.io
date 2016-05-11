@@ -114,7 +114,7 @@ $border-radius-small:       3px;
 //** Global color for active items (e.g., navs or dropdowns).
 $component-active-color:    $brand-primary;
 //** Global background color for active items (e.g., navs or dropdowns).
-$component-active-bg:       $gery-dark;
+$component-active-bg:       $grey-dark;
 
 //** Width of the `border` for generating carets that indicator dropdowns.
 $caret-width-base:          4px;
@@ -239,7 +239,7 @@ $dropdown-divider-bg:            #e5e5e5;
 //** Dropdown link text color.
 $dropdown-link-color:            $gray-dark;
 //** Hover color for dropdown links.
-$dropdown-link-hover-color:      $gray-dark;
+$dropdown-link-hover-color:      $gray;
 //** Hover background for dropdown links.
 $dropdown-link-hover-bg:         $component-active-bg;
 
@@ -368,7 +368,7 @@ $navbar-default-link-color:                $brand-primary;
 $navbar-default-link-hover-color:          $brand-success;
 $navbar-default-link-hover-bg:             transparent;
 $navbar-default-link-active-color:         $brand-primary;
-$navbar-default-link-active-bg:            $grey-light;
+$navbar-default-link-active-bg:            $gray-lighter;
 $navbar-default-link-disabled-color:       #ccc;
 $navbar-default-link-disabled-bg:          transparent;
 
@@ -404,9 +404,9 @@ $navbar-inverse-brand-hover-color:          $navbar-inverse-link-hover-color;
 $navbar-inverse-brand-hover-bg:             transparent;
 
 // Inverted navbar toggle
-$navbar-inverse-toggle-hover-bg:            darken($navbar-inverse-bg, 10%);
+$navbar-inverse-toggle-hover-bg:            $gray-lighter;
 $navbar-inverse-toggle-icon-bar-bg:         #fff;
-$navbar-inverse-toggle-border-color:        darken($navbar-inverse-bg, 10%);
+$navbar-inverse-toggle-border-color:        $gray-lighter;
 
 //== Navs
 //
@@ -424,12 +424,12 @@ $nav-tabs-border-color:                     $gray-lighter;
 
 $nav-tabs-link-hover-border-color:          $gray-lighter;
 
-$nav-tabs-active-link-hover-bg:             $body-bg;
+$nav-tabs-active-link-hover-bg:             $gray-lighter;
 $nav-tabs-active-link-hover-color:          $brand-primary;
 $nav-tabs-active-link-hover-border-color:   $gray-lighter;
 
 $nav-tabs-justified-link-border-color:            $gray-lighter;
-$nav-tabs-justified-active-link-border-color:     $body-bg;
+$nav-tabs-justified-active-link-border-color:     $gray-lighter;
 
 //== Pills
 $nav-pills-border-radius:                   $border-radius-base;
