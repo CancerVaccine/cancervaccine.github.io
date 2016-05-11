@@ -1,37 +1,28 @@
 ---
 layout: post
-title: Biomarkers and Immune Response in Melanoma Patients
+title: Maturation of dendritic cells
 date: 2016-05-09T00:00:00.000Z
 ---
 
 
-The field of immunotherapy has lagged behind the rest of the Oncology field in discovering
-new biomarkers specific to vaccine treatments. Biomarkers represent a way of understanding or
-predicting what will happen to a patient when they are undergoing treatment. Biomarkers can
-be a test which predicts the outcome of a type of treatment or which is used to diagnose a
-tumour (for example PSA in prostate cancer).
+Both projects revolve around the new heat killed non-specific vaccine based on Mycobacterium vaccae, which Prof. Dalgleish has used for over 15 years with very good long-term results in melanoma. However, it has now become clear that it is not melanoma specific and many other cancers have responded well to it. It is being produced by Immodulon, who have committed all their resources to a randomised study but would make it available for these trials if the funds can be raised.&nbsp;
 
-A project is nearing its conclusion which is designed to discover biomarkers in the serum of
-melanoma patients treated with a dendritic cell vaccine. Preliminary results suggest that
-profiling a panel of proteins in the blood of vaccinated patients may predict which patients are
-more likely to respond to vaccine. This would mean that patients could be assigned to correct
-treatment groups and those with the correct profile would be more likely to benefit from their
-vaccine. In an attempt to validate these observations we collaborated with several other groups
-to secure samples from prostate cancer and melanoma patients undergoing similar
-immunotherapy. Although the results from these other trials are not identical there is a trend
-showing that non-responders have elevated inflammatory markers. This suggests that, in the
-context of patients with melanoma, pre-treatment with an anti-inflammatory agent may
-enhance responses to vaccines. Early studies suggest that this is the case. However, other
-exciting data has emerged from these collaborations, particularly the observation that
-Interleukin-15 may be found in greater amounts in prostate cancer patients who are likely to
-respond better to immunotherapy.
+Study for Men with Prostate Cancer
 
-A further discovery arising from the melanoma DC vaccine trial is the finding that the profile
-of antibody subtypes in the serum may correspond to how well patients respond clinically to
-the vaccine. Although we do not yet understand what this signifies, this observation is unique
-and unexpected given the nature of the vaccine, and we are continuing with experiments to
-discover the significance of these findings.
+Following observations that people on the vaccine and Zometa, (a drug for bone pain and secondary cancers) seemed to do far better than expected, Prof Dalgleish and his team researched this combination in the lab, which showed they really did synergise.
 
-This is a relatively new and exciting area of research within the cancer immunotherapy field
-and it is hoped that this work will result in better selection and treatment of patients in the
-future.
+They now wish to use this combination for men with prostate cancer with a rising PSA who would normally start on hormone therapy with all the unpleasant side effects of this treatment. Three eminent oncologists at UCH and Charing Cross as well as St George’s Hospital are very keen on this study. The cost of setting it up is &pound;130,000 and everything is in place to start when funds are available.
+
+Study for Women with Ovarian Cancer
+
+This disease is recognized as having an immunological deficient component and this specific vaccine has all the qualities that have not been tried before, correcting the cytokine deficiency but also boosting the natural innate immune response.&nbsp;
+
+The vaccine would be used with an exciting drug called Low Dose Naltrexone (LDN). It was originally used to help opium addicts. The doctor looking after these patients noticed that patients with cancer had shrinkage in their tumours while on the LDN.
+
+Again in the lab, the combination of LDN with the cancer vaccine has shown some exciting results. Indeed Prof Dalgleish has already used LDN on its’ own with some patients where no other treatment was available and they had been given months to live and the patients are still alive. It cost pence per tablet compared with most drugs and so if found to be successful would be well within the NHS to prescribe to anyone. The costs to kick start this trial will also be around &pound;130,000.
+
+If documented evidence of response in these studies is produced, then the data will be used to sponsor larger studies and more people will benefit.
+
+Cancer vaccines have none of the side effects of chemotherapy or radiotherapy. It is a non-toxic way of enhancing the immune response that all cancers suppress, making an excellent first line treatment, which will improve responses to subsequent treatment modalities including radiotherapy and chemotherapy.
+
+If funds become available, the CVI will begin running these trials in 2013.
