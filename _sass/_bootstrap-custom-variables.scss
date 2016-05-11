@@ -114,7 +114,7 @@ $border-radius-small:       3px;
 //** Global color for active items (e.g., navs or dropdowns).
 $component-active-color:    $brand-primary;
 //** Global background color for active items (e.g., navs or dropdowns).
-$component-active-bg:       $gray-dark;
+$component-active-bg:       $gray-lighter;
 
 //** Width of the `border` for generating carets that indicator dropdowns.
 $caret-width-base:          4px;
@@ -378,9 +378,9 @@ $navbar-default-brand-hover-color:         $navbar-default-link-hover-color;
 $navbar-default-brand-hover-bg:            transparent;
 
 // Navbar toggle
-$navbar-default-toggle-hover-bg:           darken($navbar-default-bg, 10%);
-$navbar-default-toggle-icon-bar-bg:        #fff;
-$navbar-default-toggle-border-color:       darken($navbar-default-bg, 10%);
+$navbar-default-toggle-hover-bg:           $gray-lighter;
+$navbar-default-toggle-icon-bar-bg:        $gray;
+$navbar-default-toggle-border-color:       darken($gray-lighter, 10%);
 
 
 // Inverted navbar
@@ -404,9 +404,9 @@ $navbar-inverse-brand-hover-color:          $navbar-inverse-link-hover-color;
 $navbar-inverse-brand-hover-bg:             transparent;
 
 // Inverted navbar toggle
-$navbar-inverse-toggle-hover-bg:            $gray-lighter;
+$navbar-inverse-toggle-hover-bg:            darken($navbar-inverse-bg, 10%);
 $navbar-inverse-toggle-icon-bar-bg:         #fff;
-$navbar-inverse-toggle-border-color:        $gray-lighter;
+$navbar-inverse-toggle-border-color:        darken($navbar-inverse-bg, 10%);
 
 //== Navs
 //
