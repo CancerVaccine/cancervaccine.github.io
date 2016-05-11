@@ -41,3 +41,27 @@
         }
     }
 }
+
+@media (min-width:1024px) {
+    .navbar-header{
+        .donate-button{
+            padding: 11px 40px;
+    	    margin-left: 58px;
+        }
+    }
+}
+
+@media (min-width:1440px) {
+    .navbar-header{
+        .donate-button{
+    	    margin-left: 108px;
+        }
+    }
+}
+
+
+
+
+
+
+
