@@ -29,4 +29,4 @@ collections:
   case-studies:
     output: false
   tribute-funds:
-    output: false
+    output: true
