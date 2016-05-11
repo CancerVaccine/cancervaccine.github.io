@@ -1,0 +1,13 @@
+header {
+  &.hero-image {
+    background: url("/assets/images/homepage/banner1.jpg") no-repeat center center;
+    background-size: cover;
+    min-height: 200px;
+    h1 {
+      position: relative;
+      top: 10px;
+      left: 10px;
+      color: #fff;
+    }
+  }
+}
