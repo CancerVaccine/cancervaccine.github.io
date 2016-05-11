@@ -12,28 +12,24 @@
 
 }
 
+.navbar-header{
+    .donate-button{
+        padding: 11px 28px;
+        margin-top: 28px;
+        margin-left: 31px;
+    }
+}
+
+.navbar{
+    ul{
+        margin-top:10px;
+    }
+}
+
 @media (max-width:767px) { 
-	.navbar {
-	    .navbar-right {
-    	    float: left;
-    	    padding-right: 15px;
-	    }
-    	.nav.navbar-nav.navbar-right li {
-	        float: left;
-	    }
-      	.nav.navbar-nav.navbar-right li > a {
-	        padding:8px 5px;
-    	}
-    	.navbar-toggle {
-    	    float: left
-    	}
-    	.navbar-header {
-    	    float: left;
-    	    width: auto!important;
-    	}
-    	.navbar-collapse {
-    	    clear: both;
-    	    float: none;
-    	}
+	button.navbar-toggle {
+	    float: left !important;
+	    margin-left: 10px;
+        margin-top: 32px;
 	}
 }
