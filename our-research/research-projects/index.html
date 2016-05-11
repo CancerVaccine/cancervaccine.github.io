@@ -14,7 +14,7 @@ categories: [navbar]
           {% for post in site.research-projects limit:3 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
           {% endfor %}
-          
+
           {% include research-quick-links.html %}
         </ul>
       </div>
@@ -30,33 +30,24 @@ categories: [navbar]
     <div class="row">
       <div class="col-xs-12">
           <h3>Latest Project</h3>
-          <ul class="list-unstyled">
-            <li>
-          <strong>Project name</strong>
-          <p>content goes here</p>
+      <ul class="list-unstyled">
+        {% for post in site.research-projects limit:1 %}
+          <li><a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+          <p>{{ post.content }}</p>
           <a href="#">Back to top</a>
         </li>
+        {% endfor %}
       </ul>
 
-          <h3>Previous Project</h3>
+          <h3>Previous Projects</h3>
           <ul class="list-unstyled">
-            <li>
-                <strong>Project name</strong>
-                <p>content goes here</p>
-                <a href="#">Back to top</a>
+            {% for post in site.research-projects offset:1 %}
+              <li><a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+              <p>{{ post.content }}</p>
+              <a href="#">Back to top</a>
             </li>
-            <li>
-                <strong>Project name</strong>
-                <p>content goes here</p>
-                <a href="#">Back to top</a>
-            </li>
-            <li>
-                <strong>Project name</strong>
-                <p>content goes here</p>
-                <a href="#">Back to top</a>
-            </li>
+            {% endfor %}
           </ul>
-
       </div>
     </div>
 
