@@ -16,10 +16,17 @@
 @import "hacks";
 
 
-@import "effects/2d-transitions/buzz-out";
+// @import "effects/2d-transitions/buzz-out";
+// @if $includeClasses {
+// 	.#{$nameSpace}-buzz-out {
+// 	    @include buzz-out();
+// 	}
+// }
+
+@import "effects/2d-transitions/bounce-in";
 @if $includeClasses {
-	.#{$nameSpace}-buzz-out {
-	    @include buzz-out();
+	.#{$nameSpace}-bounce-in {
+		@include bounce-in();
 	}
 }
 

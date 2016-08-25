@@ -18,10 +18,10 @@ $gray:                   #95a5a6; // #555
 $gray-light:             #b4bcc2;   // #999
 $gray-lighter:           #ecf0f1; // #eee
 
-$brand-primary:         #2980b9;
+$brand-primary:         #2b6e8b;
 $brand-success:         #7DBAE2;
 $brand-info:            #3498db;
-$brand-warning:         #F39C12;
+$brand-warning:         #88165c;
 $brand-danger:          #E74C3C;
 $brand-altrow:          #81C3DD;
 
@@ -112,9 +112,9 @@ $border-radius-large:       6px;
 $border-radius-small:       3px;
 
 //** Global color for active items (e.g., navs or dropdowns).
-$component-active-color:    #fff;
+$component-active-color:    $brand-primary;
 //** Global background color for active items (e.g., navs or dropdowns).
-$component-active-bg:       $brand-primary;
+$component-active-bg:       $gray-lighter;
 
 //** Width of the `border` for generating carets that indicator dropdowns.
 $caret-width-base:          4px;
@@ -239,7 +239,7 @@ $dropdown-divider-bg:            #e5e5e5;
 //** Dropdown link text color.
 $dropdown-link-color:            $gray-dark;
 //** Hover color for dropdown links.
-$dropdown-link-hover-color:      #fff;
+$dropdown-link-hover-color:      $gray;
 //** Hover background for dropdown links.
 $dropdown-link-hover-bg:         $component-active-bg;
 
@@ -337,12 +337,12 @@ $container-tablet:             (720px + $grid-gutter-width);
 $container-sm:                 $container-tablet;
 
 // Medium screen / desktop
-$container-desktop:            (940px + $grid-gutter-width);
+$container-desktop:            (840px + $grid-gutter-width);
 //** For `$screen-md-min` and up.
 $container-md:                 $container-desktop;
 
 // Large screen / wide desktop
-$container-large-desktop:      (1140px + $grid-gutter-width);
+$container-large-desktop:      (940px + $grid-gutter-width);
 //** For `$screen-lg-min` and up.
 $container-lg:                 $container-large-desktop;
 
@@ -352,23 +352,23 @@ $container-lg:                 $container-large-desktop;
 //##
 
 // Basics of a navbar
-$navbar-height:                    60px;
+$navbar-height:                    80px;
 $navbar-margin-bottom:             0px;
 $navbar-border-radius:             $border-radius-base;
 $navbar-padding-horizontal:        floor(($grid-gutter-width / 2));
 $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2);
 $navbar-collapse-max-height:       340px;
 
-$navbar-default-color:             #777;
-$navbar-default-bg:                $brand-primary;
+$navbar-default-color:             $brand-primary;
+$navbar-default-bg:                #fff;
 $navbar-default-border:            transparent;
 
 // Navbar links
-$navbar-default-link-color:                #fff;
+$navbar-default-link-color:                $brand-primary;
 $navbar-default-link-hover-color:          $brand-success;
 $navbar-default-link-hover-bg:             transparent;
-$navbar-default-link-active-color:         #fff;
-$navbar-default-link-active-bg:            darken($navbar-default-bg, 10%);
+$navbar-default-link-active-color:         $brand-primary;
+$navbar-default-link-active-bg:            $gray-lighter;
 $navbar-default-link-disabled-color:       #ccc;
 $navbar-default-link-disabled-bg:          transparent;
 
@@ -378,9 +378,9 @@ $navbar-default-brand-hover-color:         $navbar-default-link-hover-color;
 $navbar-default-brand-hover-bg:            transparent;
 
 // Navbar toggle
-$navbar-default-toggle-hover-bg:           darken($navbar-default-bg, 10%);
-$navbar-default-toggle-icon-bar-bg:        #fff;
-$navbar-default-toggle-border-color:       darken($navbar-default-bg, 10%);
+$navbar-default-toggle-hover-bg:           $gray-lighter;
+$navbar-default-toggle-icon-bar-bg:        $gray;
+$navbar-default-toggle-border-color:       darken($gray-lighter, 10%);
 
 
 // Inverted navbar
@@ -424,12 +424,12 @@ $nav-tabs-border-color:                     $gray-lighter;
 
 $nav-tabs-link-hover-border-color:          $gray-lighter;
 
-$nav-tabs-active-link-hover-bg:             $body-bg;
+$nav-tabs-active-link-hover-bg:             $gray-lighter;
 $nav-tabs-active-link-hover-color:          $brand-primary;
 $nav-tabs-active-link-hover-border-color:   $gray-lighter;
 
 $nav-tabs-justified-link-border-color:            $gray-lighter;
-$nav-tabs-justified-active-link-border-color:     $body-bg;
+$nav-tabs-justified-active-link-border-color:     $gray-lighter;
 
 //== Pills
 $nav-pills-border-radius:                   $border-radius-base;

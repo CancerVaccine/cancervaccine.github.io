@@ -3,9 +3,12 @@ body, html {
     width: 100%;
 }
 
+body {
+    padding-top: $navbar-height;
+}
+
 body, h1, h2, h3, h4, h5, h6 {
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-
 }
 
 .lead {
@@ -26,11 +29,11 @@ body, h1, h2, h3, h4, h5, h6 {
     padding-bottom: 20%;
 }
 
-    .intro-message > h1 {
-        margin: 0;
-        font-size: 5em;
-        text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
-    }
+.intro-message > h1 {
+    margin: 0;
+    font-size: 5em;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+}
 
 .intro-divider {
     width: 400px;
@@ -47,9 +50,9 @@ body, h1, h2, h3, h4, h5, h6 {
         padding-bottom: 15%;
     }
 
-        .intro-message > h1 {
-            font-size: 3em;
-        }
+    .intro-message > h1 {
+        font-size: 3em;
+    }
 
     ul.intro-social-buttons > li {
         display: block;
@@ -57,9 +60,9 @@ body, h1, h2, h3, h4, h5, h6 {
         padding: 0;
     }
 
-        ul.intro-social-buttons > li:last-child {
-            margin-bottom: 0;
-        }
+    ul.intro-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
 
     .intro-divider {
         width: 100%;
@@ -101,19 +104,18 @@ body, h1, h2, h3, h4, h5, h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    /*background: url(../img/banner-bg.jpg) no-repeat center center;*/
     background-size: cover;
 }
 
-    .banner h2 {
-        margin: 0;
-        text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
-        font-size: 3em;
-    }
+.banner h2 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+    font-size: 3em;
+}
 
-    .banner ul {
-        margin-bottom: 0;
-    }
+.banner ul {
+    margin-bottom: 0;
+}
 
 .banner-social-buttons {
     float: right;
@@ -140,21 +142,22 @@ body, h1, h2, h3, h4, h5, h6 {
         padding: 0;
     }
 
-        ul.banner-social-buttons > li:last-child {
-            margin-bottom: 0;
-        }
+    ul.banner-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
 }
 
 footer {
     background-color: #f8f8f8;
     padding: 16px 0;
     padding-bottom: 8px;
-}
 
-    footer hr {
+    hr {
         margin-top: 5px;
         margin-bottom: 15px;
     }
+}
+
 
 p.copyright {
     margin: 15px 0 0;

@@ -10,6 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.cancervaccine.org.uk/" # the base hostname & protocol for your site
 twitter_username: thecvinstitute
 telephone: 0845 6020662
+hero-image-class: default-hero-image
 
 # Build settings
 markdown: kramdown
@@ -22,3 +23,11 @@ categories: [navbar]
 
 sass:
     style: :compressed
+
+collections:
+  research-projects:
+    output: true
+  case-studies:
+    output: false
+  tribute-funds:
+    output: true
