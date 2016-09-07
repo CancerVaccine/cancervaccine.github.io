@@ -1,7 +1,8 @@
 ---
 layout: page
-title: The Professor Catherine Wilson Tribute Fund
+title: The Steven Bryn Ellis Tribute Fund
 ---
+
 
 To all of Steve's friends
 
@@ -25,220 +26,151 @@ This page will be updated, at least weekly, so may not reflect all receipts/mess
 
 Messages from donors
 
- Roy Lightfoot
-I was lucky to have lovely grandchildren. Steve was the one I saw most and I treasure so many happy memories. Thank you from grandpa.
+Roy LightfootI was lucky to have lovely grandchildren. Steve was the one I saw most and I treasure so many happy memories. Thank you from grandpa.
 
-Patricia Angel
-We are proud to have been aunt, uncle and cousins to Steve. He was a modest, helpful young man who always had a twinkle in his eye. He was much loved by all our family and he enjoyed even the company of me his aunt, joining me dog walking and even coming with me to a predominantly female aerobics class! Steve was always interesting and was lively company and would often send his own postcards from his travels, using his own holiday photos and often thanking for various presents which he had received. Since being diagnosed, Steve was most courageous and demonstrated an incredibly positive attitude, still with thoughts of others uppermost in his mind: He often would thank me for coming to visit him and for keeping his mum company. We al miss Steve greatly and the World will be a poorer place without him.
+Patricia AngelWe are proud to have been aunt, uncle and cousins to Steve. He was a modest, helpful young man who always had a twinkle in his eye. He was much loved by all our family and he enjoyed even the company of me his aunt, joining me dog walking and even coming with me to a predominantly female aerobics class! Steve was always interesting and was lively company and would often send his own postcards from his travels, using his own holiday photos and often thanking for various presents which he had received. Since being diagnosed, Steve was most courageous and demonstrated an incredibly positive attitude, still with thoughts of others uppermost in his mind: He often would thank me for coming to visit him and for keeping his mum company. We al miss Steve greatly and the World will be a poorer place without him.
 
-Jamie O'Hare
-You made the world a better place for all of us.
+Jamie O'HareYou made the world a better place for all of us.
 
-Steven Chan
-Thanks, Steve, for the friendship and help you'd given during the time I worked with you. You'll be immensely missed but never forgotten. Rest well. And to the family and his partner, be strong for and be proud of Steve.
+Steven ChanThanks, Steve, for the friendship and help you'd given during the time I worked with you. You'll be immensely missed but never forgotten. Rest well. And to the family and his partner, be strong for and be proud of Steve.
 
-Nathanael Anguige
-I'm so very sad to hear about Steven's death. To me he was a great friend throughout and after my time in school and it was my privilege to know him. I wish Professor Dalgleish and his team every success in their work, and pass my sincere sympathy and condolences to you his family. He will be very much missed.
+Nathanael AnguigeI'm so very sad to hear about Steven's death. To me he was a great friend throughout and after my time in school and it was my privilege to know him. I wish Professor Dalgleish and his team every success in their work, and pass my sincere sympathy and condolences to you his family. He will be very much missed.
 
-Roberto Picozzi
-From the Colleagues of the Italian Office
+Roberto PicozziFrom the Colleagues of the Italian Office
 
-Nikki Colverson
-Dear Mr Steve, such sadness for the most, loyal, sensitive, smart, funny, giving, generous friend anyone could ask for. Forever living on in our memories. You are sadly missed by all the hearts that you touched.
+Nikki ColversonDear Mr Steve, such sadness for the most, loyal, sensitive, smart, funny, giving, generous friend anyone could ask for. Forever living on in our memories. You are sadly missed by all the hearts that you touched.
 
-Kate Neary
-For my lovely friend Stevie E. Thanks to your spontaneity and sense of adventure I have so many happy memories with you.
+Kate NearyFor my lovely friend Stevie E. Thanks to your spontaneity and sense of adventure I have so many happy memories with you.
 
-Leanne Jones
-In memory of a true gentleman, a real inspiration and a great friend. See you on the other side Ste xxxx
+Leanne JonesIn memory of a true gentleman, a real inspiration and a great friend. See you on the other side Ste xxxx
 
-Christine Squires
-I feel so sad that I didn't say this while I had the chance. Steve was a great guy and a real pleasure to work with. He was always pleasant and thoughtful of others while trying to do the best in every undertaking. He will be greatly mssed.
+Christine SquiresI feel so sad that I didn't say this while I had the chance. Steve was a great guy and a real pleasure to work with. He was always pleasant and thoughtful of others while trying to do the best in every undertaking. He will be greatly mssed.
 
-Heather Lister
-Sue, Nigel & Barry - I didn't have the pleasure of meeting Steve, but I have heard so many wonderful things about him over the years from Sue; what an inspiring, fantastic young man. Words are never enough...... my thoughts with you all. Heather, David, Stephen & Michael.
+Heather ListerSue, Nigel & Barry - I didn't have the pleasure of meeting Steve, but I have heard so many wonderful things about him over the years from Sue; what an inspiring, fantastic young man. Words are never enough…… my thoughts with you all. Heather, David, Stephen & Michael.
 
-Philip Bailey
-Though I didn't know Steve well, I remember him always having a smile and friendly word in the office, even after being diagnosed with cancer and having a determination that it would not get him down or stop him living life to the full.
+Philip BaileyThough I didn't know Steve well, I remember him always having a smile and friendly word in the office, even after being diagnosed with cancer and having a determination that it would not get him down or stop him living life to the full.
 
-Anna Lucia Gascoigne
-Steve was an exemplary colleague and it was a pleasure to have known him and to call him my friend. With love Lucia.
+Anna Lucia GascoigneSteve was an exemplary colleague and it was a pleasure to have known him and to call him my friend. With love Lucia.
 
-Keith Windram
-Over recent years I have worked closely with Steve and spent many weeks abroad to some of the countries he loved to visit. His great positive outlook on all things was an inspiration to all. We shared many long days and nights travelling and working, but he always still found time and energy to enjoy every moment and importantly have some fun. As well as being exceptionally smart and good at his job, he was an extremely nice person and great company. My thoughts are with his family and Liz ad I know from the tributes I have received from colleagues, friends and clients we all share the belief that we are better people for having known him.
+Keith WindramOver recent years I have worked closely with Steve and spent many weeks abroad to some of the countries he loved to visit. His great positive outlook on all things was an inspiration to all. We shared many long days and nights travelling and working, but he always still found time and energy to enjoy every moment and importantly have some fun. As well as being exceptionally smart and good at his job, he was an extremely nice person and great company. My thoughts are with his family and Liz ad I know from the tributes I have received from colleagues, friends and clients we all share the belief that we are better people for having known him.
 
-Guy Heather
-Sue, Nigel & Barry, our thoughts are with you. I get the impression that Steve lived more in his short life than a lot of people do who reach old age - inspirational. Wishing the Professor every success in his work. Love Guy, Lisa & William
+Guy HeatherSue, Nigel & Barry, our thoughts are with you. I get the impression that Steve lived more in his short life than a lot of people do who reach old age - inspirational. Wishing the Professor every success in his work. Love Guy, Lisa & William
 
-Andrew Pierce
-A small token from work colleagues at Honeywell in St Asaph
+Andrew PierceA small token from work colleagues at Honeywell in St Asaph
 
-Rich Brady
-I haven't seen Steve for many years, but was instantly saddened at the news. Then smiled as I remembered him teaching me some Stereophics chords on my shitty guitar on a long bus trip to the Alps on our 6th Form Ski Trip.
+Rich BradyI haven't seen Steve for many years, but was instantly saddened at the news. Then smiled as I remembered him teaching me some Stereophics chords on my shitty guitar on a long bus trip to the Alps on our 6th Form Ski Trip.
 
-Howard Cardus
-Such a good friend and a great loss.
+Howard CardusSuch a good friend and a great loss.
 
-Arabella Volkers
-I thought you would prefer the money for the 'plane ticket to go to support CVI instead, Steve. That's just you: simply thinking of others first. A lovely friend and colleague.
+Arabella VolkersI thought you would prefer the money for the 'plane ticket to go to support CVI instead, Steve. That's just you: simply thinking of others first. A lovely friend and colleague.
 
-Rachel Corner
-Such a sad loss to all who knew him. x
+Rachel CornerSuch a sad loss to all who knew him. x
 
-Roger Warner
-Steve was an inspiration to us all and will be truly missed.
+Roger WarnerSteve was an inspiration to us all and will be truly missed.
 
-Jessica Kane
-Working with you was a real pleasure. You were always so kind and generous with your time. I will miss you.
+Jessica KaneWorking with you was a real pleasure. You were always so kind and generous with your time. I will miss you.
 
-Sarah & Michael Canby
-We never met Steve but we are humbled by his strength and courage - and by the strength and courage of his family. Let us all wish "the Prof" and his team every success in their future work.
+Sarah & Michael CanbyWe never met Steve but we are humbled by his strength and courage - and by the strength and courage of his family. Let us all wish "the Prof" and his team every success in their future work.
 
-Tim & Gill Allen
-Steven was amazing guy and brilliant friend. It was an honour to have had Steven as a friend. He will be missed! It was a privilege to be part of celebrating Steven's life and meeting some of the friends he had made and sharing the memories we all have. Our thoughts are with Sue, Nigel, Barry, Liz & the rest of the family. RIP Steve.
+Tim & Gill AllenSteven was amazing guy and brilliant friend. It was an honour to have had Steven as a friend. He will be missed! It was a privilege to be part of celebrating Steven's life and meeting some of the friends he had made and sharing the memories we all have. Our thoughts are with Sue, Nigel, Barry, Liz & the rest of the family. RIP Steve.
 
-Jenny Angel
-Steve lived more than most people would in 5 lifetimes in his 29 years. He had a happy, adventure and fun-filled life surrounded by people that loved him, family and friends. He had travelled the world & excelled at a variety of sports. Even as a child he was good at everything he tried. He was amazingly fit running, cycling, climbing & windsurfing the mountains and lakes of North Wales where he grew up. A 20 mile run was a short walk for him. He was cheeky & up for a laugh but sensitive & kind at the same time which drew everyone to him & made them love him although we should really have been jealous of such an amazing young man. I hasve known Steve most of my life & always enjoyed my holidays spending time with him & his family on his farm in Wales. They all helped to make him the special person he was. Steve was always up to some antic or other. Things were never boring with him around. It is a shame all our time with him has been cut short. Things won't be the same without him to share the fun times although he will always be in our minds.
+Jenny AngelSteve lived more than most people would in 5 lifetimes in his 29 years. He had a happy, adventure and fun-filled life surrounded by people that loved him, family and friends. He had travelled the world & excelled at a variety of sports. Even as a child he was good at everything he tried. He was amazingly fit running, cycling, climbing & windsurfing the mountains and lakes of North Wales where he grew up. A 20 mile run was a short walk for him. He was cheeky & up for a laugh but sensitive & kind at the same time which drew everyone to him & made them love him although we should really have been jealous of such an amazing young man. I hasve known Steve most of my life & always enjoyed my holidays spending time with him & his family on his farm in Wales. They all helped to make him the special person he was. Steve was always up to some antic or other. Things were never boring with him around. It is a shame all our time with him has been cut short. Things won't be the same without him to share the fun times although he will always be in our minds.
 
-Catrin Mererid
-I will cherish forever the fond memories I have of Steven. We had so much fun in Ysgol Llannefydd. Love from Catrin.
+Catrin MereridI will cherish forever the fond memories I have of Steven. We had so much fun in Ysgol Llannefydd. Love from Catrin.
 
 With fond memories from all at Pen Coed
 
-Mervyn & Annwen
-In Memory of Steve - With fond memories from all at Ivy House
+Mervyn & AnnwenIn Memory of Steve - With fond memories from all at Ivy House
 
-Mr & Mrs Ellis
-In loving memory of our wonderful son Steve, who gave us so much. Words cannot describe. With all our love for ever. Mum & Dad.
+Mr & Mrs EllisIn loving memory of our wonderful son Steve, who gave us so much. Words cannot describe. With all our love for ever. Mum & Dad.
 
-David & Jeannette Orange
-A little help for Professor Dalgleish in memory of a great member of the family
+David & Jeannette OrangeA little help for Professor Dalgleish in memory of a great member of the family
 
-David Waterfield
-In memory of a dear friend, who always reminded me that life was for living and not just working. I will always remember the mischievous grin you had on every time I saw you, a grin that very much reflected your outlook on life. You will be much missed but never forgotten mate.
+David WaterfieldIn memory of a dear friend, who always reminded me that life was for living and not just working. I will always remember the mischievous grin you had on every time I saw you, a grin that very much reflected your outlook on life. You will be much missed but never forgotten mate.
 
-Roger & Hazel Goulden
-Remembering Steve, his strength, his courage and his warmth; Joining with all who knew and loved him; With thanks for comfort and hope; Brought by the hands, hearts and skills of all who were entrusted ith his care.
+Roger & Hazel GouldenRemembering Steve, his strength, his courage and his warmth; Joining with all who knew and loved him; With thanks for comfort and hope; Brought by the hands, hearts and skills of all who were entrusted ith his care.
 
-Ernest Ellis
-To a wonderful Grandson who was such good company. Forever in my thoughts. Love from Grandpa Chester
+Ernest EllisTo a wonderful Grandson who was such good company. Forever in my thoughts. Love from Grandpa Chester
 
-Sally, Mike, Emma & Jon Taylor
-In memory of Steven. He was a very special young man who will remain in our hearts forever.
+Sally, Mike, Emma & Jon TaylorIn memory of Steven. He was a very special young man who will remain in our hearts forever.
 
-Gareth Alston
-A brilliant and true friend - will never forget you mate!
+Gareth AlstonA brilliant and true friend - will never forget you mate!
 
-James Hackett
-In Memory of Steve, who achieved so much in his 29 years. An inspiration to all.
+James HackettIn Memory of Steve, who achieved so much in his 29 years. An inspiration to all.
 
-David, Gillian, Helen, Alison & Megan Riley
-We only met Steve the once as a young boy but recognise, through reading the tributes, what a wonderful young man he had become and so much of that is down to you. Our thoughts and prayers are with you.
+David, Gillian, Helen, Alison & Megan RileyWe only met Steve the once as a young boy but recognise, through reading the tributes, what a wonderful young man he had become and so much of that is down to you. Our thoughts and prayers are with you.
 
-Paul & Jackie Hipwell
-We have known Steve since he first started going out with Liz. He was truly an amazing guy who we feel very fortunate to have known. He was very unassuming and always thought of others before himself. We learnt a lot from Steven and our lives are richer as a consequence
+Paul & Jackie HipwellWe have known Steve since he first started going out with Liz. He was truly an amazing guy who we feel very fortunate to have known. He was very unassuming and always thought of others before himself. We learnt a lot from Steven and our lives are richer as a consequence
 
-Ian Forsythe
-Sue & I remember a great young lad, having fun, enjoying life and giving so much pleasure to Sue and Nigel. He will be missed by all who knew him
+Ian ForsytheSue & I remember a great young lad, having fun, enjoying life and giving so much pleasure to Sue and Nigel. He will be missed by all who knew him
 
-Jean MacPherson
-In Memory and with love
+Jean MacPhersonIn Memory and with love
 
-Jill, Richard, Jenny & Claire Harvey
-You are in our thoughts, Sue and Nigel. With love.
+Jill, Richard, Jenny & Claire HarveyYou are in our thoughts, Sue and Nigel. With love.
 
-Ian Tomlin
-Far too soon
+Ian TomlinFar too soon
 
 Liz Wright
 
-David Parry
-We cannot express how much we both admired Steve in every way; he was a most impressive and charming person and so brave; we do not know how his family can start to cope with their loss.
+David ParryWe cannot express how much we both admired Steve in every way; he was a most impressive and charming person and so brave; we do not know how his family can start to cope with their loss.
 
-Sue Ellis
-At Christmas, With Love
+Sue EllisAt Christmas, With Love
 
-Nicky Carroll & Gethin Jones
-We cannot begin to imagine the impact of the loss of Steven on those who loved and knew him best: Sue, Nigel, Barry and Liz. We think of you often. Our own recollections of Steven, together with what we've heard and read about him, represents everything that we could wish our own sons to to grow up to be.
+Nicky Carroll & Gethin JonesWe cannot begin to imagine the impact of the loss of Steven on those who loved and knew him best: Sue, Nigel, Barry and Liz. We think of you often. Our own recollections of Steven, together with what we've heard and read about him, represents everything that we could wish our own sons to to grow up to be.
 
 With fond memories & love from the family in Derm
 
-Christian Wynne
-I completed three events over the summer - the Manchester 10k, the Gothenburg Half Marathon and a 300km Bike Race around Lake Vattern in Sweden. I raised £4862 in memory of Steve.
+Christian WynneI completed three events over the summer - the Manchester 10k, the Gothenburg Half Marathon and a 300km Bike Race around Lake Vattern in Sweden. I raised £4862 in memory of Steve.
 
-Raffle at charity luncheon at Hafodty
-The raffle raised £123
+Raffle at charity luncheon at HafodtyThe raffle raised £123
 
-Rhyl Yacht Club
-£70 donation from fun day entries
+Rhyl Yacht Club£70 donation from fun day entries
 
-Holland and Barratt
-Raised £20 from a collection tin in the Llandudno branch
+Holland and BarrattRaised £20 from a collection tin in the Llandudno branch
 
-Linnis Bradshaw
-£27 raised from the sale of home made jam - in fond memory of Steve - from from Linnis Bradshaw, Tan y Ffynnon, Llannefydd.
+Linnis Bradshaw£27 raised from the sale of home made jam - in fond memory of Steve - from from Linnis Bradshaw, Tan y Ffynnon, Llannefydd.
 
-Patrons of the Duke of Edinburgh hotel
-£60.00 kindly donated by the patrons of the Duke of Edinburgh hotel in Barrow-in-Furness.
+Patrons of the Duke of Edinburgh hotel£60.00 kindly donated by the patrons of the Duke of Edinburgh hotel in Barrow-in-Furness.
 
-Sue Ellis
-£240.00 - Llannefydd sale of unwanted gifts - November 2011.
+Sue Ellis£240.00 - Llannefydd sale of unwanted gifts - November 2011.
 
-Susan Ellis
-£52.00 raised from the sale of homemade greetings cards made by Sue Hart & Sue Forsythe.
+Susan Ellis£52.00 raised from the sale of homemade greetings cards made by Sue Hart & Sue Forsythe.
 
-Family & Friends
-Donations of £150 made by family & friends who could not attend the Quiz night in Cefn - including £20 further donation towards Christian Wynne's amazing challenges- November 2011
+Family & FriendsDonations of £150 made by family & friends who could not attend the Quiz night in Cefn - including £20 further donation towards Christian Wynne's amazing challenges- November 2011
 
-Quiz Night - Sue Ellis
-£500 raised at Quiz held in Cefn supported by loads of Steve's friends - November 2011
+Quiz Night - Sue Ellis£500 raised at Quiz held in Cefn supported by loads of Steve's friends - November 2011
 
-Sue Hart & Sue Forsythe
-£16 raised from the sale of homemade greetings cards made by Sue Hart & Sue Forsythe.
+Sue Hart & Sue Forsythe£16 raised from the sale of homemade greetings cards made by Sue Hart & Sue Forsythe.
 
-ReeBees Florist
-£10.14 - Kindly donated in a collection tin by customers of ReeBee's Florist in Bridge Street Denbigh.
+ReeBees Florist£10.14 - Kindly donated in a collection tin by customers of ReeBee's Florist in Bridge Street Denbigh.
 
-Rhyl Yacht Club
-£200 raised at the Bonfire Party, held on 5th November at the Club.
+Rhyl Yacht Club£200 raised at the Bonfire Party, held on 5th November at the Club.
 
 With our Love, as ever, at Christmas - Mum & Dad
 
-Christmas Fair at Cefn
-£70 raised at the Christmas Fair at Cefn
+Christmas Fair at Cefn£70 raised at the Christmas Fair at Cefn
 
-Jenny Koppen
-Donated £20 in Memory of Steven Bryn Ellis
+Jenny KoppenDonated £20 in Memory of Steven Bryn Ellis
 
-Duke of Edinburgh Hotel
-Many thanks to the Duke of Edinburgh hotel in Barrow in Furness who supported the quiz nights to raise this donation of £48.50.
+Duke of Edinburgh HotelMany thanks to the Duke of Edinburgh hotel in Barrow in Furness who supported the quiz nights to raise this donation of £48.50.
 
-Duke of Edinburgh Hotel, Barrow in Furness
-£115 was raised by the patrons of the weekly quiz night at the
+Duke of Edinburgh Hotel, Barrow in Furness£115 was raised by the patrons of the weekly quiz night at the
 
-Ritchie Jones
-£15 generously donated
+Ritchie Jones£15 generously donated
 
-Sue Ellis
-With thanks to all who supported our very successful quiz night in Cefn
+Sue EllisWith thanks to all who supported our very successful quiz night in Cefn
 
-Duke of Edinburgh Hotel, Barrow in Furness
-Many thanks to the patrons of the Duke of Edinburgh Hotel for raising a further £60 at another quiz night.
+Duke of Edinburgh Hotel, Barrow in FurnessMany thanks to the patrons of the Duke of Edinburgh Hotel for raising a further £60 at another quiz night.
 
-Ian and Vanessa Oldham
-What a great idea to have a weekend celebrating Steven’s life! Best wishes from Ian and Vanessa
+Ian and Vanessa OldhamWhat a great idea to have a weekend celebrating Steven’s life! Best wishes from Ian and Vanessa
 
-Roger Goulden
-We shared a memorable weekend at Hafodty and at the Brenig with friends and family
+Roger GouldenWe shared a memorable weekend at Hafodty and at the Brenig with friends and family
 
-Nigel Ellis 
-£98.96 has been raised from the family selling items on eBay in memory of Steve.
+Nigel Ellis £98.96 has been raised from the family selling items on eBay in memory of Steve.
 
-Sue Ellis
-£23.70 raised from the sale of CVI Christmas cards & homemade cards at the Strawberry tea at Hafodty
+Sue Ellis£23.70 raised from the sale of CVI Christmas cards & homemade cards at the Strawberry tea at Hafodty
 
-Sue Ellis
-£158.50 raised – Thanks to all who supported our Strawberry cream teas and scones at Hafodty, jointly in aid of with help from Llannefydd Parish Church
+Sue Ellis£158.50 raised – Thanks to all who supported our Strawberry cream teas and scones at Hafodty, jointly in aid of with help from Llannefydd Parish Church
 
 Rhyl Yacht Club -With many thanks to all those who supported the Rhyl Yacht Club 'Tea & cakes on the Lawn' and purchased raffle tickets in aid of CVI. £44 was raised.
 
@@ -250,13 +182,13 @@ Michael & Sally's Sponsored Walk - So far the CVI have received £1,926.09 from 
 
 Nigel Ellis- £1.57 raised through Ebay sales.
 
-Eisteddfod y Tai - This annual village event raised £150.60, by selling 'paned' (cups of tea), and selling an Oak Trough, which was donated by Alun Jones, Bryn Isa. 
+Eisteddfod y Tai - This annual village event raised £150.60, by selling 'paned' (cups of tea), and selling an Oak Trough, which was donated by Alun Jones, Bryn Isa.
 
 Susan Ellis - £105 was raised at the Christmas Fair in the Neuadd Owen selling cards and other gifts.  Many thanks to the organisers for allowing me to have a 'pitch'.
 
 The Duke of Edinburgh Hotel, Barrow in Furness - £65 was raised at their recent quiz night. Many thanks to all the patrons who attend these events and give so generously.
 
-Yanxia Han - Even three years on I still think about my dear friend Steve and miss him very much.  Such an amazing guy and amazing travel buddy.  He is an inspiration and an ambassador to the way we should all live our lives...to the fullest and without fear.
+Yanxia Han - Even three years on I still think about my dear friend Steve and miss him very much.  Such an amazing guy and amazing travel buddy.  He is an inspiration and an ambassador to the way we should all live our lives…to the fullest and without fear.
 
 The Duke of Edinburgh Hotel, Barrow in Furness - a further £110 was raised at their regular quiz nights in memory of Steven.  These events have raised over £700 over the last few years.  Many thanks to all those who attend these events and donate so generously and regularly.
 
@@ -272,31 +204,31 @@ Linnis & Neil Bradshaw - Such a very kind donation from Linnis & Neil Bradshaw a
 
 The Duke of Edinburgh Hotel, Barrow in Furness - a recent quiz night raised a further £100 in October 2013, bringing the total raised over the years to £920.
 
-Sale of Unwanted Gifts, this event was run by Sue Ellis in November 2013, jointly in aid of Llannefydd Parish Church - £196 was raised.  Many thanks to all the helpers and supporters.  
+Sale of Unwanted Gifts, this event was run by Sue Ellis in November 2013, jointly in aid of Llannefydd Parish Church - £196 was raised.  Many thanks to all the helpers and supporters.
 
 "Look After Yourself Evening" - was also organised by Sue Ellis.  £422.60p was raised, by offering talks, demonstrations and tastes of many complimentary therapies and a cheese andwine supper - again many thanks to all.
 
 Sale of Cards - of the money raised at these two events, £82 was from the sale of cards - including handmade cards, made by Sue Hart & Sue Forsythe, and CVI cards.
 
-Pat, Doug and family - Always in our thoughts and remembered with much affection and love. 
+Pat, Doug and family - Always in our thoughts and remembered with much affection and love.
 
 Capt & Mrs H Williams - Many thanks for kindly donating a gentleman's watch, the proceeds of which raised £125 including gift aid.
 
-The Duke of Edinburgh Hotel - Once again staff and patrons have raised £80.00 for Steve's Tribute Fund, this time in a Halloween party. 
+The Duke of Edinburgh Hotel - Once again staff and patrons have raised £80.00 for Steve's Tribute Fund, this time in a Halloween party.
 
 Barry Ellis and friends raised £650 in the annual 'K2B' event.  They covered the 40 - very hilly - miles between Keswick and Barrow, in the Lake District, to raise this amount for Barry's brother Steven.
 
-Sue & Nigel Ellis - have given a Christmas donation towards Steven's Tribute Fund of £200. 
+Sue & Nigel Ellis - have given a Christmas donation towards Steven's Tribute Fund of £200.
 
 Sue & Nigel Ellis - very generously donated £100 towards the Cancer Vaccine Institute's 2014 Christmas Appeal.
 
 Sue Forsythe - £30 was raised from selling cards made by Sue Forsythe
 
-K2B Walk - Thanks to all those who took part in this annual event and raised £600 for Steven's Tribute Fund. 
+K2B Walk - Thanks to all those who took part in this annual event and raised £600 for Steven's Tribute Fund.
 
-Duke of Edinburgh Hotel in Barrow in Furness raised £100 with a Charity bottle on the bar.  The patrons at this hotel have raised an amazing £1007 over the last few years.  Thanks to Steven's brother Barry for continuing with his fundraising efforts. 
+Duke of Edinburgh Hotel in Barrow in Furness raised £100 with a Charity bottle on the bar.  The patrons at this hotel have raised an amazing £1007 over the last few years.  Thanks to Steven's brother Barry for continuing with his fundraising efforts.
 
-Duke of Edinburgh Hotel in Barrow in Furness have raised a further £103.39 with their collection bottle.  Thanks to all the patrons of the hotel who continue to support the CVI. 
+Duke of Edinburgh Hotel in Barrow in Furness have raised a further £103.39 with their collection bottle.  Thanks to all the patrons of the hotel who continue to support the CVI.
 
 Kind donation from sale of eBay items by Ian Forsythe.
 
