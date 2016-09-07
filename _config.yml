@@ -27,7 +27,10 @@ sass:
 collections:
   research-projects:
     output: true
+    permalink: /:collection/:path/
   case-studies:
     output: true
+    permalink: /:collection/:path/
   tribute-funds:
     output: true
+    permalink: /:collection/:path/
