@@ -12,8 +12,10 @@ categories:
       <div class="panel-body">
         <strong>Quick links</strong>
         <ul class="list-unstyled">
-          <li><a href="#">Case study 1</a></li>
-          <li><a href="#">Case study 2</a></li>          
+          {% for post in site.research-projects limit:3 %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endfor %}
+          
           {% include research-quick-links.html %}
         </ul>
       </div>
