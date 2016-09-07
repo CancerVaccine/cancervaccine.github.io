@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Welcome to our new site!'
-date: 2015-11-05T20:30:00.000Z
-author: Marie
+title: 'Still under construction - Almost Ready!'
+date: 2016-09-07T13:50:00.000Z
+author: Rob
 ---
 
 
-Welcome to the Cancer Vaccine Institute's new website! It is currently under construction, but expect more news and updates to come soon.&nbsp;
+The site is nearly ready! Keep checking back for exciting updates!.&nbsp;
