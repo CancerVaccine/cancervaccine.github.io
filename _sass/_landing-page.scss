@@ -21,7 +21,7 @@ body, h1, h2, h3, h4, h5, h6 {
     background-size: cover;
     text-align: center;
     
-    @media (max-width: 767px) {
+    @media (min-width: 767px) {
         background-position: 0px -253px;
     }
 }
