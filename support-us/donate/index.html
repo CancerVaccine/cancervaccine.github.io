@@ -28,7 +28,7 @@ hero-image-class: donate-hero-image
 			<h5>Quick links</h5>
 			<ul>
 				<li><a href="/support-us/donate#monthly-donation">Monthly Donation</a></li>
-				<li><a href="/support-us/donate#mone-off-donation">One-Off Donation</a></li>
+				<li><a href="/support-us/donate#one-off-donation">One-Off Donation</a></li>
 				<li><a href="/support-us/donate#tribute">Tribute funds</a></li>
 				<li>Fundraising Volunteer</li>
 			</ul>
@@ -67,24 +67,24 @@ hero-image-class: donate-hero-image
           </div>
         </div>
 		</div>
-	</div>
-	<div class="col-md-12" id="tribute">		
-		<p class="title">Tribute funds donation</p>
-		<p>A Tribute Fund is a unique and lasting way to honour and remember someone special to you. Named after the person who has died it enables family, friends and colleagues to contribute to the fund either by donating money or raising funds as far into the
-			future as they wish. All of the money raised will support the Cancer Vaccine Institute’s pioneering research work and bring hope to future generations.
-		</p>
-		<div class="row">
-            <div class="col-xs-12">
-                <ul class="list-unstyled">
-                    {% for tribute in site.tribute-funds %}
-                        <li><a href="{{ tribute.url }}">{{ tribute.title }}</a></li>
-                    {% endfor %}
-
-                </ul>
+		<div class="col-md-12" id="tribute">		
+    		<p class="title">Tribute funds donation</p>
+    		<p>A Tribute Fund is a unique and lasting way to honour and remember someone special to you. Named after the person who has died it enables family, friends and colleagues to contribute to the fund either by donating money or raising funds as far into the
+    			future as they wish. All of the money raised will support the Cancer Vaccine Institute’s pioneering research work and bring hope to future generations.
+    		</p>
+    		<div class="row">
+                <div class="col-xs-12">
+                    <ul class="list-unstyled">
+                        {% for tribute in site.tribute-funds %}
+                            <li><a href="{{ tribute.url }}">{{ tribute.title }}</a></li>
+                        {% endfor %}
+    
+                    </ul>
+                </div>
             </div>
-        </div>
-        <p class="title-small">Want to set up a Tribute fund?</p>
-        <p>Setting up a fund is easy and the CVI will handle all the administration as well as providing regular updates on how the fund is growing. We can even set up a unique page on our website with details of the fund and an option for people to support it.
-        </p>
+            <p class="title-small">Want to set up a Tribute fund?</p>
+            <p>Setting up a fund is easy and the CVI will handle all the administration as well as providing regular updates on how the fund is growing. We can even set up a unique page on our website with details of the fund and an option for people to support it.
+            </p>
+    	</div>
 	</div>
 </div>
