@@ -12,9 +12,29 @@
     <div class="col-xs-12">
       <h3>{{ post.title }}</h3>
       <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-      <p>Posted by: {{ post.author }} {{ post.date | date_to_long_string }}</p>
+      <p>Posted by: {{ post.author }} on the {% assign d = post.date | date: "%-d"  %}
+        {{ post.date | date: "%B" }} 
+        {% case d %}
+          {% when '1' or '21' or '31' %}{{ d }}st
+          {% when '2' or '22' %}{{ d }}nd
+          {% when '3' or '23' %}{{ d }}rd
+          {% else %}{{ d }}th
+          {% endcase %}, 
+        {{ post.date | date: "%Y" }}</p>
         <p><a href="{{ post.url | prepend: site.baseurl }}" role="button">Read more &raquo;</a></p>
     </div>
     {% endfor %}
   </div>
 </div>
+
+
+
+{% assign d = page.date | date: "%-d"  %}
+{{ page.date | date: "%B" }} 
+{% case d %}
+  {% when '1' or '21' or '31' %}{{ d }}st
+  {% when '2' or '22' %}{{ d }}nd
+  {% when '3' or '23' %}{{ d }}rd
+  {% else %}{{ d }}th
+  {% endcase %}, 
+{{ page.date | date: "%Y" }}
