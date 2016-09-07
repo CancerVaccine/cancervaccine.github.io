@@ -28,6 +28,6 @@ collections:
   research-projects:
     output: true
   case-studies:
-    output: false
+    output: true
   tribute-funds:
     output: true
