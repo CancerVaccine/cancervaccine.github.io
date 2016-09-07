@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gem "jekyll", '3.2.1'
+gem "jekyll"
 gem "guard"
 gem "guard-livereload"
