@@ -7,7 +7,6 @@
     background: url("/assets/images/desktop-logo.png") no-repeat;
     background-size: contain;
     background-position: 0px 17px;
-    //width: 200px;
   }
 
 }
@@ -48,7 +47,7 @@
     .navbar-header{
         .donate-button{
             padding: 11px 40px;
-    	    margin-left: 58px;
+    	    margin-left: 25px;
         }
     }
 }
@@ -56,7 +55,7 @@
 @media (min-width:1440px) {
     .navbar-header{
         .donate-button{
-    	    margin-left: 108px;
+    	    margin-left: 25px;
         }
     }
 }
