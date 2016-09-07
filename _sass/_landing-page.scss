@@ -80,6 +80,13 @@ body, h1, h2, h3, h4, h5, h6 {
     padding-bottom: 0;
 }
 
+.content-section-top{
+    margin: 4% 0;
+    .content-section-top-left a{
+        color: #fff;
+    }
+}
+
 .content-section-a {
     background-color: #2b6e8b;
     color: #fff;
