@@ -12,7 +12,7 @@
     <div class="col-xs-12">
       <h3>{{ post.title }}</h3>
       <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-      <p>Posted by: {{ post.author }} {{ page.date }}</p>
+      <p>Posted by: {{ post.author }} {{ post.date | date_to_long_string }}</p>
         <p><a href="{{ post.url | prepend: site.baseurl }}" role="button">Read more &raquo;</a></p>
     </div>
     {% endfor %}
