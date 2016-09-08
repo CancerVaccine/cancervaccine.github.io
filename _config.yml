@@ -35,5 +35,3 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-gems:
-    - jekyll-minifier
