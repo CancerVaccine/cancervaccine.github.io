@@ -1,4 +1,5 @@
 .donate-button {
+    @include button-variant($btn-warning-color, $btn-warning-bg, $btn-warning-border);
     @include bounce-in();
 }
 

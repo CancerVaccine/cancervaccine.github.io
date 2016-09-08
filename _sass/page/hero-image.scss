@@ -26,9 +26,15 @@ header {
   }
 
   h1 {
+    margin: 0;
     position: relative;
     top: 10px;
     left: 10px;
     color: #fff;
+
+    @media (min-width: $screen-sm-min) {
+      top: 30px;
+      left: 20px;
+    }
   }
 }
