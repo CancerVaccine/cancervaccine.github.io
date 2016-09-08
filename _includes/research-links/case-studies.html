@@ -8,11 +8,11 @@
           <p>
             {% for post in site.case-studies %}
               {% if forloop.first %}
-                {{ post.content | strip_html | truncatewords: 50 }}
+                {{ post.content | strip_html | truncatewords: 30 }}
               {% endif %}
             {% endfor %}
           </p>
-          <p class="editable"></p><p><a href="/our-reearch/case-studies">Read more &raquo;</a></p>
+          <p class="editable"></p><p><a href="/our-research/case-studies">Read more &raquo;</a></p>
           <p></p>
         </div>
       </div>
