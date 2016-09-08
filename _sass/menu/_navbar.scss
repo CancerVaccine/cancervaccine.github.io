@@ -3,12 +3,17 @@
   background-size: contain;
   background-position: 7px 19px;
   width: 150px;
+
   @media (min-width: $screen-md-min) {
     background: url("/assets/images/desktop-logo.png") no-repeat;
     background-size: contain;
     background-position: 0px 17px;
   }
 
+  .navbar > .container &,
+  .navbar > .container-fluid & {
+    margin-left: 0;
+  }
 }
 
 .navbar-header{
