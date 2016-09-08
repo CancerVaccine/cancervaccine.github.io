@@ -14,7 +14,7 @@ hero-image-class: donate-hero-image
     list-style-image: none;
     list-style: none;
   }
-  
+
   .title {
     font-weight: bold;
   }
@@ -55,7 +55,7 @@ hero-image-class: donate-hero-image
         </div>
       </div>
       <div class="row" id="tribute">
-        <div class="col-xs-8">
+        <div class="col-xs-12">
           <div class="panel panel-default">
             <div class="panel-body">
               <p class="title editable">Tribute funds donation</p>
@@ -81,31 +81,11 @@ hero-image-class: donate-hero-image
             </div>
           </div>
         </div>
-        <div class="col-xs-4">
-          <div class="row" id="fundraise">
-            <div class="col-xs-12">
-              <div class="panel panel-default">
-                <div class="panel-body">
-                  <p class="title editable">Fundraising</p>
-                  <p class="editable"></p>
-                  <a class="editable" href="/support-us/fundraise">Read more></a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="row editable" id="volunteer">
-            <div class="col-xs-12">
-              <div class="panel panel-default">
-                <div class="panel-body">
-                  <p class="title editable">Volunteer</p>
-                  <p class="editable"></p>
-                  <a class="editable" href="/support-us/volunteer">Read more></a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
+
+      {% include support-us-links/fundraise.html %}
+      {% include support-us-links/volunteer.html %}
+      {% include support-us-links/tribute-funds.html %}
 
     </div>
   </div>
