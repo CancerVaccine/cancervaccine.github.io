@@ -1,3 +1,7 @@
 .donate-button {
     @include bounce-in();
 }
+
+.emphasised-button {
+    text-transform: uppercase;
+}
