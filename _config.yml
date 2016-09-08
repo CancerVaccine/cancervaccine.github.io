@@ -34,3 +34,6 @@ collections:
   tribute-funds:
     output: true
     permalink: /:collection/:path/
+
+gems:
+    - jekyll-minifier
