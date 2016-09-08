@@ -31,7 +31,9 @@ collections:
   case-studies:
     output: true
     permalink: /:collection/:path/
+  history:
+    output: true
+    permalink: /:collection/:path/
   tribute-funds:
     output: true
     permalink: /:collection/:path/
-

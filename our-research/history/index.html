@@ -15,7 +15,7 @@ categories:
           {% for post in site.research-projects limit:3 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
           {% endfor %}
-          
+
           {% include research-quick-links.html %}
         </ul>
       </div>
@@ -36,28 +36,25 @@ categories:
   </div>
 </div>
 
-
-
-  <div class="row">
-    <div class="col-xs-12">
-      <div class="well">
-            <strong class="editable">Research Projects</strong>            
-              {% for project in site.research-projects %}
-                  <li><a href="{{ project.url }}">{{ project.title }}</a></li>
-              {% endfor %}
+{% for post in site.history %}
+    <div class="row" id="{{ post.title | url_escape }}">
+      <div class="col-xs-12">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">{{ post.title }}</h3>
+        </div>
+        <div class="panel-body">
+            {{ post.content }}
+        </div>
+        </div>
       </div>
     </div>
-  </div>
+{% endfor %}
 
-  <div class="row">
-    <div class="col-xs-12">
-      <div class="well">
-            <strong class="editable">Related Trails</strong>
-            <p class="editable"></p><p><a href="" class="editable">Read more »</a></p>
-            <p></p>
-          </div>
-    </div>
-  </div>
+{% include research-links/research-projects.html %}
+{% include research-links/case-studies.html %}
+{% include research-links/related-trials.html %}
+
 
 </div>
 
