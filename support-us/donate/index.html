@@ -10,116 +10,103 @@ CustomDonation: another value
 hero-image-class: donate-hero-image
 ---
 <style>
-	ul li {
-		list-style-image: none;
-		list-style: none;
-	}
-
-	.title {
-		font-weight: bold;
-	}
+  ul li {
+    list-style-image: none;
+    list-style: none;
+  }
+  
+  .title {
+    font-weight: bold;
+  }
 </style>
 <div class="row">
-	<div class="col-md-12">
-	    <!-- 
-	    // Quick links don't work as the scroll is affected by the fixed header
-		<div class="col-md-3 hidden">
-            <div class="panel panel-default">
-                <div class="panel-body">
-        			<h5>Quick links</h5>
-        			<ul>
-        				<li><a href="#monthly-donation">Monthly Donation</a></li>
-        				<li><a href="#one-off-donation">One-Off Donation</a></li>
-        				<li><a href="#tribute">Tribute funds</a></li>
-        				<li><a href="#fundraise">Fundraise</a></li>
-        				<li><a href="#volunteer">Volunteer</a></li>
-        			</ul>
-    			</div>
-			</div>
-		</div>
-		--> 
-		<div class="col-md-12">
-			<p class="editable">We don’t receive any money from the government and rely solely on voluntary donations to raise the £600K we need each year to keep our research work going. You can help us by donating now</p>
-			<div class="row">
+  <div class="col-md-12">
+    <div class="col-md-12">
+      <p class="editable">We don’t receive any money from the government and rely solely on voluntary donations to raise the £600K we need each
+        year to keep our research work going. You can help us by donating now</p>
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <p class="lead editable" style="margin:0">
+                Our funds come from charitable trusts and individual fundraisers.
+                <br /> We do not receive funding from the government.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row" id="monthly-donation">
+        <div class="col-xs-12">
+          <div class="panel panel-default">
+            <div class="panel-body">
+              {% include donations/donate-monthly.html %}
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row" id="one-off-donation">
+        <div class="col-xs-12">
+          <div class="panel panel-default">
+            <div class="panel-body">
+              {% include donations/donate-single.html %}
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row" id="tribute">
+        <div class="col-xs-8">
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <p class="title editable">Tribute funds donation</p>
+              <p class="editable">A Tribute Fund is a unique and lasting way to honour and remember someone special to you. Named after the person
+                who has died it enables family, friends and colleagues to contribute to the fund either by donating money
+                or raising funds as far into the future as they wish. All of the money raised will support the Cancer Vaccine
+                Institute’s pioneering research work and bring hope to future generations.
+              </p>
+              <div class="row">
+                <div class="col-xs-12">
+                  <ul class="list-unstyled">
+                    {% for tribute in site.tribute-funds %}
+                    <li><a href="{{ tribute.url }}">{{ tribute.title }}</a></li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              </div>
+              <p class="title-small editable">Want to set up a Tribute fund?</p>
+              <p class="editable">Setting up a fund is easy and the CVI will handle all the administration as well as providing regular updates
+                on how the fund is growing. We can even set up a unique page on our website with details of the fund and
+                an option for people to support it.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-4">
+          <div class="row" id="fundraise">
             <div class="col-xs-12">
               <div class="panel panel-default">
                 <div class="panel-body">
-                  <p class="lead editable" style="margin:0">
-                    Our funds come from charitable trusts and individual fundraisers.
-                    <br />
-                    We do not receive funding from the government.
-                  </p>
+                  <p class="title editable">Fundraising</p>
+                  <p class="editable"></p>
+                  <a class="editable" href="/support-us/fundraise">Read more></a>
                 </div>
               </div>
             </div>
           </div>
-          <div class="row" id="monthly-donation">
+          <div class="row editable" id="volunteer">
             <div class="col-xs-12">
               <div class="panel panel-default">
                 <div class="panel-body">
-                  {% include donations/donate-monthly.html %}
+                  <p class="title editable">Volunteer</p>
+                  <p class="editable"></p>
+                  <a class="editable" href="/support-us/volunteer">Read more></a>
                 </div>
-              </div>
-            </div>
-          </div>
-        <div class="row" id="one-off-donation">
-          <div class="col-xs-12">
-            <div class="panel panel-default">
-              <div class="panel-body">
-                {% include donations/donate-single.html %}
               </div>
             </div>
           </div>
         </div>
-    	<div class="row" id="tribute">	
-            <div class="col-xs-8">	
-                <div class="panel panel-default">
-                    <div class="panel-body">
-                		<p class="title editable">Tribute funds donation</p>
-                		<p class="editable">A Tribute Fund is a unique and lasting way to honour and remember someone special to you. Named after the person who has died it enables family, friends and colleagues to contribute to the fund either by donating money or raising funds as far into the
-                			future as they wish. All of the money raised will support the Cancer Vaccine Institute’s pioneering research work and bring hope to future generations.
-                		</p>
-                		<div class="row">
-                            <div class="col-xs-12">
-                                <ul class="list-unstyled">
-                                    {% for tribute in site.tribute-funds %}
-                                        <li><a href="{{ tribute.url }}">{{ tribute.title }}</a></li>
-                                    {% endfor %}
-                                </ul>
-                            </div>
-                        </div>
-                        <p class="title-small editable">Want to set up a Tribute fund?</p>
-                        <p class="editable">Setting up a fund is easy and the CVI will handle all the administration as well as providing regular updates on how the fund is growing. We can even set up a unique page on our website with details of the fund and an option for people to support it.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xs-4">
-               <div class="row" id="fundraise">
-              <div class="col-xs-12">
-                <div class="panel panel-default">
-                  <div class="panel-body">
-                    <p class="title editable">Fundraising</p>
-                		<p class="editable"></p>
-                		<a class="editable" href="/support-us/fundraise">Read more></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="row editable" id="volunteer">
-              <div class="col-xs-12">
-                <div class="panel panel-default">
-                  <div class="panel-body">
-                    <p class="title editable">Volunteer</p>
-                		<p class="editable"></p>
-                		<a class="editable" href="/support-us/volunteer">Read more></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            </div>
-        </div>
-           
-		</div>
-	</div>
+      </div>
+
+    </div>
+  </div>
 </div>
