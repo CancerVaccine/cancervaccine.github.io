@@ -30,16 +30,11 @@ categories:
 
 {% for post in site.history %}
     <div class="row" id="{{ post.title | url_escape }}">
-      <div class="col-xs-12">
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h3 class="panel-title">{{ post.title }}</h3>
+        <div class="col-xs-12">
+          <div class="panel-body">
+              {{ post.content }}
+          </div>
         </div>
-        <div class="panel-body">
-            {{ post.content }}
-        </div>
-        </div>
-      </div>
     </div>
 {% endfor %}
 
