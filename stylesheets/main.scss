@@ -6,6 +6,7 @@
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
   "bootstrap-custom-variables", // Custom variables must load before bootstrap.
+  "includes/variables",
   "bootstrap",
   "landing-page",
   "hover/hover",
