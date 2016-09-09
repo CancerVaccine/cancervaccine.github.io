@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Case Studies
-categories: [navbar]
+categories:
+  - navbar
 hero-image-class: case-studies-hero-image
 ---
 
@@ -13,7 +14,7 @@ hero-image-class: case-studies-hero-image
   </div>
 
 <div class="col-xs-12 col-sm-9 case-studies">
-<p class="editable">TODO</p>
+<p class="editable">We have a long list of patients who have done extremely well as patients of Professor Dalgleish. These may have attended his NHS or private clinics, or been referred for trials by him. Here are just a few of their stories. For press enquiries please <a href="/contact-us/">Contact Us </a>.</p>
 
 {% for post in site.case-studies %}
     <div class="row" id="{{ post.title | url_escape }}">
