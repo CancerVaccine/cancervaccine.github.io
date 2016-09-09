@@ -5,7 +5,7 @@ date: 2015-11-05T20:30:00.000Z
 ---
 
 
-Standing hand on hip one day in 2006 I felt a lump the size of a grape on my right side.&nbsp; I knew it would change everything.&nbsp;
+![](/uploads/versions/img-0871-1---x----3712-2712x---.jpg)Standing hand on hip one day in 2006 I felt a lump the size of a grape on my right side.&nbsp; I knew it would change everything.&nbsp;
 
 It wasn’t the first time.&nbsp; Aged 26 I was diagnosed with a melanoma.&nbsp; Thankfully, the cancer hadn’t spread and the mole was removed.&nbsp; At each annual checkup I began to relax.&nbsp; By the time I felt the lump I’d been cancer free for fifteen years.&nbsp;
 
