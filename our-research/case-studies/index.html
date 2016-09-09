@@ -18,7 +18,7 @@ hero-image-class: case-studies-hero-image
 
 {% assign items = site.case-studies | sort: 'date' %}
 {% for post in items reversed %}
-    <div class="row" id="{{ post.title | url_escape }}">
+    <div class="row case-study" id="{{ post.title | url_escape }}">
       <div class="col-xs-12">
       <div class="panel panel-default">
         <div class="panel-heading">
