@@ -16,7 +16,7 @@ hero-image-class: case-studies-hero-image
 <div class="col-xs-12 col-sm-9 case-studies">
 <p class="editable">We have a long list of patients who have done extremely well as patients of Professor Dalgleish. These may have attended his NHS or private clinics, or been referred for trials by him. Here are just a few of their stories. For press enquiries please <a href="/contact-us/">Contact Us </a>.</p>
 
-{% for post in site.case-studies %}
+{% for post in site.case-studies | sort %}
     <div class="row" id="{{ post.title | url_escape }}">
       <div class="col-xs-12">
       <div class="panel panel-default">
