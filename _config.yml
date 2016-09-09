@@ -26,13 +26,13 @@ sass:
 
 collections:
   research-projects:
-    output: true
+    output: false
     permalink: /:collection/:path/
   case-studies:
-    output: true
+    output: false
     permalink: /:collection/:path/
   achievements:
-    output: true
+    output: false
     permalink: /:collection/:path/
   tribute-funds:
     output: true
