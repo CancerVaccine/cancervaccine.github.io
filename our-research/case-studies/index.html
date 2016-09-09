@@ -7,23 +7,9 @@ hero-image-class: case-studies-hero-image
 
 
 <div class="row">
-  <div class="col-xs-12 col-sm-3">
-    <div class="panel panel-default">
-      <div class="panel-body">
-        <strong>Quick links </strong>
-        <ul class="list-unstyled">
-          {% for post in site.case-studies limit:3 %}
-            <li><a href="#{{ post.title | url_escape }}">{{ post.title }}</a></li>
-          {% endfor %}
-
-          {% include research-quick-links.html %}
-        </ul>
-      </div>
-    </div>
-
+  <div class="col-sm-3 hidden-xs">
   {% include ways-to-donate.html %}
   {% include ways-to-support-us.html %}
-
   </div>
 
 <div class="col-xs-12 col-sm-9 case-studies">
