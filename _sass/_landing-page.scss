@@ -31,15 +31,18 @@ body, h1, h2, h3, h4, h5, h6 {
     height: 400px;
 
     @media (min-width: $screen-lg-min) {
+        color:red;
     }
 
     @media (min-width: $screen-sm-min) {
         height: 280px;
         margin-top: 0;
+        color:blue;
     }
 
     @media (min-width: $screen-md-min) {
         height: 400px;
+        color:green;
     }
 }
 
