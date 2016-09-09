@@ -15,4 +15,8 @@ In June 2010, Professor Dalgleish administered the first BCG vaccine.
 
 I am now delighted to be in remission. I have regular checks with both the Oncology and Melanoma Clinics.
 
-I am so grateful to my doctors, including Professor Dalgleish and all at the CVI. As my way of saying “thank you”, I organised a fundraising bike ride to Paris from Thames Ditton (360 miles!). I enlisted 10 other riders to take part and was delighted to raise £10,000 for the CVI. I also wanted to raise awareness of this amazing charity whose research really makes a difference – more people need to know about it.
+I am so grateful to my doctors, including Professor Dalgleish and all at the CVI. As my way of saying “thank you”, I organised a fundraising bike ride to Paris from Thames Ditton (360 miles!). I enlisted 10 other riders to take part and was delighted to raise &pound;10,000 for the CVI. I also wanted to raise awareness of this amazing charity whose research really makes a difference – more people need to know about it.
+
+&nbsp;
+
+&nbsp;
