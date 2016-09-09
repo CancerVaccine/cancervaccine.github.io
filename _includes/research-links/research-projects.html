@@ -1,21 +1,16 @@
 <div class="row">
   <div class="col-xs-12">
     <div class="well">
-      <div class="row">
-      <img src="/assets/images/migrated/jo-and-jen-10k-monica-W.jpg" class="img-responsive col-xs-2" alt="Responsive image" />
-        <div class=" col-xs-10">
-          <strong>Research Project</strong>
-          <p>
-            {% for post in site.research-projects %}
-              {% if forloop.first %}
-                {{ post.content | strip_html | truncatewords: 30 }}
-              {% endif %}
-            {% endfor %}
-          </p>
-          <p><a href="/our-research/research-projects">Read more &raquo;</a></p>
-          <p></p>
-        </div>
-      </div>
+      <strong>Research Project</strong>
+      <p class="text-justify">
+        {% for post in site.research-projects %}
+          {% if forloop.first %}
+            {{ post.content | strip_html | truncatewords: 30 }}
+          {% endif %}
+        {% endfor %}
+      </p>
+      <p><a href="/our-research/research-projects">Read more &raquo;</a></p>
+      <p></p>
     </div>
   </div>
 </div>
