@@ -5,7 +5,7 @@ date: 2016-05-09T00:00:00.000Z
 ---
 
 
-**“A double blind, randomized controlled trial of *Mycobacterium obuense* (IMM-101) versus placebo in men with localized prostate cancer managed with active surveillance”**
+“A double blind, randomized controlled trial of Mycobacterium obuense (IMM-101) versus placebo in men with localized prostate cancer managed with active surveillance”
 
 Scope and purpose
 
