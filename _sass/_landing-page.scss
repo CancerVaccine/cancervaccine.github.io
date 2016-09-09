@@ -31,7 +31,6 @@ body, h1, h2, h3, h4, h5, h6 {
     height: 400px;
 
     @media (min-width: $screen-lg-min) {
-        margin-top: 0;
     }
 
     @media (min-width: $screen-sm-min) {
@@ -40,6 +39,7 @@ body, h1, h2, h3, h4, h5, h6 {
 
     @media (min-width: $screen-md-min) {
         height: 400px;
+        margin-top: 0;
     }
 }
 
