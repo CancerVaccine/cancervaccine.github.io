@@ -20,7 +20,7 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 
 .intro-header {
-    color: red;//#f8f8f8;
+    color: #f8f8f8;
     background: #005262 url(/assets/images/homepage/homepage.jpg);
     background-repeat: no-repeat;
     background-position: 0 -80px;
@@ -35,11 +35,11 @@ body, h1, h2, h3, h4, h5, h6 {
 
     @media (min-width: $screen-sm-min) {
         height: 400px;
+        margin-top: 0;
     }
 
     @media (min-width: $screen-md-min) {
         height: 400px;
-        margin-top: 0;
     }
 }
 
