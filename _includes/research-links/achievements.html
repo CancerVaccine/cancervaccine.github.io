@@ -1,15 +1,15 @@
 <div class="row">
   <div class="col-xs-12">
     <div class="well">
-      <strong>Research History &amp; Achievements</strong>
+      <strong>Research Achievements</strong>
       <p class="text-justify">
-        {% for post in site.history %}
+        {% for post in site.achievements %}
           {% if forloop.first %}
             {{ post.content | strip_html | truncatewords: 30 }}
           {% endif %}
         {% endfor %}
       </p>
-      <p><a href="/our-research/history/">Read more &raquo;</a></p>
+      <p><a href="/our-research/achievements/">Read more &raquo;</a></p>
       <p></p>
     </div>
   </div>
