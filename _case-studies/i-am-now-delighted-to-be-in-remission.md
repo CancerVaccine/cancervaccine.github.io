@@ -7,7 +7,7 @@ date: 2015-11-05T20:30:00.000Z
 
 ![Peter Cook](/uploads/versions/peter-cook---x----250-375x---.jpg){: .right-image}
 
-Back in 1996 aged just twenty-five, I had mole removed that had some cell abnormalities… cancer wasn’t mentioned. Five years later I developed swollen lymph glands and alump under my left armpit and was diagnosed as having malignant melanoma. Surgery followed including four craniotomy procedures when lesions were discovered in my brain.
+Back in 1996 aged just twenty-five, I had mole removed that had some cell abnormalities… cancer wasn’t mentioned. Five years later I developed swollen lymph glands and a lump under my left armpit and was diagnosed as having malignant melanoma. Surgery followed including four craniotomy procedures when lesions were discovered in my brain.
 
 Having tried various unsuccessful approaches my treatment options were running out. I was fortunate to be recommended to Professor Dalgleish and as a result able to follow a course of dendritic cell cancer vaccine coupled with m-vaccae and thalidomide.
 
