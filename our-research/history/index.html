@@ -13,11 +13,14 @@ categories:
   </div>
 
 <div class="col-xs-12 col-sm-9">
+  <p class="editable">
+    TODO
+  </p>
 
 {% for post in site.history %}
     <div class="row" id="{{ post.title | url_escape }}">
         <div class="col-xs-12">
-          <div class="panel-body">
+          <div class="well">
               {{ post.content }}
           </div>
         </div>
