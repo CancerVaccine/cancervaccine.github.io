@@ -15,13 +15,18 @@ categories:
 <div class="col-xs-12 col-sm-9">
   <p class="editable">This page lists some of the achievements of our Principal, Professor Gus Dalgleish and his team, both before and during the existence of the Cancer Vaccine Institute.</p>
 
-{% for post in site.history %}
+{% for post in site.achievements %}
     <div class="row" id="{{ post.title | url_escape }}">
-        <div class="col-xs-12">
-          <div class="well text-justified">
-              {{ post.content }}
-          </div>
+      <div class="col-xs-12">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">{{ post.title }}</h3>
         </div>
+        <div class="panel-body">
+            {{ post.content }}
+        </div>
+        </div>
+      </div>
     </div>
 {% endfor %}
 
