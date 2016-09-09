@@ -26,3 +26,7 @@
 .jumbotron {
   text-shadow: 2px 2px #888888;
 }
+
+body {
+    padding-top: $navbar-height;
+}
