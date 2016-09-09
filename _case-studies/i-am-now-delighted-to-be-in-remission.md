@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'I am now delighted to be in remission.'"
+title: "'I am living a normal life.'"
 date: 2015-11-05T20:30:00.000Z
 ---
 

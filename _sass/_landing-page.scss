@@ -23,25 +23,32 @@ body, h1, h2, h3, h4, h5, h6 {
     color: #f8f8f8;
     background: #005262 url(/assets/images/homepage/homepage.jpg);
     background-repeat: no-repeat;
-    background-position: 0 0;
+    background-position: 0 -80px;
     background-size: cover;
     text-align: center;
     margin-top: $navbar-height-mobile;
     position: relative;
     height: 400px;
 
+    @media (min-width: $screen-lg-min) {
+        color:red;
+    }
+
     @media (min-width: $screen-sm-min) {
-        height: 500px;
+        height: 280px;
+        margin-top: 0;
+        color:blue;
     }
 
     @media (min-width: $screen-md-min) {
-        height: 600px;
+        height: 400px;
+        color:green;
     }
 }
 
 .intro-header-content {
     position: absolute;
-    top: 130px;
+    top: 118px;
 }
 
 .intro-message {
@@ -73,7 +80,7 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 
 .content-section-top {
-    margin: 50px 0 0;
+    margin: 10px 0 0;
 
     @media (min-width: $screen-sm-min) {
         margin: 20px 0;
