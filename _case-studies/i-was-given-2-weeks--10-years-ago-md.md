@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'I was given 2 weeks. 10 years ago!'"
+title: "'I was given 2 weeks to live 10 years ago!'"
 date: 2016-09-08T20:30:00.000Z
 ---
 
