@@ -18,9 +18,9 @@ We'd like to share with you Steve's challenge, to turn his experience into a pos
 
 Professor Dalgleish and his team are working on various aspects of improving the survival rate of melanoma patients including; dendritic cell vaccines, many alternative treatments to boost the immune response to kill cancer cells, and the use of chemotherapy combined with immunotherapy. Your donations will allow Professor Dalgleish to continue with his invaluable work to save lives from this awful disease and give other families hope.
 
-Steve's family would like to say thank you for all the anonymous cash donations, received by the undertakers, in memory of Steve. These amounted to £467.00.
+Steve's family would like to say thank you for all the anonymous cash donations, received by the undertakers, in memory of Steve. These amounted to &pound;467.00.
 
-Steve's family have been supporting the Cancer Vaccine Institute through various fundraising initiatives and have so far raised over £26,000.00
+Steve's family have been supporting the Cancer Vaccine Institute through various fundraising initiatives and have so far raised over &pound;26,000.00
 
 This page will be updated, at least weekly, so may not reflect all receipts/messages at any one time
 
@@ -120,116 +120,116 @@ Nicky Carroll & Gethin JonesWe cannot begin to imagine the impact of the loss of
 
 With fond memories & love from the family in Derm
 
-Christian WynneI completed three events over the summer - the Manchester 10k, the Gothenburg Half Marathon and a 300km Bike Race around Lake Vattern in Sweden. I raised £4862 in memory of Steve.
+Christian WynneI completed three events over the summer - the Manchester 10k, the Gothenburg Half Marathon and a 300km Bike Race around Lake Vattern in Sweden. I raised &pound;4862 in memory of Steve.
 
-Raffle at charity luncheon at HafodtyThe raffle raised £123
+Raffle at charity luncheon at HafodtyThe raffle raised &pound;123
 
-Rhyl Yacht Club£70 donation from fun day entries
+Rhyl Yacht Club&pound;70 donation from fun day entries
 
-Holland and BarrattRaised £20 from a collection tin in the Llandudno branch
+Holland and BarrattRaised &pound;20 from a collection tin in the Llandudno branch
 
-Linnis Bradshaw£27 raised from the sale of home made jam - in fond memory of Steve - from from Linnis Bradshaw, Tan y Ffynnon, Llannefydd.
+Linnis Bradshaw&pound;27 raised from the sale of home made jam - in fond memory of Steve - from from Linnis Bradshaw, Tan y Ffynnon, Llannefydd.
 
-Patrons of the Duke of Edinburgh hotel£60.00 kindly donated by the patrons of the Duke of Edinburgh hotel in Barrow-in-Furness.
+Patrons of the Duke of Edinburgh hotel&pound;60.00 kindly donated by the patrons of the Duke of Edinburgh hotel in Barrow-in-Furness.
 
-Sue Ellis£240.00 - Llannefydd sale of unwanted gifts - November 2011.
+Sue Ellis&pound;240.00 - Llannefydd sale of unwanted gifts - November 2011.
 
-Susan Ellis£52.00 raised from the sale of homemade greetings cards made by Sue Hart & Sue Forsythe.
+Susan Ellis&pound;52.00 raised from the sale of homemade greetings cards made by Sue Hart & Sue Forsythe.
 
-Family & FriendsDonations of £150 made by family & friends who could not attend the Quiz night in Cefn - including £20 further donation towards Christian Wynne's amazing challenges- November 2011
+Family & FriendsDonations of &pound;150 made by family & friends who could not attend the Quiz night in Cefn - including &pound;20 further donation towards Christian Wynne's amazing challenges- November 2011
 
-Quiz Night - Sue Ellis£500 raised at Quiz held in Cefn supported by loads of Steve's friends - November 2011
+Quiz Night - Sue Ellis&pound;500 raised at Quiz held in Cefn supported by loads of Steve's friends - November 2011
 
-Sue Hart & Sue Forsythe£16 raised from the sale of homemade greetings cards made by Sue Hart & Sue Forsythe.
+Sue Hart & Sue Forsythe&pound;16 raised from the sale of homemade greetings cards made by Sue Hart & Sue Forsythe.
 
-ReeBees Florist£10.14 - Kindly donated in a collection tin by customers of ReeBee's Florist in Bridge Street Denbigh.
+ReeBees Florist&pound;10.14 - Kindly donated in a collection tin by customers of ReeBee's Florist in Bridge Street Denbigh.
 
-Rhyl Yacht Club£200 raised at the Bonfire Party, held on 5th November at the Club.
+Rhyl Yacht Club&pound;200 raised at the Bonfire Party, held on 5th November at the Club.
 
 With our Love, as ever, at Christmas - Mum & Dad
 
-Christmas Fair at Cefn£70 raised at the Christmas Fair at Cefn
+Christmas Fair at Cefn&pound;70 raised at the Christmas Fair at Cefn
 
-Jenny KoppenDonated £20 in Memory of Steven Bryn Ellis
+Jenny KoppenDonated &pound;20 in Memory of Steven Bryn Ellis
 
-Duke of Edinburgh HotelMany thanks to the Duke of Edinburgh hotel in Barrow in Furness who supported the quiz nights to raise this donation of £48.50.
+Duke of Edinburgh HotelMany thanks to the Duke of Edinburgh hotel in Barrow in Furness who supported the quiz nights to raise this donation of &pound;48.50.
 
-Duke of Edinburgh Hotel, Barrow in Furness£115 was raised by the patrons of the weekly quiz night at the
+Duke of Edinburgh Hotel, Barrow in Furness&pound;115 was raised by the patrons of the weekly quiz night at the
 
-Ritchie Jones£15 generously donated
+Ritchie Jones&pound;15 generously donated
 
 Sue EllisWith thanks to all who supported our very successful quiz night in Cefn
 
-Duke of Edinburgh Hotel, Barrow in FurnessMany thanks to the patrons of the Duke of Edinburgh Hotel for raising a further £60 at another quiz night.
+Duke of Edinburgh Hotel, Barrow in FurnessMany thanks to the patrons of the Duke of Edinburgh Hotel for raising a further &pound;60 at another quiz night.
 
 Ian and Vanessa OldhamWhat a great idea to have a weekend celebrating Steven’s life! Best wishes from Ian and Vanessa
 
 Roger GouldenWe shared a memorable weekend at Hafodty and at the Brenig with friends and family
 
-Nigel Ellis £98.96 has been raised from the family selling items on eBay in memory of Steve.
+Nigel Ellis &pound;98.96 has been raised from the family selling items on eBay in memory of Steve.
 
-Sue Ellis£23.70 raised from the sale of CVI Christmas cards & homemade cards at the Strawberry tea at Hafodty
+Sue Ellis&pound;23.70 raised from the sale of CVI Christmas cards & homemade cards at the Strawberry tea at Hafodty
 
-Sue Ellis£158.50 raised – Thanks to all who supported our Strawberry cream teas and scones at Hafodty, jointly in aid of with help from Llannefydd Parish Church
+Sue Ellis&pound;158.50 raised – Thanks to all who supported our Strawberry cream teas and scones at Hafodty, jointly in aid of with help from Llannefydd Parish Church
 
-Rhyl Yacht Club -With many thanks to all those who supported the Rhyl Yacht Club 'Tea & cakes on the Lawn' and purchased raffle tickets in aid of CVI. £44 was raised.
+Rhyl Yacht Club -With many thanks to all those who supported the Rhyl Yacht Club 'Tea & cakes on the Lawn' and purchased raffle tickets in aid of CVI. &pound;44 was raised.
 
 Jenny Koppen - was a great weekend at the Brenig XXX
 
-Family Gathering weekend at Hafodty 23-24th June - Many thanks to all those that attended and donated over this weekend. Over £3,000 has been collected so far from this fundraising weekend.
+Family Gathering weekend at Hafodty 23-24th June - Many thanks to all those that attended and donated over this weekend. Over &pound;3,000 has been collected so far from this fundraising weekend.
 
-Michael & Sally's Sponsored Walk - So far the CVI have received £1,926.09 from all those who kindly sponsored them
+Michael & Sally's Sponsored Walk - So far the CVI have received &pound;1,926.09 from all those who kindly sponsored them
 
-Nigel Ellis- £1.57 raised through Ebay sales.
+Nigel Ellis- &pound;1.57 raised through Ebay sales.
 
-Eisteddfod y Tai - This annual village event raised £150.60, by selling 'paned' (cups of tea), and selling an Oak Trough, which was donated by Alun Jones, Bryn Isa.
+Eisteddfod y Tai - This annual village event raised &pound;150.60, by selling 'paned' (cups of tea), and selling an Oak Trough, which was donated by Alun Jones, Bryn Isa.
 
-Susan Ellis - £105 was raised at the Christmas Fair in the Neuadd Owen selling cards and other gifts.  Many thanks to the organisers for allowing me to have a 'pitch'.
+Susan Ellis - &pound;105 was raised at the Christmas Fair in the Neuadd Owen selling cards and other gifts. Many thanks to the organisers for allowing me to have a 'pitch'.
 
-The Duke of Edinburgh Hotel, Barrow in Furness - £65 was raised at their recent quiz night. Many thanks to all the patrons who attend these events and give so generously.
+The Duke of Edinburgh Hotel, Barrow in Furness - &pound;65 was raised at their recent quiz night. Many thanks to all the patrons who attend these events and give so generously.
 
-Yanxia Han - Even three years on I still think about my dear friend Steve and miss him very much.  Such an amazing guy and amazing travel buddy.  He is an inspiration and an ambassador to the way we should all live our lives…to the fullest and without fear.
+Yanxia Han - Even three years on I still think about my dear friend Steve and miss him very much. Such an amazing guy and amazing travel buddy. He is an inspiration and an ambassador to the way we should all live our lives…to the fullest and without fear.
 
-The Duke of Edinburgh Hotel, Barrow in Furness - a further £110 was raised at their regular quiz nights in memory of Steven.  These events have raised over £700 over the last few years.  Many thanks to all those who attend these events and donate so generously and regularly.
+The Duke of Edinburgh Hotel, Barrow in Furness - a further &pound;110 was raised at their regular quiz nights in memory of Steven. These events have raised over &pound;700 over the last few years. Many thanks to all those who attend these events and donate so generously and regularly.
 
 Pat & Doug Angel - Particularly remembering Steve at this time and what a wonderful guy he was.
 
-The Duke of Edinburgh Hotel, Barrow in Furness - a recent quiz night raised a further £110 in August 2013.  Many thanks to all the patrons of these evenings.  £820 has been raised so far at these events.
+The Duke of Edinburgh Hotel, Barrow in Furness - a recent quiz night raised a further &pound;110 in August 2013. Many thanks to all the patrons of these evenings. &pound;820 has been raised so far at these events.
 
-Sale of Cards, made by Sue Hart and Sue Forsythe - £42 was recently raised by Sue Ellis selling these cards.  A total of £110 has been raised over the years.  Many thanks.
+Sale of Cards, made by Sue Hart and Sue Forsythe - &pound;42 was recently raised by Sue Ellis selling these cards. A total of &pound;110 has been raised over the years. Many thanks.
 
 XXX
 
 Linnis & Neil Bradshaw - Such a very kind donation from Linnis & Neil Bradshaw and Loris Nicholson, when Loris requested a charity donation, in lieu of payment, for the amazing spread of food that she laid on, on the occasion of the marriage of Linnis & Neil's son Sam and wife Jess - very many thanks to all.
 
-The Duke of Edinburgh Hotel, Barrow in Furness - a recent quiz night raised a further £100 in October 2013, bringing the total raised over the years to £920.
+The Duke of Edinburgh Hotel, Barrow in Furness - a recent quiz night raised a further &pound;100 in October 2013, bringing the total raised over the years to &pound;920.
 
-Sale of Unwanted Gifts, this event was run by Sue Ellis in November 2013, jointly in aid of Llannefydd Parish Church - £196 was raised.  Many thanks to all the helpers and supporters.
+Sale of Unwanted Gifts, this event was run by Sue Ellis in November 2013, jointly in aid of Llannefydd Parish Church - &pound;196 was raised. Many thanks to all the helpers and supporters.
 
-"Look After Yourself Evening" - was also organised by Sue Ellis.  £422.60p was raised, by offering talks, demonstrations and tastes of many complimentary therapies and a cheese andwine supper - again many thanks to all.
+"Look After Yourself Evening" - was also organised by Sue Ellis. &pound;422.60p was raised, by offering talks, demonstrations and tastes of many complimentary therapies and a cheese andwine supper - again many thanks to all.
 
-Sale of Cards - of the money raised at these two events, £82 was from the sale of cards - including handmade cards, made by Sue Hart & Sue Forsythe, and CVI cards.
+Sale of Cards - of the money raised at these two events, &pound;82 was from the sale of cards - including handmade cards, made by Sue Hart & Sue Forsythe, and CVI cards.
 
 Pat, Doug and family - Always in our thoughts and remembered with much affection and love.
 
-Capt & Mrs H Williams - Many thanks for kindly donating a gentleman's watch, the proceeds of which raised £125 including gift aid.
+Capt & Mrs H Williams - Many thanks for kindly donating a gentleman's watch, the proceeds of which raised &pound;125 including gift aid.
 
-The Duke of Edinburgh Hotel - Once again staff and patrons have raised £80.00 for Steve's Tribute Fund, this time in a Halloween party.
+The Duke of Edinburgh Hotel - Once again staff and patrons have raised &pound;80.00 for Steve's Tribute Fund, this time in a Halloween party.
 
-Barry Ellis and friends raised £650 in the annual 'K2B' event.  They covered the 40 - very hilly - miles between Keswick and Barrow, in the Lake District, to raise this amount for Barry's brother Steven.
+Barry Ellis and friends raised &pound;650 in the annual 'K2B' event. They covered the 40 - very hilly - miles between Keswick and Barrow, in the Lake District, to raise this amount for Barry's brother Steven.
 
-Sue & Nigel Ellis - have given a Christmas donation towards Steven's Tribute Fund of £200.
+Sue & Nigel Ellis - have given a Christmas donation towards Steven's Tribute Fund of &pound;200.
 
-Sue & Nigel Ellis - very generously donated £100 towards the Cancer Vaccine Institute's 2014 Christmas Appeal.
+Sue & Nigel Ellis - very generously donated &pound;100 towards the Cancer Vaccine Institute's 2014 Christmas Appeal.
 
-Sue Forsythe - £30 was raised from selling cards made by Sue Forsythe
+Sue Forsythe - &pound;30 was raised from selling cards made by Sue Forsythe
 
-K2B Walk - Thanks to all those who took part in this annual event and raised £600 for Steven's Tribute Fund.
+K2B Walk - Thanks to all those who took part in this annual event and raised &pound;600 for Steven's Tribute Fund.
 
-Duke of Edinburgh Hotel in Barrow in Furness raised £100 with a Charity bottle on the bar.  The patrons at this hotel have raised an amazing £1007 over the last few years.  Thanks to Steven's brother Barry for continuing with his fundraising efforts.
+Duke of Edinburgh Hotel in Barrow in Furness raised &pound;100 with a Charity bottle on the bar. The patrons at this hotel have raised an amazing &pound;1007 over the last few years. Thanks to Steven's brother Barry for continuing with his fundraising efforts.
 
-Duke of Edinburgh Hotel in Barrow in Furness have raised a further £103.39 with their collection bottle.  Thanks to all the patrons of the hotel who continue to support the CVI.
+Duke of Edinburgh Hotel in Barrow in Furness have raised a further &pound;103.39 with their collection bottle. Thanks to all the patrons of the hotel who continue to support the CVI.
 
 Kind donation from sale of eBay items by Ian Forsythe.
 
-Duke of Edinburgh Hotel in Barrow in Furness have raised £85.  Many thanks to all the patrons who give so generously.   They have raised £1,195.39 in total for Steve's tribute fund over the years.
+Duke of Edinburgh Hotel in Barrow in Furness have raised &pound;85. Many thanks to all the patrons who give so generously. They have raised &pound;1,195.39 in total for Steve's tribute fund over the years.
