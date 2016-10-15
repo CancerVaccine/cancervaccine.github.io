@@ -5,7 +5,7 @@ date: 2016-09-08 20:30:00
 ---
 
 
-![](/uploads/versions/shelley-blewitt---x0-0-1024-748-3712-2712x---.jpg)Standing hand on hip one day in 2006 I felt a lump the size of a grape on my right side.&nbsp; I knew it would change everything.
+![](/uploads/versions/shelley-blewitt---x----1024-748x---.jpg)Standing hand on hip one day in 2006 I felt a lump the size of a grape on my right side.&nbsp; I knew it would change everything.
 
 It wasn’t the first time.&nbsp; Aged 26 I was diagnosed with a melanoma.&nbsp; Thankfully, the cancer hadn’t spread and the mole was removed.&nbsp; At each annual checkup I began to relax.&nbsp; By the time I felt the lump I’d been cancer free for fifteen years.
 
