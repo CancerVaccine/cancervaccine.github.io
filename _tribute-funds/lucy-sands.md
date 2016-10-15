@@ -17,6 +17,8 @@ hero-image-class: lucy-sands-hero-image
 * [Follow the Lucy Sands Tribute Fund on Facebook](http://www.facebook.com/LucySandsTributeFund)
 
 
+&nbsp;
+
 #### About Lucy
 
 Lucy was an incredibly gentle and loving soul. She is greatly missed by her family and friends and we hope that by raising money in her memory inroads will be made into the treatment of melanoma and other cancers.
