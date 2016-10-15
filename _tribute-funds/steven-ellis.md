@@ -7,22 +7,31 @@ title: The Steven Bryn Ellis Tribute Fund
 #### To all of Steve’s friends
 
 Steve was an amazing guy, always strong, always positive and with never a bad word to say about anyone. This may sound like our biased family opinion but from the many tributes that are pouring in we know that so many others also share our view. You have all expressed shock and sadness at his passing but also conveyed, with such warmth, the respect and love with which you regarded him as he was a best friend to many!
+{: .present-before-paste}
 
 Steve was first diagnosed in June 2006, from that moment until his death in May 2010 he never once sought self-pity or special treatment, he used to say that “I’m only ill when I’m in the hospital, otherwise lets just enjoy ourselves and get on with life”. Steve truly lived life to the full, putting so much energy and enthusiasm into everything that he did. Together with Liz they ensured that every moment was a moment to be treasured, whether that was on one of their many travels (14 different countries at the last count) or simply a night in watching DVDs and eating fish & chips.
+{: .present-before-paste}
 
 Steve left a letter for his family and we’d like to share an excerpt with you as it not only illustrates his strength of character and positivity but also sets us a challenge:-
+{: .present-before-paste}
 
 "You control how you react to different situations and I ask you to react positively to this one and every one that you face. Please pass on my future best wishes to those who I met and cared for, and those who cared for me. I thank them too for every little bit of my life that they contributed to"
+{: .present-before-paste}
 
 We’d like to share with you Steve’s challenge, to turn his experience into a positive (as he did), by asking you to donate in Steve’s memory to the valuable work being done by Professor Dalgleish. While in hospital, Steve received the most amazing care from so many medical professionals (too many to mention - thank you all) but ‘the Prof’ was always there, always positive, always ready with an alternative treatment. His support gave Steve and his family great hope and enabled them to enjoy the last 4 years of Steve’s life.
+{: .present-before-paste}
 
 Professor Dalgleish and his team are working on various aspects of improving the survival rate of melanoma patients including; dendritic cell vaccines, many alternative treatments to boost the immune response to kill cancer cells, and the use of chemotherapy combined with immunotherapy. Your donations will allow Professor Dalgleish to continue with his invaluable work to save lives from this awful disease and give other families hope.
+{: .present-before-paste}
 
 Steve’s family would like to say thank you for all the anonymous cash donations, received by the undertakers, in memory of Steve. These amounted to &pound;467.00.
+{: .present-before-paste}
 
 Steve’s family have been supporting the Cancer Vaccine Institute through various fundraising initiatives and have so far raised over **&pound;26,000.00**
+{: .present-before-paste}
 
 &nbsp;
+{: .present-before-paste}
 
 #### Messages from donors
 
@@ -51,25 +60,25 @@ Steve’s family have been supporting the Cancer Vaccine Institute through vario
 * **Sarah & Michael Canby -&nbsp;**We never met Steve but we are humbled by his strength and courage - and by the strength and courage of his family. Let us all wish “the Prof” and his team every success in their future work.
 * **Tim & Gill Allen -&nbsp;**Steven was amazing guy and brilliant friend. It was an honour to have had Steven as a friend. He will be missed! It was a privilege to be part of celebrating Steven’s life and meeting some of the friends he had made and sharing the memories we all have. Our thoughts are with Sue, Nigel, Barry, Liz & the rest of the family. RIP Steve.
 * **Jenny Angel -&nbsp;**Steve lived more than most people would in 5 lifetimes in his 29 years. He had a happy, adventure and fun-filled life surrounded by people that loved him, family and friends. He had travelled the world & excelled at a variety of sports. Even as a child he was good at everything he tried. He was amazingly fit running, cycling, climbing & windsurfing the mountains and lakes of North Wales where he grew up. A 20 mile run was a short walk for him. He was cheeky & up for a laugh but sensitive & kind at the same time which drew everyone to him & made them love him although we should really have been jealous of such an amazing young man. I hasve known Steve most of my life & always enjoyed my holidays spending time with him & his family on his farm in Wales. They all helped to make him the special person he was. Steve was always up to some antic or other. Things were never boring with him around. It is a shame all our time with him has been cut short. Things won’t be the same without him to share the fun times although he will always be in our minds.
-* Catrin MereridI will cherish forever the fond memories I have of Steven. We had so much fun in Ysgol Llannefydd. Love from Catrin.
-* With fond memories from all at Pen Coed
-* Mervyn & AnnwenIn Memory of Steve - With fond memories from all at Ivy House
-* Mr & Mrs EllisIn loving memory of our wonderful son Steve, who gave us so much. Words cannot describe. With all our love for ever. Mum & Dad.
-* David & Jeannette OrangeA little help for Professor Dalgleish in memory of a great member of the family
-* David WaterfieldIn memory of a dear friend, who always reminded me that life was for living and not just working. I will always remember the mischievous grin you had on every time I saw you, a grin that very much reflected your outlook on life. You will be much missed but never forgotten mate.
-* Roger & Hazel GouldenRemembering Steve, his strength, his courage and his warmth; Joining with all who knew and loved him; With thanks for comfort and hope; Brought by the hands, hearts and skills of all who were entrusted ith his care.
-* Ernest EllisTo a wonderful Grandson who was such good company. Forever in my thoughts. Love from Grandpa Chester
-* Sally, Mike, Emma & Jon TaylorIn memory of Steven. He was a very special young man who will remain in our hearts forever.
-* Gareth AlstonA brilliant and true friend - will never forget you mate!
-* James HackettIn Memory of Steve, who achieved so much in his 29 years. An inspiration to all.
-* David, Gillian, Helen, Alison & Megan RileyWe only met Steve the once as a young boy but recognise, through reading the tributes, what a wonderful young man he had become and so much of that is down to you. Our thoughts and prayers are with you.
-* Paul & Jackie HipwellWe have known Steve since he first started going out with Liz. He was truly an amazing guy who we feel very fortunate to have known. He was very unassuming and always thought of others before himself. We learnt a lot from Steven and our lives are richer as a consequence
-* Ian ForsytheSue & I remember a great young lad, having fun, enjoying life and giving so much pleasure to Sue and Nigel. He will be missed by all who knew him
-* Jean MacPhersonIn Memory and with love
-* Jill, Richard, Jenny & Claire HarveyYou are in our thoughts, Sue and Nigel. With love.
-* Ian TomlinFar too soon
-* Liz Wright
-* David ParryWe cannot express how much we both admired Steve in every way; he was a most impressive and charming person and so brave; we do not know how his family can start to cope with their loss.
+* **Catrin Mererid -&nbsp;**I will cherish forever the fond memories I have of Steven. We had so much fun in Ysgol Llannefydd. Love from Catrin.
+* With fond memories from all at **Pen Coed**
+* **Mervyn & Annwen -&nbsp;**In Memory of Steve - With fond memories from all at Ivy House
+* **Mr & Mrs Ellis -&nbsp;**In loving memory of our wonderful son Steve, who gave us so much. Words cannot describe. With all our love for ever. Mum & Dad.
+* **David & Jeannette Orange -&nbsp;**A little help for Professor Dalgleish in memory of a great member of the family
+* **David Waterfield -&nbsp;**In memory of a dear friend, who always reminded me that life was for living and not just working. I will always remember the mischievous grin you had on every time I saw you, a grin that very much reflected your outlook on life. You will be much missed but never forgotten mate.
+* **Roger & Hazel Goulden -&nbsp;**Remembering Steve, his strength, his courage and his warmth; Joining with all who knew and loved him; With thanks for comfort and hope; Brought by the hands, hearts and skills of all who were entrusted ith his care.
+* **Ernest Ellis -&nbsp;**To a wonderful Grandson who was such good company. Forever in my thoughts. Love from Grandpa Chester
+* **Sally, Mike, Emma & Jon Taylor -&nbsp;**In memory of Steven. He was a very special young man who will remain in our hearts forever.
+* **Gareth Alston -&nbsp;**A brilliant and true friend - will never forget you mate!
+* **James Hackett -&nbsp;**In Memory of Steve, who achieved so much in his 29 years. An inspiration to all.
+* **David, Gillian, Helen, Alison & Megan Riley -&nbsp;**We only met Steve the once as a young boy but recognise, through reading the tributes, what a wonderful young man he had become and so much of that is down to you. Our thoughts and prayers are with you.
+* **Paul & Jackie Hipwell -&nbsp;**We have known Steve since he first started going out with Liz. He was truly an amazing guy who we feel very fortunate to have known. He was very unassuming and always thought of others before himself. We learnt a lot from Steven and our lives are richer as a consequence
+* **Ian Forsythe -&nbsp;**Sue & I remember a great young lad, having fun, enjoying life and giving so much pleasure to Sue and Nigel. He will be missed by all who knew him
+* **Jean MacPherson -&nbsp;**In Memory and with love
+* **Jill, Richard, Jenny & Claire Harvey** - You are in our thoughts, Sue and Nigel. With love.
+* **Ian Tomlin -&nbsp;**Far too soon
+* **Liz Wright**
+* **David Parry -&nbsp;**We cannot express how much we both admired Steve in every way; he was a most impressive and charming person and so brave; we do not know how his family can start to cope with their loss.
 * Sue EllisAt Christmas, With Love
 * Nicky Carroll & Gethin JonesWe cannot begin to imagine the impact of the loss of Steven on those who loved and knew him best: Sue, Nigel, Barry and Liz. We think of you often. Our own recollections of Steven, together with what we’ve heard and read about him, represents everything that we could wish our own sons to to grow up to be.
 * With fond memories & love from the family in Derm
