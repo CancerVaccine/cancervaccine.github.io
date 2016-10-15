@@ -100,15 +100,15 @@ Steve’s family have been supporting the Cancer Vaccine Institute through vario
 * **Jenny Koppen -&nbsp;**Donated &pound;20 in Memory of Steven Bryn Ellis
 * **Duke of Edinburgh Hotel -&nbsp;**Many thanks to the Duke of Edinburgh hotel in Barrow in Furness who supported the quiz nights to raise this donation of &pound;48.50.
 * **Duke of Edinburgh Hotel, Barrow in Furness -&nbsp;**&pound;115 was raised by the patrons of the weekly quiz night at the
-* Ritchie Jones&pound;15 generously donated
-* Sue EllisWith thanks to all who supported our very successful quiz night in Cefn
-* Duke of Edinburgh Hotel, Barrow in FurnessMany thanks to the patrons of the Duke of Edinburgh Hotel for raising a further &pound;60 at another quiz night.
-* Ian and Vanessa OldhamWhat a great idea to have a weekend celebrating Steven’s life! Best wishes from Ian and Vanessa
-* Roger GouldenWe shared a memorable weekend at Hafodty and at the Brenig with friends and family
-* Nigel Ellis &pound;98.96 has been raised from the family selling items on eBay in memory of Steve.
-* Sue Ellis&pound;23.70 raised from the sale of CVI Christmas cards & homemade cards at the Strawberry tea at Hafodty
-* Sue Ellis&pound;158.50 raised – Thanks to all who supported our Strawberry cream teas and scones at Hafodty, jointly in aid of with help from Llannefydd Parish Church
-* Rhyl Yacht Club -With many thanks to all those who supported the Rhyl Yacht Club ‘Tea & cakes on the Lawn’ and purchased raffle tickets in aid of CVI. &pound;44 was raised.
+* **Ritchie Jones -&nbsp;**&pound;15 generously donated
+* **Sue Ellis -&nbsp;**With thanks to all who supported our very successful quiz night in Cefn
+* **Duke of Edinburgh Hotel, Barrow in Furness -&nbsp;**Many thanks to the patrons of the Duke of Edinburgh Hotel for raising a further &pound;60 at another quiz night.
+* **Ian and Vanessa Oldham -&nbsp;**What a great idea to have a weekend celebrating Steven’s life! Best wishes from Ian and Vanessa
+* **Roger Goulden -&nbsp;**We shared a memorable weekend at Hafodty and at the Brenig with friends and family
+* **Nigel Ellis -&nbsp;**&pound;98.96 has been raised from the family selling items on eBay in memory of Steve.
+* **Sue Ellis -&nbsp;**&pound;23.70 raised from the sale of CVI Christmas cards & homemade cards at the Strawberry tea at Hafodty
+* **Sue Ellis -&nbsp;**&pound;158.50 raised – Thanks to all who supported our Strawberry cream teas and scones at Hafodty, jointly in aid of with help from Llannefydd Parish Church
+* **Rhyl Yacht Club -**With many thanks to all those who supported the Rhyl Yacht Club ‘Tea & cakes on the Lawn’ and purchased raffle tickets in aid of CVI. &pound;44 was raised.
 * Jenny Koppen - was a great weekend at the Brenig XXX
 * Family Gathering weekend at Hafodty 23-24th June - Many thanks to all those that attended and donated over this weekend. Over &pound;3,000 has been collected so far from this fundraising weekend.
 * Michael & Sally’s Sponsored Walk - So far the CVI have received &pound;1,926.09 from all those who kindly sponsored them
