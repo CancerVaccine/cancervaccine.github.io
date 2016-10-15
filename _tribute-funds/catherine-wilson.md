@@ -1,7 +1,7 @@
 ---
 layout: tribute-fund
 title: The Professor Catherine Wilson Tribute Fund
-tribute_image_path: 
+tribute_image_path: /uploads/profcajwilson-number-2.jpg
 ---
 
 
@@ -14,8 +14,6 @@ Alongside her academic career, Catherine was also an accomplished and passionate
 Catherine was diagnosed with cancer in 2006 and typical to her, she embarked on her treatments with zeal, determination and curiosity. After her initial chemotherapy, she went in search of Prof Dalgleish along the corridors of St Georges. She took on the cancer vaccine treatment he suggested with optimism and enthusiasm, especially when he said she could continue to have a glass of wine. Although ill health eventually took over my mother’s life, we believe that the cancer vaccine treatment added three years to her life (she had been given a prognosis of one year). These were a precious three years to her, her family and her vast array of friends who all miss her greatly.
 
 * Natalie Wilson
-
-
 
 
 #### Messages from the donors
