@@ -3,7 +3,13 @@ layout: page
 tribute_image_path: 
 ---
 
+{% if page.tribute_image_path %}
+    <img src="{{ page.tribute_image_path }}" alt="{{ page.title }}" style="float: right" />
+{% endif %}
+
 {{ content }}
 
-<h4>TEST</h4>
-{{ page.tribute_image_path }}
+<br />
+<p style="text-align: center">
+    <a href="/support-us/donate/" class="btn btn-small donate-button">Donate</a>
+</p>
