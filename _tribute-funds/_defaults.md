@@ -1,6 +1,6 @@
 ---
 layout: tribute-fund
-title: [name of person] Tribute Fund
+title: name of person Tribute Fund
 tribute_image_path: 
 ---
 
