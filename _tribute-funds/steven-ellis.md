@@ -93,9 +93,9 @@ Steve’s family have been supporting the Cancer Vaccine Institute through vario
 * **Family & Friends -&nbsp;**Donations of &pound;150 made by family & friends who could not attend the Quiz night in Cefn - including &pound;20 further donation towards Christian Wynne’s amazing challenges- November 2011
 * **Quiz Night**- Sue Ellis&pound;500 raised at Quiz held in Cefn supported by loads of Steve’s friends - November 2011
 * **Sue Hart & Sue Forsythe -&nbsp;**&pound;16 raised from the sale of homemade greetings cards made by Sue Hart & Sue Forsythe.
-* ReeBees Florist&pound;10.14 - Kindly donated in a collection tin by customers of ReeBee’s Florist in Bridge Street Denbigh.
-* Rhyl Yacht Club&pound;200 raised at the Bonfire Party, held on 5th November at the Club.
-* With our Love, as ever, at Christmas - Mum & Dad
+* **ReeBees Florist -&nbsp;**&pound;10.14 - Kindly donated in a collection tin by customers of ReeBee’s Florist in Bridge Street Denbigh.
+* **Rhyl Yacht Club -&nbsp;**&pound;200 raised at the Bonfire Party, held on 5th November at the Club.
+* With our Love, as ever, at Christmas - **Mum & Dad**
 * Christmas Fair at Cefn&pound;70 raised at the Christmas Fair at Cefn
 * Jenny KoppenDonated &pound;20 in Memory of Steven Bryn Ellis
 * Duke of Edinburgh HotelMany thanks to the Duke of Edinburgh hotel in Barrow in Furness who supported the quiz nights to raise this donation of &pound;48.50.
@@ -121,7 +121,6 @@ Steve’s family have been supporting the Cancer Vaccine Institute through vario
 * Pat & Doug Angel - Particularly remembering Steve at this time and what a wonderful guy he was.
 * The Duke of Edinburgh Hotel, Barrow in Furness - a recent quiz night raised a further &pound;110 in August 2013. Many thanks to all the patrons of these evenings. &pound;820 has been raised so far at these events.
 * Sale of Cards, made by Sue Hart and Sue Forsythe - &pound;42 was recently raised by Sue Ellis selling these cards. A total of &pound;110 has been raised over the years. Many thanks.
-* XXX
 * Linnis & Neil Bradshaw - Such a very kind donation from Linnis & Neil Bradshaw and Loris Nicholson, when Loris requested a charity donation, in lieu of payment, for the amazing spread of food that she laid on, on the occasion of the marriage of Linnis & Neil’s son Sam and wife Jess - very many thanks to all.
 * The Duke of Edinburgh Hotel, Barrow in Furness - a recent quiz night raised a further &pound;100 in October 2013, bringing the total raised over the years to &pound;920.
 * Sale of Unwanted Gifts, this event was run by Sue Ellis in November 2013, jointly in aid of Llannefydd Parish Church - &pound;196 was raised. Many thanks to all the helpers and supporters.
