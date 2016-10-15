@@ -1,0 +1,1 @@
+tribute_image_path: 
