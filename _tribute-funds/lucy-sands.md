@@ -1,16 +1,19 @@
 ---
 layout: page
 title: The Lucy Sands Tribute Fund
+hero-image-class: donate-hero-image 
 ---
 
 
 #### New videos of fundraising events:
 
 * [Letter from Carel Bouwens](/uploads/lucy sands article.pdf)
-* [Lucy Sands Tribute Fund - Three Peaks Challenge](/uploads/lucysands/3peaks.mp4)
-* [Lucy Sands Tribute Fund - Clay Shoot](/uploads/lucysands/clayshoot.mp4)
+* [Lucy Sands Tribute Fund - Three Peaks Challenge](https://youtu.be/Yykplvh-1wQ)
+* [Lucy Sands Tribute Fund - Clay Shoot](https://youtu.be/aPxBhqQumnk)
 * [Follow the Lucy Sands Tribute Fund on Facebook](http://www.facebook.com/LucySandsTributeFund)
 
+
+&nbsp;
 
 #### About Lucy
 
@@ -20,21 +23,18 @@ Lucy was diagnosed with malignant melanoma in December 2006. Whilst definitely s
 
 Lucy came under Professor Dalgleish’s watch in 2010 and participated in experimental trials of the vaccines M Vaccae and Immodulon. When her health deteriorated she started a course of chemotherapy and this, in conjunction with the vaccine, had a remarkable effect. After four months she was back at work, going to weddings and parties and living a normal life. Unfortunately this did not last and Lucy died in December 2011 aged 28.
 
-I am firmly of the belief that there is much more that this vaccine can give and hope that Lucy’s positive reaction (which the Prof described as remarkable) is the tip of a medical iceberg. Cancer, of all types, is an incredibly cruel disease that destroys dreams one by one. It is imperative that Professor Dalgleish’s research continues and all of your donations will help enable this.
+I am firmly of the belief that there is much more that this vaccine can give and hope that Lucy’s positive reaction (which the Prof described as remarkable) is the tip of a medical iceberg. Cancer, of all types, is an incredibly cruel disease that destroys dreams one by one. It is imperative that Professor Dalgleish's research continues and all of your donations will help enable this.
 
 &nbsp;
 
 #### Update
 
-One year on, over &pound;40,000 has been raised in her name to fund research into new methods of treating melanoma and other cancers.
-
-I am incredibily proud of all the people who have helped with this fundraising and am overwhelmed by the generosity of so many that have made this possible.
-
-Thank-you
-
-George Bouwens
-
-December 2012
+> One year on, over &pound;40,000 has been raised in her name to fund research into new methods of treating melanoma and other cancers.
+>
+> I am incredibily proud of all the people who have helped with this fundraising and am overwhelmed by the generosity of so many that have made this possible.
+>
+> Thank-you
+> <br>George Bouwens, December 2012
 
 &nbsp;
 
