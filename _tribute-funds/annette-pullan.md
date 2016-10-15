@@ -1,6 +1,7 @@
 ---
 layout: tribute-fund
 title: The Annette Clair Pullan Tribute Fund
+tribute_image_path: 
 ---
 
 
