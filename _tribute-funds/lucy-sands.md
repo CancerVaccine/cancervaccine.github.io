@@ -22,6 +22,8 @@ Lucy came under Professor Dalgleish's watch in 2010 and participated in experime
 
 I am firmly of the belief that there is much more that this vaccine can give and hope that Lucy's positive reaction (which the Prof described as remarkable) is the tip of a medical iceberg. Cancer, of all types, is an incredibly cruel disease that destroys dreams one by one. It is imperative that Professor Dalgleish's research continues and all of your donations will help enable this.
 
+&nbsp;
+
 #### Update
 
 One year on, over &pound;40,000 has been raised in her name to fund research into new methods of treating melanoma and other cancers.
@@ -33,6 +35,8 @@ Thank-you
 George Bouwens
 
 December 2012
+
+&nbsp;
 
 #### Messages from the donors
 
