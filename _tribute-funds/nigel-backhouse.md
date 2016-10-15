@@ -3,12 +3,16 @@ layout: page
 title: The Nigel Backhouse Tribute Fund
 ---
 
-19 January 1956 - 
-16 December 2008
+
+### Donations so far: &pound;18,480.45
+
+&nbsp;
+
+19 January 1956 - 16 December 2008
 
 Dear friends,
 
-We have decided to support Professor Angus Dalgleish Cancer Vaccine Institute in memory of Nigel because of the incredible care he received at Gus' hands throughout his two-year battle with malignant melanoma. Nigel and I were convinced that if anyone can help to get to the bottom of this hideous disease, it's Gus.
+We have decided to support Professor Angus Dalgleish Cancer Vaccine Institute in memory of Nigel because of the incredible care he received at Gus’ hands throughout his two-year battle with malignant melanoma. Nigel and I were convinced that if anyone can help to get to the bottom of this hideous disease, it’s Gus.
 
 You should know that Gus is an extraordinary scientist and doctor. But over and above his intellectual capabilities, his dedication, care and enthusiasm were an inspiration to Nigel, who thought the absolute world of him.
 
@@ -26,20 +30,13 @@ With all love and thanks,
 
 Sharon Backhouse.
 
-Messages from the donors
+&nbsp;
 
-Jeremy Connell
-In memory of a very special friend
+#### Messages from the donors
 
-Carolyn Derry
-In Memory of a lovely man
-
-The Firkins
-Thank you for giving us the opportunity of remembering such a remarkable man in such a meaningful way. Much love.
-
-Mark Huband
-A courageous and generous friend
-
-Adam & Jen Backhouse - recently got married and very kindly encouraged their friends and family to donate to the CVI instead of buying wedding presents.  Over £1700 was raised. 
-
-Connor Backhouse is completing a French cycling challenge - over £1384 has been raised so far. 
+* **Jeremy Connell -&nbsp;**In memory of a very special friend
+* **Carolyn Derry -&nbsp;**In Memory of a lovely man
+* **The Firkins -&nbsp;**Thank you for giving us the opportunity of remembering such a remarkable man in such a meaningful way. Much love.
+* **Mark Huband -&nbsp;**A courageous and generous friend
+* **Adam & Jen Backhouse -**recently got married and very kindly encouraged their friends and family to donate to the CVI instead of buying wedding presents. Over &pound;1700 was raised.
+* **Connor Backhouse**is completing a French cycling challenge - over &pound;1384 has been raised so far.
