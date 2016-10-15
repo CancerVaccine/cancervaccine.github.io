@@ -8,6 +8,8 @@ title: The Pat Mitchell Tribute Fund
 
 Much loved and much missed by Antoinette, James, Giles and Frances.
 
-Messages from the donors
+&nbsp;
 
-Raal Harris With love and respects
+#### Messages from the donors
+
+* **Raal Harris &nbsp;-&nbsp;**With love and respects
