@@ -23,8 +23,10 @@ categories: [navbar]
           <p>Any money that has previously been donated In Memory can be used to start a Tribute Fund.</p>
           <p><a href="/assets/docs/tribute-funds/leaflet.pdf" target="_blank">For more details, click here.</a></p>
         </div>
-        <div class="col-xs-12">
+    </div>
+    
             <div class="row">
+        <div class="col-xs-12">
                 <p>
                     <ul class="list-unstyled">
                       {% for post in site.tribute-funds %}
@@ -33,10 +35,9 @@ categories: [navbar]
                     </ul>
                 </p>
             </div>
-        {% include support-us-links/donate.html %}
-        {% include support-us-links/fundraise.html %}
-        {% include support-us-links/volunteer.html %}
+            {% include support-us-links/donate.html %}
+            {% include support-us-links/fundraise.html %}
+            {% include support-us-links/volunteer.html %}
       </div>
-    </div>
   </div>
 </div>
