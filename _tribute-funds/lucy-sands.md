@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Lucy Sands Tribute Fund
-hero-image-class: donate-hero-image 
+hero-image-class: lucy-sands-hero-image
 ---
 
 
