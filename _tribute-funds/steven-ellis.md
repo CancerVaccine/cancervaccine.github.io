@@ -79,20 +79,20 @@ Steve’s family have been supporting the Cancer Vaccine Institute through vario
 * **Ian Tomlin -&nbsp;**Far too soon
 * **Liz Wright**
 * **David Parry -&nbsp;**We cannot express how much we both admired Steve in every way; he was a most impressive and charming person and so brave; we do not know how his family can start to cope with their loss.
-* Sue EllisAt Christmas, With Love
-* Nicky Carroll & Gethin JonesWe cannot begin to imagine the impact of the loss of Steven on those who loved and knew him best: Sue, Nigel, Barry and Liz. We think of you often. Our own recollections of Steven, together with what we’ve heard and read about him, represents everything that we could wish our own sons to to grow up to be.
-* With fond memories & love from the family in Derm
-* Christian WynneI completed three events over the summer - the Manchester 10k, the Gothenburg Half Marathon and a 300km Bike Race around Lake Vattern in Sweden. I raised &pound;4862 in memory of Steve.
-* Raffle at charity luncheon at HafodtyThe raffle raised &pound;123
-* Rhyl Yacht Club&pound;70 donation from fun day entries
-* Holland and BarrattRaised &pound;20 from a collection tin in the Llandudno branch
-* Linnis Bradshaw&pound;27 raised from the sale of home made jam - in fond memory of Steve - from from Linnis Bradshaw, Tan y Ffynnon, Llannefydd.
-* Patrons of the Duke of Edinburgh hotel&pound;60.00 kindly donated by the patrons of the Duke of Edinburgh hotel in Barrow-in-Furness.
-* Sue Ellis&pound;240.00 - Llannefydd sale of unwanted gifts - November 2011.
-* Susan Ellis&pound;52.00 raised from the sale of homemade greetings cards made by Sue Hart & Sue Forsythe.
-* Family & FriendsDonations of &pound;150 made by family & friends who could not attend the Quiz night in Cefn - including &pound;20 further donation towards Christian Wynne’s amazing challenges- November 2011
-* Quiz Night - Sue Ellis&pound;500 raised at Quiz held in Cefn supported by loads of Steve’s friends - November 2011
-* Sue Hart & Sue Forsythe&pound;16 raised from the sale of homemade greetings cards made by Sue Hart & Sue Forsythe.
+* **Sue Ellis -&nbsp;**At Christmas, With Love
+* **Nicky Carroll & Gethin Jones -&nbsp;**We cannot begin to imagine the impact of the loss of Steven on those who loved and knew him best: Sue, Nigel, Barry and Liz. We think of you often. Our own recollections of Steven, together with what we’ve heard and read about him, represents everything that we could wish our own sons to to grow up to be.
+* With fond memories & love from the family in **Derm**
+* **Christian Wynne -&nbsp;**I completed three events over the summer - the Manchester 10k, the Gothenburg Half Marathon and a 300km Bike Race around Lake Vattern in Sweden. I raised &pound;4862 in memory of Steve.
+* Raffle at charity luncheon at **Hafodty** - The raffle raised &pound;123
+* **Rhyl Yacht Club -&nbsp;**&pound;70 donation from fun day entries
+* **Holland and Barratt -&nbsp;**Raised &pound;20 from a collection tin in the Llandudno branch
+* **Linnis Bradshaw -&nbsp;**&pound;27 raised from the sale of home made jam - in fond memory of Steve - from from Linnis Bradshaw, Tan y Ffynnon, Llannefydd.
+* **Patrons of the Duke of Edinburgh hotel -&nbsp;**&pound;60.00 kindly donated by the patrons of the Duke of Edinburgh hotel in Barrow-in-Furness.
+* **Sue Ellis -&nbsp;**&pound;240.00 - Llannefydd sale of unwanted gifts - November 2011.
+* **Susan Ellis -&nbsp;**&pound;52.00 raised from the sale of homemade greetings cards made by Sue Hart & Sue Forsythe.
+* **Family & Friends -&nbsp;**Donations of &pound;150 made by family & friends who could not attend the Quiz night in Cefn - including &pound;20 further donation towards Christian Wynne’s amazing challenges- November 2011
+* **Quiz Night**- Sue Ellis&pound;500 raised at Quiz held in Cefn supported by loads of Steve’s friends - November 2011
+* **Sue Hart & Sue Forsythe -&nbsp;**&pound;16 raised from the sale of homemade greetings cards made by Sue Hart & Sue Forsythe.
 * ReeBees Florist&pound;10.14 - Kindly donated in a collection tin by customers of ReeBee’s Florist in Bridge Street Denbigh.
 * Rhyl Yacht Club&pound;200 raised at the Bonfire Party, held on 5th November at the Club.
 * With our Love, as ever, at Christmas - Mum & Dad
