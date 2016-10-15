@@ -1,6 +1,7 @@
 ---
 layout: tribute-fund
 title: The Professor Catherine Wilson Tribute Fund
+tribute_image_path: 
 ---
 
 
