@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tribute-fund
 title: The Annette Clair Pullan Tribute Fund
 ---
 
