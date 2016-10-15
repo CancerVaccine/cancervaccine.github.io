@@ -7,8 +7,8 @@ title: The Lucy Sands Tribute Fund
 #### New videos of fundraising events:
 
 * [Letter from Carel Bouwens](/uploads/lucy sands article.pdf)
-* [Lucy Sands Tribute Fund - Three Peaks Challenge](/uploads/lucysands/3peaks.mp4)
-* [Lucy Sands Tribute Fund - Clay Shoot](/uploads/lucysands/clayshoot.mp4)
+* [Lucy Sands Tribute Fund - Three Peaks Challenge](https://youtu.be/Yykplvh-1wQ)
+* [Lucy Sands Tribute Fund - Clay Shoot](https://youtu.be/aPxBhqQumnk)
 * [Follow the Lucy Sands Tribute Fund on Facebook](http://www.facebook.com/LucySandsTributeFund)
 
 
