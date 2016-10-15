@@ -130,11 +130,11 @@ Steve’s family have been supporting the Cancer Vaccine Institute through vario
 * **Capt & Mrs H Williams -**Many thanks for kindly donating a gentleman’s watch, the proceeds of which raised &pound;125 including gift aid.
 * **The Duke of Edinburgh Hotel -**Once again staff and patrons have raised &pound;80.00 for Steve’s Tribute Fund, this time in a Halloween party.
 * **Barry Ellis and friends -&nbsp;**Raised &pound;650 in the annual ‘K2B’ event. They covered the 40 - very hilly - miles between Keswick and Barrow, in the Lake District, to raise this amount for Barry’s brother Steven.
-* Sue & Nigel Ellis - have given a Christmas donation towards Steven’s Tribute Fund of &pound;200.
-* Sue & Nigel Ellis - very generously donated &pound;100 towards the Cancer Vaccine Institute’s 2014 Christmas Appeal.
-* Sue Forsythe - &pound;30 was raised from selling cards made by Sue Forsythe
-* K2B Walk - Thanks to all those who took part in this annual event and raised &pound;600 for Steven’s Tribute Fund.
-* Duke of Edinburgh Hotel in Barrow in Furness raised &pound;100 with a Charity bottle on the bar. The patrons at this hotel have raised an amazing &pound;1007 over the last few years. Thanks to Steven’s brother Barry for continuing with his fundraising efforts.
-* Duke of Edinburgh Hotel in Barrow in Furness have raised a further &pound;103.39 with their collection bottle. Thanks to all the patrons of the hotel who continue to support the CVI.
-* Kind donation from sale of eBay items by Ian Forsythe.
-* Duke of Edinburgh Hotel in Barrow in Furness have raised &pound;85. Many thanks to all the patrons who give so generously. They have raised &pound;1,195.39 in total for Steve’s tribute fund over the years.
+* **Sue & Nigel Ellis -**have given a Christmas donation towards Steven’s Tribute Fund of &pound;200.
+* **Sue & Nigel Ellis -**very generously donated &pound;100 towards the Cancer Vaccine Institute’s 2014 Christmas Appeal.
+* **Sue Forsythe -**&pound;30 was raised from selling cards made by Sue Forsythe
+* **K2B Walk -**Thanks to all those who took part in this annual event and raised &pound;600 for Steven’s Tribute Fund.
+* **Duke of Edinburgh Hotel in Barrow in Furness**raised &pound;100 with a Charity bottle on the bar. The patrons at this hotel have raised an amazing &pound;1007 over the last few years. Thanks to Steven’s brother Barry for continuing with his fundraising efforts.
+* **Duke of Edinburgh Hotel in Barrow in Furness**have raised a further &pound;103.39 with their collection bottle. Thanks to all the patrons of the hotel who continue to support the CVI.
+* Kind donation from sale of eBay items by **Ian Forsythe.**
+* **Duke of Edinburgh Hotel in Barrow in Furness**have raised &pound;85. Many thanks to all the patrons who give so generously. They have raised &pound;1,195.39 in total for Steve’s tribute fund over the years.
