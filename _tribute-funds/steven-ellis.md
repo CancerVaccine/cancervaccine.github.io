@@ -96,10 +96,10 @@ Steve’s family have been supporting the Cancer Vaccine Institute through vario
 * **ReeBees Florist -&nbsp;**&pound;10.14 - Kindly donated in a collection tin by customers of ReeBee’s Florist in Bridge Street Denbigh.
 * **Rhyl Yacht Club -&nbsp;**&pound;200 raised at the Bonfire Party, held on 5th November at the Club.
 * With our Love, as ever, at Christmas - **Mum & Dad**
-* Christmas Fair at Cefn&pound;70 raised at the Christmas Fair at Cefn
-* Jenny KoppenDonated &pound;20 in Memory of Steven Bryn Ellis
-* Duke of Edinburgh HotelMany thanks to the Duke of Edinburgh hotel in Barrow in Furness who supported the quiz nights to raise this donation of &pound;48.50.
-* Duke of Edinburgh Hotel, Barrow in Furness&pound;115 was raised by the patrons of the weekly quiz night at the
+* **Christmas Fair at Cefn** - &pound;70 raised at the Christmas Fair at Cefn
+* **Jenny Koppen -&nbsp;**Donated &pound;20 in Memory of Steven Bryn Ellis
+* **Duke of Edinburgh Hotel -&nbsp;**Many thanks to the Duke of Edinburgh hotel in Barrow in Furness who supported the quiz nights to raise this donation of &pound;48.50.
+* **Duke of Edinburgh Hotel, Barrow in Furness -&nbsp;**&pound;115 was raised by the patrons of the weekly quiz night at the
 * Ritchie Jones&pound;15 generously donated
 * Sue EllisWith thanks to all who supported our very successful quiz night in Cefn
 * Duke of Edinburgh Hotel, Barrow in FurnessMany thanks to the patrons of the Duke of Edinburgh Hotel for raising a further &pound;60 at another quiz night.
