@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: tribute-fund
 title: The Monica Walters Tribute Fund
+tribute_image_path: 
 ---
 
 

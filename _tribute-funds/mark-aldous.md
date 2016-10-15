@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: tribute-fund
 title: The Mark Aldous Tribute Fund
+tribute_image_path: 
 ---
 
 

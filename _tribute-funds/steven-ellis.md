@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: tribute-fund
 title: The Steven Bryn Ellis Tribute Fund
+tribute_image_path: 
 ---
 
 

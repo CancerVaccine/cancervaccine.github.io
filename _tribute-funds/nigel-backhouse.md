@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: tribute-fund
 title: The Nigel Backhouse Tribute Fund
+tribute_image_path: 
 ---
 
 
