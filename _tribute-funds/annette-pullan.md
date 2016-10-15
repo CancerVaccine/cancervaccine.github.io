@@ -1,11 +1,11 @@
 ---
 layout: tribute-fund
 title: The Annette Clair Pullan Tribute Fund
-tribute_image_path: 
+tribute_image_path: /uploads/annette.jpg
 ---
 
 
-### Donations so far: &pound;22,225.57
+### Donations so far: £22,225.57
 
 Annette died from malignant melanoma, aged just 43, leaving 3 young children to grow up without the love and support of their Mother.
 
