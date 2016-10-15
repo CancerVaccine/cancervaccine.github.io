@@ -1,11 +1,11 @@
 ---
 layout: tribute-fund
 title: The Edwin Poole Tribute Fund
-tribute_image_path: 
+tribute_image_path: /uploads/dadcancer-vaccine-institute-memorial-fund-photo.jpg
 ---
 
 
-### Donations so far: &pound;385.00
+### Donations so far: £385.00
 
 Edwin is a much-missed and dearly loved Husband, Father, Grandfather and friend.
 
@@ -15,8 +15,8 @@ Edwin’s annual check-up with Professor Dalgleish was always a nerve-racking da
 
 In fact Edwin eventually passed away due to an unrelated illness, but his family and friends were always grateful to Professor Dalgleish and the Cancer Vaccine Institute for the extra time that they gave them with him.
 
-&nbsp;
+
 
 #### Messages from the donors
 
-* David and Maggie Bush celebrated their Silver Wedding Anniversary in the Autumn of 2014 and asked for donations rather than gifts.&nbsp;
+* David and Maggie Bush celebrated their Silver Wedding Anniversary in the Autumn of 2014 and asked for donations rather than gifts.
