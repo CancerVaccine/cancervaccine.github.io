@@ -3,8 +3,8 @@ layout: page
 image_path: 
 ---
 
-{% if page.image_path %}
-    <img src="{{ page.image_path }}" alt="{{ page.title }}" style="float: right; margin: 15px" />
+{% if layout.image_path %}
+    <img src="{{ layout.image_path }}" alt="{{ page.title }}" style="float: right; margin: 15px" />
 {% endif %}
 
 {{ content }}
