@@ -1,13 +1,13 @@
 ---
 layout: tribute-fund
 title: The Nigel Backhouse Tribute Fund
-tribute_image_path: 
+tribute_image_path: /uploads/nigel-backhouse.jpg
 ---
 
 
-### Donations so far: &pound;18,480.45
+### Donations so far: £18,480.45
 
-&nbsp;
+
 
 19 January 1956 - 16 December 2008
 
@@ -31,13 +31,13 @@ With all love and thanks,
 
 Sharon Backhouse.
 
-&nbsp;
+
 
 #### Messages from the donors
 
-* **Jeremy Connell -&nbsp;**In memory of a very special friend
-* **Carolyn Derry -&nbsp;**In Memory of a lovely man
-* **The Firkins -&nbsp;**Thank you for giving us the opportunity of remembering such a remarkable man in such a meaningful way. Much love.
-* **Mark Huband -&nbsp;**A courageous and generous friend
-* **Adam & Jen Backhouse -**recently got married and very kindly encouraged their friends and family to donate to the CVI instead of buying wedding presents. Over &pound;1700 was raised.
-* **Connor Backhouse**is completing a French cycling challenge - over &pound;1384 has been raised so far.
+* **Jeremy Connell -**In memory of a very special friend
+* **Carolyn Derry -**In Memory of a lovely man
+* **The Firkins -**Thank you for giving us the opportunity of remembering such a remarkable man in such a meaningful way. Much love.
+* **Mark Huband -**A courageous and generous friend
+* **Adam & Jen Backhouse -**recently got married and very kindly encouraged their friends and family to donate to the CVI instead of buying wedding presents. Over £1700 was raised.
+* **Connor Backhouse**is completing a French cycling challenge - over £1384 has been raised so far.
