@@ -13,31 +13,34 @@ hero-image-class: case-studies-hero-image
   {% include ways-to-support-us.html %}
   </div>
 
-<div class="col-xs-12 col-sm-9 case-studies">
-<p class="editable">We have a long list of patients who have done extremely well as patients of Professor Dalgleish. These may have attended his NHS or private clinics, or been referred for trials by him. Here are just a few of their stories. For press enquiries please <a href="/contact-us/">Contact Us </a>.</p>
+  <div class="col-xs-12 col-sm-9 case-studies">
+  <p class="editable">We have a long list of patients who have done extremely well as patients of Professor Dalgleish. These may have attended his NHS or private clinics, or been referred for trials by him. Here are just a few of their stories. For press enquiries please <a href="/contact-us/">Contact Us </a>.</p>
 
-{% assign items = site.case-studies | sort: 'date' %}
-{% for post in items reversed %}
-    <div class="row case-study" id="{{ post.title | url_escape }}">
-      <div class="col-xs-12">
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h3 class="panel-title">{{ post.title }}</h3>
-        </div>
-        <div class="panel-body">
-            {{ post.content }}
-        </div>
+  {% assign items = site.case-studies | sort: 'date' %}
+  {% for post in items reversed %}
+      <div class="row case-study" id="{{ post.title | url_escape }}">
+        <div class="col-xs-12">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">{{ post.title }}</h3>
+          </div>
+          <div class="panel-body">
+              {% if post.image_path %}
+                  <img src="{{ post.image_path }}" alt="{{ post.title }}" style="float: right; margin: 15px" />
+              {% endif %}
+              
+              {{ post.content }}
+          </div>
+          </div>
         </div>
       </div>
-    </div>
-{% endfor %}
+  {% endfor %}
 
+  {% include research-links/research-projects.html %}
+  {% include research-links/achievements.html %}
+  {% include research-links/related-trials.html %}
 
-{% include research-links/research-projects.html %}
-{% include research-links/achievements.html %}
-{% include research-links/related-trials.html %}
-
-</div>
+  </div>
 
 </div>
 {% include latest-news-row.html %}

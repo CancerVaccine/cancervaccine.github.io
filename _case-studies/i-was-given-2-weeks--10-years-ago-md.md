@@ -1,5 +1,5 @@
 ---
-layout: case-study
+layout: post
 title: "'I was given 2 weeks to live 10 years ago!'"
 date: 2016-09-08 20:30:00
 image_path: /uploads/versions/shelley-blewitt---x----1024-748x---.jpg

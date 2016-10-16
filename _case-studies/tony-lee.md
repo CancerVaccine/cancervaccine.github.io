@@ -1,5 +1,5 @@
 ---
-layout: case-study
+layout: post
 title: "'I am delighted to be in remission.'"
 date: 2015-11-05T20:30:00.000Z
 image_path: /uploads/versions/tony-lee---x----370-311x---.jpg

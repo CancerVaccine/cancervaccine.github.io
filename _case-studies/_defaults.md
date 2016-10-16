@@ -1,5 +1,5 @@
 ---
-layout: case-study
+layout: post
 title: name of case study
 date: 
 image_path: 

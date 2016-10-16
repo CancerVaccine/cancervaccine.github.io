@@ -1,5 +1,5 @@
 ---
-layout: case-study
+layout: post
 title: "'I am living a normal life.'"
 date: 2015-11-05T20:30:00.000Z
 image_path: /uploads/versions/peter-cook---x----250-375x---.jpg
