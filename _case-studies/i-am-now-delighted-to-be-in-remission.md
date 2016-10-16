@@ -1,11 +1,9 @@
 ---
-layout: post
+layout: case-study
 title: "'I am living a normal life.'"
 date: 2015-11-05T20:30:00.000Z
+image_path: /uploads/versions/peter-cook---x----250-375x---.jpg
 ---
-
-
-![Peter Cook](/uploads/versions/peter-cook---x----250-375x---.jpg){: .right-image}
 
 Back in 1996 aged just twenty-five, I had mole removed that had some cell abnormalities… cancer wasn’t mentioned. Five years later I developed swollen lymph glands and a lump under my left armpit and was diagnosed as having malignant melanoma. Surgery followed including four craniotomy procedures when lesions were discovered in my brain.
 

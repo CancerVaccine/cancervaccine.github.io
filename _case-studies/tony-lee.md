@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: case-study
 title: "'I am delighted to be in remission.'"
 date: 2015-11-05T20:30:00.000Z
+image_path: /uploads/versions/tony-lee---x----370-311x---.jpg
 ---
 
-
-![Tony Lee](/uploads/versions/tony-lee---x----370-311x---.jpg){: .left-image}Four years ago whilst on holiday a friend pointed out that she did not like the very dark colour of a mole that was behind my ear. On returning I made an appointment to see a skin specialist who looked at the mole and said it should be excised and seemed keen to book me into the day surgery that day. Two weeks later I had the mole removed and was notified it was a malignant melanoma.
+Four years ago whilst on holiday a friend pointed out that she did not like the very dark colour of a mole that was behind my ear. On returning I made an appointment to see a skin specialist who looked at the mole and said it should be excised and seemed keen to book me into the day surgery that day. Two weeks later I had the mole removed and was notified it was a malignant melanoma.
 
 In September 2009, whilst undergoing a routine 3 monthly check I was found to have a second malignant melanoma. A sentinal node biopsy was found to be positive in both axilla. It was also found to contain metastatic deposits of melanoma. This was devastating news for me as this was not what was expected from a thin melanoma.
 
