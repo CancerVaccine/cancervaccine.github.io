@@ -1,13 +1,13 @@
 ---
 layout: tribute-fund
 title: The Mark Aldous Tribute Fund
-tribute_image_path: 
+tribute_image_path: /uploads/mark-aldous.jpg
 ---
 
 
-### Donations so far: &pound;134,890.37
+### Donations so far: £134,890.37
 
-&nbsp;
+
 
 Mark was a fantastic husband and also a brilliant father to his twin sons, Billy and Archie. He was a enormous character, full of charm and fun with a naughty sense of humour. Mark had many, many friends who still miss him and his main love apart from his family was fishing, cooking and nature.
 
