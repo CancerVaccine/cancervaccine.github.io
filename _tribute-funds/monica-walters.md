@@ -1,11 +1,11 @@
 ---
 layout: tribute-fund
 title: The Monica Walters Tribute Fund
-tribute_image_path: 
+tribute_image_path: /uploads/amandaandmother.jpg
 ---
 
 
-### Donations so far: &pound;5,000
+### Donations so far: £5,000
 {: .present-before-paste}
 
 On July 25th 2012 we lost the most inspirational woman in our lives, our mum, Monica Walters. Twenty One days earlier we found out that mum had breast cancer and it had spread to her lungs, bones, liver and brain. Despite this mum was positive, she told me that she didn’t want to upset anyone or cause anyone any trouble. My sister who was 6 months pregnant at the time with mums longed for grandchild and myself spent our time sitting quietly with mum during her final days. Mum passed away in our arms at home unexpectedly the day she was due to start chemotherapy. she didn’t have the chance to fight.
@@ -20,14 +20,14 @@ Mum was such a kind lady and always had time for everyone, a smile on her face a
 The photo above is of mum on her 60th birthday opening up a surprise day out, from Natalie, at a racetrack where she sped around in racing cars, including an Aston Martin, which she loved. Mum loved adventures and got much braver in later life.
 {: .present-before-paste}
 
-&nbsp;
+
 {: .present-before-paste}
 
 #### Messages from the Donors
 
 * Many of Amanda’s friends and family have generously donated in memory of Monica in the last 3 months. Various fundraising events are planned for the coming year - including a Llama Trek and a parachute jump.
 * **Paul Hoskins -**Monica’s nephew - successfully completed the Greenwich Santa run in December in memory of Monica.
-* **Jo & Jen -**completed the Brighton Half Marathon on a very sunny Sunday, 17th February. They have raised over &pound;500 so far.
+* **Jo & Jen -**completed the Brighton Half Marathon on a very sunny Sunday, 17th February. They have raised over £500 so far.
 * **Amy -**is running the Fleet half Marathon in March.
 * **David -**is running the Bupa london 10k run in May.
-* **Amanda -**completed her adventure of sailing across the Atlantic with 6 other girls and has raised over &pound;1000 for this Tribute fund for CVI. Details of their voyage will be in the Spring Newsletter.
+* **Amanda -**completed her adventure of sailing across the Atlantic with 6 other girls and has raised over £1000 for this Tribute fund for CVI. Details of their voyage will be in the Spring Newsletter.
