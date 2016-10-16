@@ -1,16 +1,16 @@
 ---
 layout: tribute-fund
 title: The Pat Mitchell Tribute Fund
-tribute_image_path: 
+tribute_image_path: /uploads/pat-mitchell.jpg
 ---
 
 
-### Donations so far: &pound;1150
+### Donations so far: £1150
 
 Much loved and much missed by Antoinette, James, Giles and Frances.
 
-&nbsp;
+
 
 #### Messages from the donors
 
-* **Raal Harris &nbsp;-&nbsp;**With love and respects
+* **Raal Harris  -**With love and respects
