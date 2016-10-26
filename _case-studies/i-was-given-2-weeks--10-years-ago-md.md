@@ -14,4 +14,4 @@ Later, scans showed that the cancer had spread to my lips, throat, liver and lun
 
 Almost ten years on I am still monitored each year but am able to make plans again and watch my garden grow!&nbsp; I also got married recently.&nbsp; &nbsp;I am so grateful to the research carried out by the ICVI and give thanks every day for my new life free from cancer.
 
-Shelley Blewitt
+Shelley Blewett
