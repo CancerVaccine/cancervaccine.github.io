@@ -18,4 +18,5 @@ gem sources -r https://rubygems.org/
 gem sources -a http://rubygems.org/
 ```
 4. `gem install jekyll`
+5. Remove `Gemfile` (to get things working quickly)
 4. Run Jekyll: `jekyll serve`
