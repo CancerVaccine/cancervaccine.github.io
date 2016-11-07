@@ -10,6 +10,12 @@ This can be viewed on GitHub at the following URL: [http://russet-stork.cloudven
 ## Developing locally
 
 1. Clone the repository
-2. Install Jekyll via Powershelll: `choco install ruby; gem install jekyll`
-3. Remove (or rename) the `Guard` and `Gemfile` files.
+2. Install Jekyll via Powershelll: `choco install ruby`
+3. Restart powershell
+5. Don't use SSL for packages to get things working quickly
+```powershell
+gem sources -r https://rubygems.org/
+gem sources -a http://rubygems.org/
+```
+4. `gem install jekyll`
 4. Run Jekyll: `jekyll serve`
