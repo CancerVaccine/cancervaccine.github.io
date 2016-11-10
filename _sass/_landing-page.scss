@@ -159,6 +159,23 @@ body, h1, h2, h3, h4, h5, h6 {
     }
 }
 
+banner-support {
+  color: #f8f8f8;
+  background: url(/assets/images/homepage/banner-support.jpg) no-repeat center center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  background-position: 0 -80px;
+  text-align: center;
+  position: relative;
+  height: 400px;
+
+  @media (min-width: $screen-sm-min) {
+      background-size: cover;
+  }
+
+}
+
+
 footer {
     background-color: #f8f8f8;
     padding: 16px 0;
