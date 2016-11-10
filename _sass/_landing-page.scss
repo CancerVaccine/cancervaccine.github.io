@@ -159,10 +159,10 @@ body, h1, h2, h3, h4, h5, h6 {
     }
 }
 
-banner-support {
+.banner-support {
   color: #f8f8f8;
   background: url(/assets/images/homepage/banner-support.jpg) no-repeat center center;
-  background-size: fill;
+  background-size: auto;
   background-repeat: no-repeat;
   background-position: 0 -80px;
   text-align: center;
