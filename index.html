@@ -31,6 +31,38 @@ layout: default
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
   }
+
+  .info-boxes .col-md-6{
+    border-style: solid;
+    border-color: #c9c9c9;
+    border-width: 1px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    width: 48%;
+    margin: 3px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .box-content{
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .monthly-donation-selection{
+    border-radius: 4px !important;
+    -webkit-border-radius: 4px !important;
+  }
+
+  .stacked-button{
+    padding-bottom: 5px;
+    padding-right: 5px;
+  }
+
+  .donate-text{
+      font-weight: normal;
+  }
+
 </style>
 
 <div class="body-content">
@@ -56,12 +88,57 @@ layout: default
     <div class="row" style="padding-top: 20px">
       <div class="col-md-6">
         <ul class="nav nav-tabs">
-          <li role="presentation" class="active"><a href="#monthly" data-toggle="tab">Monthly</a></li>
-          <li role="presentation"><a href="#once" data-toggle="tab">Just Once</a></li>
+          <li role="presentation" class="active"><a href="#monthly" data-toggle="tab">Monthly donation</a></li>
+          <li role="presentation"><a href="#once" data-toggle="tab">One-off donation</a></li>
         </ul>
         <div class="tab-content clearfix">
           <div class="tab-pane active" id="monthly">
-            {% include donations/donate-monthly-homepage.html %}
+            <div style="padding: 15px">
+              <p class="editable">
+          			We don't receive government funding. Every pound we spend on life-saving research comes from people like you.
+          		</p>
+              <div class="donation" data-donation-type="monthlyDirectDebit">
+                <div class="input-group">
+                  <div data-toggle="buttons" class="stacked-button">
+
+                    <label class="btn btn-primary monthly-donation-selection" data-value="2" data-option="Option 1">
+            					<input type="radio" autocomplete="off">£2
+            				</label>
+                    <label class="donate-text editable">helps to buy research equipment for our scientists</label>
+                  </div>
+                  <div data-toggle="buttons" class="stacked-button">
+
+                    <label class="btn btn-primary monthly-donation-selection" data-value="8" data-option="Option 2">
+            					<input type="radio" autocomplete="off">£8
+            				</label>
+                    <label class="donate-text editable">will help to fund a clinical study</label>
+                  </div>
+                  <div data-toggle="buttons" class="stacked-button">
+
+                    <label style="display:table">
+            					<span class="input-group-addon">£</span>
+            					<input type="number" min="0" class="form-control currency donation-input" placeholder="100" value="100">
+
+            			</label>
+                  <label class="donate-text editable">All donations help to fund our research, please give what you can</label>
+                  </div>
+                  <div class="row" style="display: flex; align-items: center;">
+              			<div class="col-xs-0 col-md-7 hidden-xs hidden-sm editable">
+              				Monthly contribution
+              			</div>
+              			<div class="col-xs-12 col-md-5">
+              				<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+              					<input type="hidden" name="cmd" value="_s-xclick">
+              					<input type="hidden" name="hosted_button_id" value="2P5Y5BYST6G9Q">
+              					<input type="hidden" name="os0" class="selected-option" value="Option 1" />
+              					<input type="hidden" name="currency_code" value="GBP">
+              					<button class="btn donate-button" type="submit">Donate</button>
+              				</form>
+              			</div>
+              		</div>
+                </div>
+              </div>
+            </div>
           </div>
           <div class="tab-pane" id="once">
             {% include donations/donate-single.html %}
@@ -70,21 +147,29 @@ layout: default
         </div>
         </div>
         <div class="col-md-6">
-          <img class="img-responsive" src="https://files.slack.com/files-pri/T025URY4C-F31EB7D3N/trustfund.jpg" />
-          <p>This is a picture of a dinosaur, it should scale correctly. This dinosaur does not have cancer.</p>
-
+          <img class="img-responsive" src="https://files.slack.com/files-pri/T025URY4C-F31EZCRDJ/trustfund.jpg" />
+          <div class="box-content">
+            <h2 class="editable">Tribute funds</h2>
+            <p>Donate in memory of someone special to you.</p>
+          </div>
        </div>
     </div>
     <div class="row">
       <div class="col-md-6">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">More information &raquo;</a></p>
+          <img class="img-responsive" src="https://files.slack.com/files-pri/T025URY4C-F31EB9HBN/fundraising.jpg" />
+          <div class="box-content">
+            <h2>Start fundraising</h2>
+            <p>Raise some money for us</p>
+            <p><a class="btn btn-default" href="#" role="button">More information &raquo;</a></p>
+          </div>
         </div>
         <div class="col-md-6">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">More information &raquo;</a></p>
+          <img class="img-responsive" src="https://files.slack.com/files-pri/T025URY4C-F31C3LS66/volunteer.jpg" />
+          <div class="box-content">
+            <h2 class="editable">Become a volunteer</h2>
+            <p class="editable">If you have some skills you'd like to share, whether they be fundraising, marketing, social media, web design, research or anything else, we'd love to hear from you.</p>
+            <p><a class="btn btn-default" href="#" role="button">More information &raquo;</a></p>
+          </div>
        </div>
     </div>
   </div>
