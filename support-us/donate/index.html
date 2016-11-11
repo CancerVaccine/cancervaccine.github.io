@@ -23,24 +23,38 @@ hero-image-class: donate-hero-image
   <div class="col-md-12">
     <div class="col-md-12">
       <p class="editable text-justify">We don’t receive any money from the government and rely solely on voluntary donations to raise the £600K we need each
-        year to keep our research work going. You can help us by donating now</p>
-      <ul class="nav nav-tabs">
-          <li role="presentation" class="active"><a href="#monthly" data-toggle="tab">Monthly</a><li>
-          <li role="presentation"><a href="#once" data-toggle="tab">Just Once</a><li>
-      </ul>
-
-      <div class="tab-content clearfix">
-        <div class="tab-pane" id="monthly">
-          monthly
-        </div>
-        <div class="tab-pane" id="once">
-          just once
+      year to keep our research work going. You can help us by donating now</p>
+      <div class="info-boxes" >
+        <div class="container">
+          <div class="row" style="padding-top: 20px">
+            <div class="col-md-6">
+              <ul class="nav nav-tabs">
+              <li role="presentation" class="active"><a href="#monthly" data-toggle="tab">Monthly donation</a><li>
+              <li role="presentation"><a href="#once" data-toggle="tab">One-off donation</a><li>
+              </ul>
+              <div class="tab-content clearfix">
+                <div class="tab-pane active" id="monthly">
+                {% include donations/donate-monthly.html %}
+                </div>
+                <div class="tab-pane" id="once">
+                {% include donations/donate-single.html %}
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6" >
+            {% include support-us-links/tribute-funds.html %}
+            </div>
+          </div>
+          <div class="row" style="padding-top: 20px">
+            <div class="col-md-6">
+            {% include support-us-links/fundraise.html %}
+            </div>
+            <div class="col-md-6">
+            {% include support-us-links/volunteer.html %}
+            </div>
+            </div>
         </div>
       </div>
-      {% include support-us-links/tribute-funds.html %}
-      {% include support-us-links/fundraise.html %}
-      {% include support-us-links/volunteer.html %}
-
     </div>
   </div>
 </div>
