@@ -1,7 +1,7 @@
 #Cancer Vaccine Institute (CVI)
 
 ##Contributing
-Please follow the guidelines from [HERE](/CancerVaccine/cancervaccine.github.io/blob/master/docs/CVI%20Page%20designs.pdf)
+Please follow the guidelines from [HERE](/docs/CVI%20Page%20designs.pdf)
 
 This is a remake of the [Cancer Vaccine Institute](http://www.cancervaccine.org.uk/) website, using [jekyll-bootstrap-sass](https://github.com/irmbrady/jekyll-bootstrap-sass).
 
