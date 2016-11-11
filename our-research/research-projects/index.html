@@ -19,14 +19,20 @@ hero-image-class: research-project-hero-image
     <div class="row">
       <div class="col-xs-12">
         <p class="editable">One of the ways in which we are really unique is that we can direct our research interests so specifically. Each and every one of our scientists works on a research project which is informed in some way by Professor Dalgleish&rsquo;s interests and the treatment he gives patients. Cancer patients are his inspiration, and the reason the ICVI exists.<br /><br />It costs the ICVI around &pound;400 each hour to keep our current research team working on their projects. If you would like to donate to this amount please click here.<br /><br />Here are some of our current research projects, as well as past successes. These are written for the layman. If you would like more information, please email us and we will send it to you.<br />&nbsp;</p>
-          <ul class="list-unstyled">
             {% for post in site.research-projects %}
-              <li class="project-item">
-                <h4>{{ post.title }}</h4>
-                <p>{{ post.content }}</p>
-            </li>
+            <div class="row" id="{{ post.title | url_escape }}">
+              <div class="col-xs-12">
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h3 class="panel-title">{{ post.title }}</h3>
+                </div>
+                <div class="panel-body">
+                    {{ post.content }}
+                </div>
+                </div>
+              </div>
+            </div>
             {% endfor %}
-          </ul>
       </div>
     </div>
 
