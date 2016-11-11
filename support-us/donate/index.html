@@ -24,29 +24,23 @@ hero-image-class: donate-hero-image
     <div class="col-md-12">
       <p class="editable text-justify">We don’t receive any money from the government and rely solely on voluntary donations to raise the £600K we need each
         year to keep our research work going. You can help us by donating now</p>
-      <div class="row" id="monthly-donation">
-        <div class="col-xs-12">
-          <div class="panel panel-default">
-            <div class="panel-body">
-              {% include donations/donate-monthly.html %}
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row" id="one-off-donation">
-        <div class="col-xs-12">
-          <div class="panel panel-default">
-            <div class="panel-body">
-              {% include donations/donate-single.html %}
-            </div>
-          </div>
-        </div>
-      </div>
+      <ul class="nav nav-tabs">
+          <li role="presentation" class="active"><a href="#monthly" data-toggle="tab">Monthly</a><li>
+          <li role="presentation"><a href="#once" data-toggle="tab">Just Once</a><li>
+      </ul>
 
+      <div class="tab-content clearfix">
+        <div class="tab-pane" id="monthly">
+          monthly
+        </div>
+        <div class="tab-pane" id="once">
+          just once
+        </div>
+      </div>
       {% include support-us-links/tribute-funds.html %}
       {% include support-us-links/fundraise.html %}
       {% include support-us-links/volunteer.html %}
-      
+
     </div>
   </div>
 </div>
