@@ -28,28 +28,30 @@ hero-image-class: donate-hero-image
         <div class="container">
           <div class="row" style="padding-top: 20px">
             <div class="col-md-6">
-              <ul class="nav nav-tabs">
-              <li role="presentation" class="active"><a href="#monthly" data-toggle="tab">Monthly donation</a><li>
-              <li role="presentation"><a href="#once" data-toggle="tab">One-off donation</a><li>
-              </ul>
-              <div class="tab-content clearfix">
-                <div class="tab-pane active" id="monthly">
-                {% include donations/donate-monthly.html %}
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    {% include donations/donate-monthly.html %}
+                  </div>
                 </div>
-                <div class="tab-pane" id="once">
-                {% include donations/donate-single.html %}
+            </div>
+            <div class="col-md-6">
+              <div class="panel panel-default">
+                <div class="panel-body">
+                  {% include donations/donate-single.html %}
                 </div>
               </div>
             </div>
-            <div class="col-md-6" >
+          </div>
+        </div>
+      </div>
+          <div class="row" style="padding-top: 20px">
+            <div class="col-md-4" >
             {% include support-us-links/tribute-funds.html %}
             </div>
-          </div>
-          <div class="row" style="padding-top: 20px">
-            <div class="col-md-6">
+            <div class="col-md-4">
             {% include support-us-links/fundraise.html %}
             </div>
-            <div class="col-md-6">
+            <div class="col-md-4">
             {% include support-us-links/volunteer.html %}
             </div>
             </div>
