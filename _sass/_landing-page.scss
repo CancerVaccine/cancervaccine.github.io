@@ -14,9 +14,8 @@ body, h1, h2, h3, h4, h5, h6 {
 
 .intro-header {
     color: #f8f8f8;
-    background: #005262 url(/assets/images/homepage/banner-support.jpg);
+    background: #005262 url(/assets/images/homepage/happy-lady.jpg);
     background-repeat: no-repeat;
-    background-position: 0 -80px;
     background-size: cover;
     text-align: center;
     margin-top: $navbar-height-mobile;
@@ -91,9 +90,8 @@ body, h1, h2, h3, h4, h5, h6 {
     background-color: #005262;
     color: #fff;
     padding: 20px 0 50px;
-    .lead, h2 {
-        text-align: center;
-    }
+    margin-top: 30px;
+
     .btn {
         color: #2b6e8b;
         background-color: #fff;

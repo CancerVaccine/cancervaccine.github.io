@@ -15,7 +15,7 @@ layout: default
   }
 
   .banner-support {
-    background: url(/assets/images/homepage/banner-support.jpg) no-repeat center center;
+    background: url("/assets/images/homepage/banner-support.jpg") no-repeat center center;
     background-size: cover;
     background-position-y: -140px;
   }
@@ -49,10 +49,10 @@ layout: default
     padding-right: 15px;
   }
 
-  .monthly-donation-selection{
+  /*.monthly-donation-selection{
     border-radius: 4px !important;
     -webkit-border-radius: 4px !important;
-  }
+  }*/
 
   .stacked-button{
     padding-bottom: 5px;
@@ -61,6 +61,27 @@ layout: default
 
   .donate-text{
       font-weight: normal;
+  }
+
+  .homepage-box-top{
+    height: 340px;
+  }
+
+  .homepage-box-bottom{
+    height: 300px;
+  }
+
+  .home-header{
+    color: #2b6e8b
+  }
+
+  .home-header-link{
+    color: #2b6e8b;
+    text-decoration: underline;
+  }
+
+  .home-text{
+    font-weight: 300;
   }
 
 </style>
@@ -86,91 +107,71 @@ layout: default
 <div class="info-boxes ">
   <div class="container">
     <div class="row" style="padding-top: 20px">
-      <div class="col-md-6">
-        <ul class="nav nav-tabs">
-          <li role="presentation" class="active"><a href="#monthly" data-toggle="tab">Monthly donation</a></li>
-          <li role="presentation"><a href="#once" data-toggle="tab">One-off donation</a></li>
-        </ul>
-        <div class="tab-content clearfix">
-          <div class="tab-pane active" id="monthly">
-            <div style="padding: 15px">
-              <p class="editable">
-          			We don't receive government funding. Every pound we spend on life-saving research comes from people like you.
-          		</p>
-              <div class="donation" data-donation-type="monthlyDirectDebit">
-                <div class="input-group">
-                  <div data-toggle="buttons" class="stacked-button">
-
-                    <label class="btn btn-primary monthly-donation-selection" data-value="2" data-option="Option 1">
-            					<input type="radio" autocomplete="off">£2
-            				</label>
-                    <label class="donate-text editable">helps to buy research equipment for our scientists</label>
-                  </div>
-                  <div data-toggle="buttons" class="stacked-button">
-
-                    <label class="btn btn-primary monthly-donation-selection" data-value="8" data-option="Option 2">
-            					<input type="radio" autocomplete="off">£8
-            				</label>
-                    <label class="donate-text editable">will help to fund a clinical study</label>
-                  </div>
-                  <div data-toggle="buttons" class="stacked-button">
-
-                    <label style="display:table">
-            					<span class="input-group-addon">£</span>
-            					<input type="number" min="0" class="form-control currency donation-input" placeholder="100" value="100">
-
-            			</label>
-                  <label class="donate-text editable">All donations help to fund our research, please give what you can</label>
-                  </div>
-                  <div class="row" style="display: flex; align-items: center;">
-              			<div class="col-xs-0 col-md-7 hidden-xs hidden-sm editable">
-              				Monthly contribution
-              			</div>
-              			<div class="col-xs-12 col-md-5">
-              				<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-              					<input type="hidden" name="cmd" value="_s-xclick">
-              					<input type="hidden" name="hosted_button_id" value="2P5Y5BYST6G9Q">
-              					<input type="hidden" name="os0" class="selected-option" value="Option 1" />
-              					<input type="hidden" name="currency_code" value="GBP">
-              					<button class="btn donate-button" type="submit">Donate</button>
-              				</form>
-              			</div>
-              		</div>
-                </div>
+      <div class="col-md-6 homepage-box-top">
+        <div class="row" id="monthly-donation">
+          <div class="col-xs-12">
+            <div class="panel ">
+              <div class="panel-body">
+                {% include donations/donate-monthly-homepage.html %}
               </div>
             </div>
           </div>
-          <div class="tab-pane" id="once">
-            {% include donations/donate-single.html %}
+        </div>
+        <div class="row" id="one-off-donation">
+          <div class="col-xs-12">
+            <div class="panel">
+              <div class="panel-body">
+                {% include donations/donate-single-homepage.html %}
+              </div>
+            </div>
           </div>
-
         </div>
         </div>
-        <div class="col-md-6">
-          <img class="img-responsive" src="https://files.slack.com/files-pri/T025URY4C-F31EZCRDJ/trustfund.jpg" />
+        <div class="col-md-6 homepage-box-top">
+          <img class="img-responsive" src=/assets/images/homepage/trustfund.jpg />
           <div class="box-content">
-            <h2 class="editable">Tribute funds</h2>
-            <p>Donate in memory of someone special to you.</p>
+            <h2 class="editable"><a href="/support-us/tribute-funds" class="home-header">Set up a tribute fund</a></h2>
+            <p class="editable">Setting up a tribute fund is a unique and lasting way to honour and remember someone special to you. <a href="/support-us/tribute-funds" class="home-header-link">Find out more...</a></p>
           </div>
        </div>
     </div>
     <div class="row">
-      <div class="col-md-6">
-          <img class="img-responsive" src="https://files.slack.com/files-pri/T025URY4C-F31EB9HBN/fundraising.jpg" />
+      <div class="col-md-6 homepage-box-bottom">
+          <img class="img-responsive" src=/assets/images/homepage/fundraising.jpg />
           <div class="box-content">
-            <h2>Start fundraising</h2>
-            <p>Raise some money for us</p>
-            <p><a class="btn btn-default" href="#" role="button">More information &raquo;</a></p>
+            <h2 class="editable"><a href="support-us/fundraise" class="home-header">Start fundraising</a></h2>
+            <p class="editable">We are lucky to have so many fantastic supporters who work hard throughout the year raising money in a variety of ways. <a href="support-us/fundraise" class="home-header-link">Find out more...</a></p>
           </div>
         </div>
-        <div class="col-md-6">
-          <img class="img-responsive" src="https://files.slack.com/files-pri/T025URY4C-F31C3LS66/volunteer.jpg" />
+        <div class="col-md-6 homepage-box-bottom">
+          <img class="img-responsive" src=/assets/images/homepage/volunteer.jpg/>
           <div class="box-content">
-            <h2 class="editable">Become a volunteer</h2>
-            <p class="editable">If you have some skills you'd like to share, whether they be fundraising, marketing, social media, web design, research or anything else, we'd love to hear from you.</p>
-            <p><a class="btn btn-default" href="#" role="button">More information &raquo;</a></p>
+            <h2 class="editable"><a href="/support-us/volunteer" class="home-header">Become a volunteer</a></h2>
+            <p class="editable">If you have some skills you'd like to share, whether they be fundraising, marketing, social media, web design, research or anything else, we'd love to hear from you. <a href="/support-us/volunteer" class="home-header-link">Find out more...</a></p>
           </div>
        </div>
+    </div>
+  </div>
+</div>
+
+<div class="content-section-a">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7 col-xs-12">
+        <h2 class="editable">I was given two weeks. 10 years ago!</h2>
+        <p class="lead editable home-text">Standing hand on hip one day in 2006 I felt a lump the size of
+a grape on my right side.  I knew it would change everything.</p><p class="lead editable home-text">
+
+It wasn’t the first time.  Aged 26 I was diagnosed with a melanoma.
+Thankfully, the cancer hadn’t spread and the mole was removed.
+At each annual checkup I began to relax.  By the time... <a href="/our-research/case-studies/">read more</a></p>
+          <div class="col-xs-12">
+            <a href="/our-research/research-projects" class="btn btn-large">View our research</a>
+          </div>
+      </div>
+      <div class="col-md-5 col-xs-12">
+        <img class="img-responsive" src=/assets/images/case-studies/shelley-blewitt.jpg />
+      </div>
     </div>
   </div>
 </div>
