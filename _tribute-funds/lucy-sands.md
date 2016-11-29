@@ -5,7 +5,7 @@ tribute_image_path: /uploads/lucy2.jpg
 ---
 
 
-## Donations so far: &pound;86,671.09
+## Donations so far: &pound;88,263.19
 
 ### &nbsp;
 
@@ -15,7 +15,6 @@ tribute_image_path: /uploads/lucy2.jpg
 * [Lucy Sands Tribute Fund - Three Peaks Challenge](https://youtu.be/Yykplvh-1wQ)
 * [Lucy Sands Tribute Fund - Clay Shoot](https://youtu.be/aPxBhqQumnk)
 * [Follow the Lucy Sands Tribute Fund on Facebook](http://www.facebook.com/LucySandsTributeFund)
-
 
 #### About Lucy
 
@@ -31,7 +30,9 @@ I am firmly of the belief that there is much more that this vaccine can give and
 
 > One year on, over &pound;40,000 has been raised in her name to fund research into new methods of treating melanoma and other cancers.
 >
+>
 > I am incredibily proud of all the people who have helped with this fundraising and am overwhelmed by the generosity of so many that have made this possible.
+>
 >
 > Thank-you
 > <br>George Bouwens, December 2012
@@ -84,6 +85,7 @@ I am firmly of the belief that there is much more that this vaccine can give and
 * **Shoot in memory of Lucy**- in early 2015 - &pound;600 was donated from this event, and a special thanks goes out to George Matts, who organised the event and Doug McCarlie - the game keeper and his team of beaters for laying on such great birds; and many of Lucy’s friends from Reading University.
 * **Miranda, Ian and Henry Russell** raised &pound;350 from selling their 2014 honey crop, in memory of Lucy.
 * **Lollipops Theatre group** held a music evening and donated their raffle collection to the Lucy Sands Tribute Fund, raising &pound;282.75 in June 2015
-* **Liz Sands**took part in the village open gardens and raised &pound;199.40, by holding a tea and cake stall in June 2015.
-* **Liz Sands**organised a Neal’s Yard Beauty evening, raising &pound;1,100.50. Many thanks to her friends Emma & Richard Foxley who hosted the event and to Neal’s Yard who donated 10% of sales to Lucy’s Tribute fund. Thanks to all those who attended this event and for all the donations that were received.
+* **Liz Sands&nbsp;**took part in the village open gardens and raised &pound;199.40, by holding a tea and cake stall in June 2015.
+* **Liz Sands&nbsp;**organised a Neal’s Yard Beauty evening, raising &pound;1,100.50. Many thanks to her friends Emma & Richard Foxley who hosted the event and to Neal’s Yard who donated 10% of sales to Lucy’s Tribute fund. Thanks to all those who attended this event and for all the donations that were received.
 * **Creaton Grange Shoot**- A further &pound;400 was donated in memory of Lucy, following this annual event, many thanks to John Matts for organising again.
+* **Chillington Christmas Fair** - Mr & Mrs John Gifford very kindly offered Mrs Liz Sands a stall at this event where she raised &pound;704.60. Liz organised a raffle and cake stall, as well as selling ICVI Christmas cards. Many thanks to all the other stall holders who very generously each donated a prize to the raffle.
