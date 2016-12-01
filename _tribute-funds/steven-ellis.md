@@ -5,7 +5,7 @@ tribute_image_path: /uploads/steven-bryn-ellis.jpg
 ---
 
 
-## &pound;38,681.35
+## &pound;38,806.35
 
 #### To all of Steve’s friends
 
