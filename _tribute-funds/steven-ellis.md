@@ -5,7 +5,7 @@ tribute_image_path: /uploads/steven-bryn-ellis.jpg
 ---
 
 
-## &pound;38,806.35
+## &pound;39,075.10
 
 #### To all of Steve’s friends
 
@@ -139,3 +139,4 @@ Steve’s family have been supporting the Cancer Vaccine Institute through vario
 * Kind donation from sale of eBay items by **Ian Forsythe.**
 * **Duke of Edinburgh Hotel in Barrow in Furness&nbsp;**have raised &pound;85. Many thanks to all the patrons who give so generously. They have raised &pound;1,195.39 in total for Steve’s tribute fund over the years.
 * **K2B Walk**- once again Barry's friends completed this walk, raising an impressive &pound;950. &nbsp;Many thanks to all those who completed the walk and those who gave so generously.
+* S**ale of a pair of 1947 Lea Francis Sport saloon car headlamps** owned by Ray Ellis and Christmas cards made by Sue Forsythe raised &pound;205 towards Steven's Tribute Site. &nbsp;&nbsp;
