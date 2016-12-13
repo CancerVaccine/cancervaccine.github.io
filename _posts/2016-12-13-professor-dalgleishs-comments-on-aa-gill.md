@@ -2,7 +2,7 @@
 layout: post
 title: "Professor Dalgleish's comments on AA Gill"
 date: 2016-12-13 13:50:00
-author: Marie
+author:
 ---
 
 
@@ -18,7 +18,7 @@ These drugs are known as Ipilimumab, Nivolimumab and Pembrolizumab. These drugs 
 
 It would appear that there was a special case made for one of these drugs for AA Gill which he did eventually receive, the delay may have been due to the detail about whether his cancer was the type already approved for NHS use or not. ( I suspect it was not the type approved, hence the delay)
 
-Nevertheless , this should not detract from the fact that the idea of an immunotherapy being available on the NHS a few years ago would have been unimaginable.  Not only are some drugs already available on the NHS but there are now 100's of trials with different types of immunotherapy in late stage trials, involving many tumour types literally from head to toe. I believe the real future of these drugs is combining them in the correct combinations and sequence relative to other treatment types such as surgery and chemotherapy. In the future Immunotherapy will be available for most cancers and will contribute to a significant improvement of outcome.
+Nevertheless , this should not detract from the fact that the idea of an immunotherapy being available on the NHS a few years ago would have been unimaginable.  Not only are some drugs already available on the NHS but there are now 100’s of trials with different types of immunotherapy in late stage trials, involving many tumour types literally from head to toe. I believe the real future of these drugs is combining them in the correct combinations and sequence relative to other treatment types such as surgery and chemotherapy. In the future Immunotherapy will be available for most cancers and will contribute to a significant improvement of outcome.
 
 However, one important fact is these treatments are VERY EXPENSIVE at up to £100K a year. The NHS now spends over a £1Billion on just 4 drugs.
 
