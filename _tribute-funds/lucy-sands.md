@@ -5,7 +5,7 @@ tribute_image_path: /uploads/lucy2.jpg
 ---
 
 
-## Donations so far: &pound;88,263.19
+## Donations so far: &pound;90,265.92
 
 ### &nbsp;
 
