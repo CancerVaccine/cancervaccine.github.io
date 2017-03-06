@@ -5,7 +5,7 @@ tribute_image_path: /uploads/steven-bryn-ellis.jpg
 ---
 
 
-## &pound;39,075.10
+## &pound;39,297.65
 
 #### To all of Steve’s friends
 
@@ -30,7 +30,7 @@ Professor Dalgleish and his team are working on various aspects of improving the
 Steve’s family would like to say thank you for all the anonymous cash donations, received by the undertakers, in memory of Steve. These amounted to &pound;467.00.
 {: .present-before-paste}
 
-Steve’s family have been supporting the Cancer Vaccine Institute through various fundraising initiatives and have so far raised over **&pound;26,000.00**
+Steve’s family have been supporting the Cancer Vaccine Institute through various fundraising initiatives and have so far raised nearly&nbsp;**&pound;40,000.00**
 {: .present-before-paste}
 
 #### Messages from donors
@@ -140,3 +140,4 @@ Steve’s family have been supporting the Cancer Vaccine Institute through vario
 * **Duke of Edinburgh Hotel in Barrow in Furness&nbsp;**have raised &pound;85. Many thanks to all the patrons who give so generously. They have raised &pound;1,195.39 in total for Steve’s tribute fund over the years.
 * **K2B Walk**- once again Barry's friends completed this walk, raising an impressive &pound;950. &nbsp;Many thanks to all those who completed the walk and those who gave so generously.
 * S**ale of a pair of 1947 Lea Francis Sport saloon car headlamps** owned by Ray Ellis and Christmas cards made by Sue Forsythe raised &pound;205 towards Steven's Tribute Site. &nbsp;&nbsp;
+* **Pat and Doug Angel** - made a donation to remember Steven's Birthday on 11th March. &nbsp;
